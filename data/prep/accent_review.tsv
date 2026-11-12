@@ -1,0 +1,619 @@
+agreement	id	text	phrases	ps
+0/1	EMOTION100_084	ジャデャクシュ。	ジャデャクシュ[LHHL]	ʥaꜛdjakɯꜜɕɨ.
+0/1	EMOTION100_092	アンツィオ。	アンツィオ[LHHH]	aꜛɴʦʲio.
+0/1	EMOTION100_100	ラーテャン。	ラーテャン[HLLL]	ɾaꜜːtjaɴ.
+0/3	RECITATION324_060	チョコの在庫あったかな？	チョコの[HLL] 在庫[LHH] あったかな[HLLLL]	ʨoꜜkono ʣaꜛiko aꜜʔtakana?
+0/2	RECITATION324_121	ボヤですんでよかった。	ボヤですんで[HLLLLL] よかった[HLLL]	boꜜjadesɨnde joꜜkaʔta.
+0/3	accent_0152	困ったなあ、どうしよう。	困ったなあ[LHLLLL] どう[HL] しよう[LHH]	koꜛmaꜜʔtanaː, doꜜː ɕiꜛjoː.
+0/1	accent_0157	はい、そうです。	はい[HL] そうです[LHHH]	haꜜi, soꜛːdesɨ.
+1/5	RECITATION324_271	なんだそりゃ、到底無理なお願いだ。	なんだ[HLL] そりゃ[LH] 到底[LHHH] 無理な[HLL] お願いだ[LHHHH]	naꜜnda soꜛɾʲa, toꜛːteː mɯꜜɾʲina oꜛneɡaida.
+1/4	RECITATION324_106	チョウチョと仲良くなるんだから。	チョウチョと[HLLL] 仲良く[HLLL] なる[HL] んだから[HLLL]	ʨoꜜːʨoto naꜜkajokɯ naꜜɾɯ nꜜdakaɾa.
+1/4	RECITATION324_219	鉛筆は折れやすくて不便です。	鉛筆は[LHHHH] 折れやすくて[LHLLLL] 不便です[HLLLL]	eꜛmpʲiʦɨβa oꜛɾeꜜjasɨkɯte ɸɯꜜbendesɨ.
+1/4	RECITATION324_253	彼女と一緒にいると落ち着きます。	彼女と[HLLL] 一緒に[LHHH] いると[LHH] 落ち着きます[LHHHHL]	kaꜜnoʥoto iꜛʔɕoɲi iꜛɾɯto oꜛʨiʦɨkʲimaꜜsɨ.
+1/4	RECITATION324_286	テョさんはズィーブラを見た。	テョさんは[HLLL] ズィーブラを[LHLLL] 見た[HL]	tjoꜜsaɴβa ziꜛːꜜbɯɾao mʲiꜜta.
+1/4	accent_0005	秋の空き地にコスモスが咲いていた。	秋の[HLL] 空き地に[LHHH] コスモスが[HLLLL] 咲いて[LHH] いた[LH]	aꜜkʲino aꜛkʲiʨiɲi koꜜsɨmosɨɡa saꜛite iꜛtaꜜ.
+1/4	accent_0105	三月三日はひな祭りです。	三月[HLLL] 三日は[LHHH] ひな祭りです[LHHLLLL]	saꜜŋɡaʦɨ mʲiꜛʔkaβa çiꜛnamaꜜʦɨɾʲidesɨ.
+1/4	accent_0159	えっと、何の話だっけ？	えっと[LHH] 何の[HLL] 話だっけ[LHHLLL]	eꜛʔto, naꜜɲino haꜛnaɕiꜜdaʔke?
+1/4	T009_2	2、3分程お時間大丈夫でしょうか？	二[H] 三分程[LHHHHH] お[L] 時間[LHH] 大丈夫でしょうか[LHHLLLLLL]	ɲiꜜ, saꜛmpɯɴhodo o ʥiꜛkan daꜛiʥoꜜːbɯdeɕoːka?
+2/7	RECITATION324_059	ポピュラーなソフトを使いセキュアな状態を復旧する。	ポピュラーな[HLLLL] ソフトを[HLLL] 使い[LHH] セキュアな[HLLL] 状態を[LHHHH] 復旧[LHHH] する[LH]	poꜜpʲɨɾaːna soꜜɸɯtoo ʦɨꜛkai seꜜkʲɨana ʥoꜛːtaio ɸɯꜛʔkʲɨː sɨꜛɾɯ.
+2/7	RECITATION324_136	マリー・ロジェはパヴェサンタンの家を出た。	マリー[HLL] ロジェは[LHH] パヴェサンタンの[LHHLLLL] 家を[LHL] 出た[LH]	maꜜɾʲiː ɾoꜛʥeβa paꜛbesaꜜntanno iꜛeꜜo deꜛtaꜜ.
+2/7	RECITATION324_248	色々隠して今日まで犯人と共にいる。	色々[LHHH] 隠して[LHHL] 今日まで[HLLL] 犯人と[HLLLL] 共に[LHH] いる[LH]	iꜛɾoiɾo kaꜛkɯɕiꜜte kʲoꜜːmade haꜜɲɲinto toꜛmoɲi iꜛɾɯ.
+2/7	RECITATION324_278	聞きつけて、件の嫗、ぶるぶるとかぶりをふった。	聞きつけて[LHHHL] 件の[HLL] 嫗[HLL] ぶるぶるとか[HLLLLL] ぶりを[HLL] ふった[HLL]	kʲiꜛkʲiʦɨkeꜜte, keꜜnno oꜜːna, bɯꜜɾɯbɯɾɯtoka bɯꜜɾʲio ɸɯꜜʔta.
+2/7	accent_0114	百年前に建てられた家です。	百年[LHLL] 前に[HLL] 建てられた[LHLLL] 家です[LHLL]	çaꜛkɯꜜnem maꜜeɲi taꜛteꜜɾaɾeta iꜛeꜜdesɨ.
+1/3	RECITATION324_275	盆栽は風情がある。	盆栽は[LHHHH] 風情が[HLLL] ある[HL]	boꜛɴsaiβa ɸɯꜜʣeːɡa aꜜɾɯ.
+2/6	accent_0047	猫が日なたで気持ちよさそうに寝ている。	猫が[HLL] 日なたで[LHHH] 気持ちよさそうに[LHHHHLLL] 寝て[HL] いる[LH]	neꜜkoɡa çiꜛnatade kʲiꜛmoʨijosaꜜsoːɲi neꜜte iꜛɾɯ.
+2/6	accent_0054	飛行機の窓から富士山が見えた。	飛行機の[LHLLL] 窓から[HLLL] 富士山が[HLLLL] 見えた[LHL]	çiꜛkoꜜːkʲino maꜜdokaɾa ɸɯꜜʥisaŋɡa mʲiꜛeꜜta.
+1/3	accent_0130	ありがとう、助かったよ。	ありがとう[LHLLL] 助かったよ[LHHLLL]	aꜛɾʲiꜜɡatoː, taꜛsɨkaꜜʔtajo.
+1/3	accent_0145	それって、どういう意味？	それって[LHHH] どういう[HLLL] 意味[HL]	soꜛɾeʔte, doꜜːjɯɯ iꜜmʲi?
+5/13	EMOTION100_056	トップのリーダーは犬の行動学ではアルファと呼ばれ、以下ベータ、ガンマと続きます。	トップの[HLLL] リーダーは[HLLLL] 犬の[LHL] 行動学では[LHHHLLLL] アルファと[HLLL] 呼ばれ[LHH] 以下ベータ[LHHLL] ガンマと[LHLL] 続きます[LHHHL]	toꜜʔpɯno ɾʲiꜜːdaːβa iꜛnɯꜜno koꜛːdoːꜜɡakɯdeβa aꜜɾɯɸato joꜛbaɾe, iꜛkabeꜜːta, ɡaꜛmꜜmato ʦɨꜛzɨkʲimaꜜsɨ.
+10/26	Y015_1	有効期限の28日前時点でログインパスワードをご入力ください、また新旧両方の証明書が残っている場合は古い証明書の削除をお願いし、	有効[LHHH] 期限の[HLLL] 二十[HLL] 八日[LHLL] 前[HL] 時点で[HLLL] ログインパスワードを[LHHHHHHLLL] ご入力[LHLLL] ください[LHHL] また[LH] 新旧両方の[LHHHHLLLL] 証明書が[LHHHHH] 残って[LHLL] いる[LH] 場合は[LHHH] 古い[LHL] 証明書の[LHHHHH] 削除を[HLLL] お願い[LHHH] し[L]	jɯꜛːkoː kʲiꜜɡenno ɲiꜜʥɨː haꜛʨiꜜɲiʨi maꜜe ʥiꜜtende ɾoꜛɡɯimpasɨβaꜜːdoo ɡoꜛɲɨꜜːɾʲokɯ kɯꜛdasaꜜi, maꜛta ɕiꜛŋkʲɨːɾʲoꜜːhoːno ɕoꜛːmeːɕoɡa noꜛkoꜜʔte iꜛɾɯ baꜛaiβa ɸɯꜛɾɯꜜi ɕoꜛːmeːɕono saꜜkɯʥoo oꜛneɡai ɕi,
+7/18	EMOTION100_052	事業を継続しながら、事業が依拠している不動産を、切り売りしていくことなど非現実的なのだ。	事業を[HLLL] 継続[LHHH] しながら[LHLL] 事業が[HLLL] 依拠[HL] して[LH] いる[LH] 不動産を[LHLLLL] 切り売り[LHHH] して[LH] いく[LH] ことなど[LHLL] 非現実的な[LHHHHLLL] のだ[LH]	ʥiꜜɡʲoːo keꜛːʣokɯ ɕiꜛnaꜜɡaɾa, ʥiꜜɡʲoːɡa iꜜkʲo ɕiꜛte iꜛɾɯ ɸɯꜛdoꜜːsaɴo, kʲiꜛɾʲiɯɾʲi ɕiꜛte iꜛkɯ koꜛtoꜜnado çiꜛɡeɲʥiʦɨꜜtekʲina noꜛda.
+2/5	EMOTION100_041	本日の映画は、サウンド・オブ・ミュージックでございます。	本日の[HLLLL] 映画は[LHHH] サウンド[LHHH] オブ[LH] ミュージックでございます[LHHHHHHHHHL]	hoꜜɲʥiʦɨno eꜛːɡaβa, saꜛɯndo oꜛbɯ mʲɨꜛːʥiʔkɯdeɡoʣaimaꜜsɨ.
+2/5	EMOTION100_057	ウィーンまでは歩くとどのくらいかかりますか？	ウィーンまでは[HLLLLL] 歩くと[LHLL] どのくらい[HLLLL] かかりますか[LHHHLL]	βiꜜːmmadeβa aꜛɾɯꜜkɯto doꜜnokɯɾai kaꜛkaɾʲimaꜜsɨka?
+2/5	RECITATION324_033	四国でお遍路を行脚しよう。	四国で[HLLL] お遍路を[LHLLL] 行脚[HLL] しよう[LHH]	ɕiꜜkokɯde oꜛheꜜnɾoo aꜜŋɡʲa ɕiꜛjoː.
+2/5	RECITATION324_034	いつもの通りギャンギャン泣き出しました。	いつもの[HLLL] 通り[LHH] ギャンギャン[HLLL] 泣き出しました[LHHHHLL]	iꜜʦɨmono toꜛːɾʲiꜜ ɡʲaꜜŋɡʲan naꜛkʲidaɕimaꜜɕita.
+2/5	RECITATION324_108	川の中流に集落がある。	川の[LHL] 中流に[LHHHH] 集落が[LHHHH] ある[HL]	kaꜛβaꜜno ʨɨꜛːɾʲɨːɲi ɕɨꜛːɾakɯɡa aꜜɾɯ.
+2/5	RECITATION324_192	夫人が仰天したのも無理はない。	夫人が[LHHH] 仰天[LHHH] した[LH] のも[LH] 無理はない[HLLLL]	ɸɯꜛʥiŋɡa ɡʲoꜛːteɴ ɕiꜛtaꜜ noꜛmo mɯꜜɾʲiβanai.
+2/5	RECITATION324_211	骨子をしっかりと組み立てる。	骨子を[HLLL] しっかりと[LHHLL] 組み立てる[LHHHL]	koꜜʔɕio ɕiꜛʔkaꜜɾʲito kɯꜛmʲitateꜜɾɯ.
+2/5	accent_0051	緑の多い公園を散歩した。	緑の[HLLL] 多い[HLL] 公園を[LHHHH] 散歩[LHH] した[LH]	mʲiꜜdoɾʲino oꜜːi koꜛːeɴo saꜛmpo ɕiꜛtaꜜ.
+2/5	accent_0091	道に迷ってしまいました。	道に[LHH] 迷って[LHLL] しまいました[LHHHLL]	mʲiꜛʨiɲi maꜛjoꜜʔte ɕiꜛmaimaꜜɕita.
+4/10	accent_0174	昔の写真を見ていたら、懐かしい気持ちでいっぱいになった。	昔の[LHHH] 写真を[LHHH] 見て[HL] いたら[LHL] 懐かしい[LHHHL] 気持ちで[LHHH] いっぱいに[HLLLL] なった[HLL]	mɯꜛkaɕino ɕaꜛɕiɴo mʲiꜜte iꜛtaꜜɾa, naꜛʦɨkaɕiꜜi kʲiꜛmoʨide iꜜʔpaiɲi naꜜʔta.
+3/7	RECITATION324_142	プレゼントをギャロウェイさんに渡してください。	プレゼントを[LHLLLL] ギャロ[HL] ウェイさんに[HLLLL] 渡して[LHHH] ください[LHHL]	pɯꜛɾeꜜʣentoo ɡʲaꜜɾo βeꜜisaɲɲi βaꜛtaɕite kɯꜛdasaꜜi.
+3/7	RECITATION324_226	社務所の人の話に嘘はなかった。	社務所の[LHHL] 人の[LHH] 話に[LHHL] 嘘は[HLL] なかった[HLLL]	ɕaꜛmɯɕoꜜno çiꜛtono haꜛnaɕiꜜɲi ɯꜜsoβa naꜜkaʔta.
+3/7	RECITATION324_324	チュクンの波長は、パツンと共通している。	チュクンの[HLLL] 波長は[LHHH] パツンと[LHLL] 共通[LHHH] して[LH] いる[LH]	ʨɨꜜkɯnno haꜛʨoːβa, paꜛʦɨꜜnto kʲoꜛːʦɨː ɕiꜛte iꜛɾɯ.
+3/7	accent_0007	壁にポスターを貼るのを手伝ってくれる？	壁に[LHH] ポスターを[HLLLL] 貼る[LH] のを[LH] 手伝って[LHHLL] くれる[LHH]	kaꜛbeɲi poꜜsɨtaːo haꜛɾɯ noꜛo teꜛʦɨdaꜜʔte kɯꜛɾeɾɯ?
+3/7	accent_0025	丘の上に古い城が建っている。	丘の[LHH] 上に[LHH] 古い[LHL] 城が[LHH] 建って[HLL] いる[LH]	oꜛkano ɯꜛeɲi ɸɯꜛɾɯꜜi ɕiꜛɾoɡa taꜜʔte iꜛɾɯ.
+4/9	RECITATION324_056	ちょうどそのとき、デストゥパーゴがコップをもって立ちあがりました。	ちょうど[LHH] その[LH] とき[HL] デストゥパーゴが[LHHLLLL] コップを[LHHH] もって[HLL] 立ちあがりました[LHHHHHLL]	ʨoꜛːdoꜜ soꜛno toꜜkʲi, deꜛsɨtɯꜜpaːɡoɡa koꜛʔpɯo moꜜʔte taꜛʨiaɡaɾʲimaꜜɕita.
+4/9	RECITATION324_295	海水魚の漁業の一環として、稚魚が育てられている。	海水魚の[LHHHHL] 漁業の[HLLL] 一環と[LHHHH] して[LH] 稚魚が[HLL] 育てられて[LHHLLL] いる[LH]	kaꜛisɨiɡʲoꜜno ɡʲoꜜɡʲoːno iꜛʔkanto ɕiꜛte, ʨiꜜɡʲoɡa soꜛdateꜜɾaɾete iꜛɾɯ.
+5/11	accent_0165	子供のころによく遊んだ公園が、すっかり変わってしまっていた。	子供の[LHHH] ころに[HLL] よく[HL] 遊んだ[LHHH] 公園が[LHHHH] すっかり[LHHL] 変わって[LHHH] しまって[LHLL] いた[LH]	koꜛdomono koꜜɾoɲi joꜜkɯ aꜛsonda koꜛːeŋɡa, sɨꜛʔkaꜜɾʲi kaꜛβaʔte ɕiꜛmaꜜʔte iꜛtaꜜ.
+6/13	accent_0166	この道をまっすぐ進んで、二つ目の信号を右に曲がってください。	この[LH] 道を[LHH] まっすぐ[LHHL] 進んで[LHHH] 二つ目の[LHHLL] 信号を[LHHHH] 右に[LHH] 曲がって[LHLL] ください[LHHL]	koꜛno mʲiꜛʨio maꜛʔsɨꜜɡɯ sɨꜛsɨnde, ɸɯꜛtaʦɨꜜmeno ɕiꜛŋɡoːo mʲiꜛɡʲiɲi maꜛɡaꜜʔte kɯꜛdasaꜜi.
+4/8	EMOTION100_003	デーヴィスさんはとても疲れているように見える。	デーヴィスさんは[HLLLLLL] とても[LHH] 疲れて[LHHL] いる[LH] ように[HLL] 見える[LHL]	deꜜːbʲisɨsaɴβa toꜛtemo ʦɨꜛkaɾeꜜte iꜛɾɯ joꜜːɲi mʲiꜛeꜜɾɯ.
+2/4	EMOTION100_004	スティーヴはジェーンから手紙をもらった。	スティーヴは[LHLLL] ジェーンから[HLLLL] 手紙を[LHHH] もらった[LHHH]	sɨꜛtʲiꜜːbɯβa ʥeꜜːŋkaɾa teꜛɡamʲio moꜛɾaʔtaꜜ.
+4/8	EMOTION100_007	彼はピューマを慣らすのに、大いに骨を折った。	彼は[HLL] ピューマを[HLLL] 慣らすのに[LHLLL] 大いに[HLLL] 骨を[LHL] 折った[HLL]	kaꜜɾeβa pʲɨꜜːmao naꜛɾaꜜsɨnoɲi, oꜜːiɲi hoꜛneꜜo oꜜʔta.
+3/6	EMOTION100_008	彼が解雇されるとは妙な話だ。	彼が[HLL] 解雇[HLL] されるとは[LHHHH] 妙な[HLL] 話だ[LHHL]	kaꜜɾeɡa kaꜜiko saꜛɾeɾɯtoβa mʲoꜜːna haꜛnaɕiꜜda.
+2/4	EMOTION100_010	彼のあだ名は言い得て妙だよね。	彼の[HLL] あだ名は[LHHH] 言い得て[LHHH] 妙だよね[HLLLL]	kaꜜɾeno aꜛdanaβa iꜛiete mʲoꜜːdajone.
+2/4	EMOTION100_017	あっベルが鳴ってる。	あっベルが[LHLLL] 鳴ってる[LHHL]	aꜛʔꜜbeɾɯɡa naꜛʔteꜜɾɯ.
+1/2	EMOTION100_020	ヒューズが飛んだ。	ヒューズが[HLLL] 飛んだ[LHH]	çɨꜜːzɨɡa toꜛnda.
+2/4	EMOTION100_022	猫はにゃーにゃーと鳴く。	猫は[HLL] にゃー[HL] にゃーと[HLL] 鳴く[LH]	neꜜkoβa ɲaꜜː ɲaꜜːto naꜛkɯ.
+7/14	EMOTION100_042	概してわれわれ日本人は、外国語を話すのに少し臆病すぎる。	概して[HLLL] われわれ日本人は[LHHHHHHHLLL] 外国語を[LHHHLL] 話す[LHL] のに[LH] 少し[LHL] 臆病[LHHL] すぎる[LHL]	ɡaꜜiɕite βaꜛɾeβaɾeɲiʔpoɲꜜʥiɴβa, ɡaꜛikokɯꜜɡoo haꜛnaꜜsɨ noꜛɲi sɨꜛkoꜜɕi oꜛkɯbʲoꜜː sɨꜛɡʲiꜜɾɯ.
+6/12	EMOTION100_050	私の妻が瓶をわってしまったので、台所の床は牛乳だらけになっている。	私の[LHHH] 妻が[HLL] 瓶を[HLL] わって[HLL] しまったので[LHLLLL] 台所の[LHHHHH] 床は[LHH] 牛乳だらけに[LHHHHLLL] なって[HLL] いる[LH]	βaꜛtaɕino ʦɨꜜmaɡa bʲiꜜɴo βaꜜʔte ɕiꜛmaꜜʔtanode, daꜛidokoɾono jɯꜛkaβa ɡʲɨꜛːɲɨːdaꜜɾakeɲi naꜜʔte iꜛɾɯ.
+2/4	EMOTION100_077	名前をテョといいます。	名前を[LHHH] テョと[HL] いいます[LHHL]	naꜛmaeo tjoꜜto iꜛimaꜜsɨ.
+1/2	EMOTION100_096	ズィーブラ。	ズィーブラ[LHLL]	ziꜛːꜜbɯɾa.
+1/2	EMOTION100_097	デピュティーガバナー。	デ[L] ピュ[H] ティーガバナー[LHHLLL]	de pʲɨꜜ tʲiꜛːɡaꜜbanaː.
+2/4	RECITATION324_011	ローカル路線にはファンも多い。	ローカル[HLLL] 路線には[LHHHH] ファンも[HLL] 多い[HLL]	ɾoꜜːkaɾɯ ɾoꜛseɲɲiβa ɸaꜜmmo oꜜːi.
+2/4	RECITATION324_021	彼女はティピカルなフェミニストです。	彼女は[HLLL] ティピカルな[HLLLL] フェミニストです[LHHLLLL]	kaꜜnoʥoβa tʲiꜜpʲikaɾɯna ɸeꜛmʲiɲiꜜsɨtodesɨ.
+3/6	RECITATION324_039	ウォッカのお供には塩漬けのきゅうりがあいます。	ウォッカの[HLLL] お供には[LHLLL] 塩漬けの[LHHHH] きゅうりが[HLLL] あいます[LHHL]	βoꜜʔkano oꜛtoꜜmoɲiβa ɕiꜛozɨkeno kʲɨꜜɯɾʲiɡa aꜛimaꜜsɨ.
+5/10	RECITATION324_040	山の向こうのミュンヒェンの人たちが攻撃をしかけた。	山の[LHL] 向こうの[LHLL] ミュンヒェンの[HLLLL] 人たちが[LHLLL] 攻撃を[LHHHH] しかけた[LHHL]	jaꜛmaꜜno mɯꜛkoꜜːno mʲɨꜜɴhenno çiꜛtoꜜtaʨiɡa koꜛːɡekʲio ɕiꜛkakeꜜta.
+5/10	RECITATION324_069	脚本作者ピエール・オービュルナンの給仕クレマンが、主人の書斎の戸を大切そうに開いた。	脚本作者ピエール・オービュルナンの[LHHHHHHHLLLLLLLLLL] 給仕クレマンが[HLLLLLLL] 主人の[HLLL] 書斎の[LHHH] 戸を[LH] 大切そうに[LHHHLLL] 開いた[LHLL]	kʲaꜛkɯhoɴsakɯɕapʲiꜜeːɾɯoːbʲɨɾɯnanno kʲɨꜜːʥikɯɾemaŋɡa, ɕɨꜜʥinno ɕoꜛsaino toꜛo taꜛiseʦɨꜜsoːɲi çiꜛɾaꜜita.
+2/4	RECITATION324_077	尻尾ふりたて、ひげくいそらす。	尻尾[LHH] ふりたて[LHHH] ひげ[LH] くいそらす[HLLLL]	ɕiꜛʔpoꜜ ɸɯꜛɾʲitateꜜ, çiꜛɡe kɯꜜisoɾasɨ.
+4/8	RECITATION324_083	とてもうれしそうにぴょんぴょん跳ねて出ていった。	とても[LHH] うれしそうに[LHHLLL] ぴょんぴょん[HLLL] 跳ねて[LHL] 出て[LH] いった[LHH]	toꜛtemo ɯꜛɾeɕiꜜsoːɲi pʲoꜜmpʲoɴ haꜛneꜜte deꜛte iꜛʔtaꜜ.
+2/4	RECITATION324_090	キャリーバッグは旅行に必須。	キャリーバッグは[LHHHLLL] 旅行に[LHHH] 必須[LHH]	kʲaꜛɾʲiːbaꜜʔɡɯβa ɾʲoꜛkoːɲi çiꜛʔsɨ.
+3/6	RECITATION324_109	是非お話させて頂きたいと思います。	是非お話[LHHLLL] させて[LHH] 頂きたいと[LHHHHLL] 思います[LHHHL]	ʣeꜛçioꜜhanaɕi saꜛsete iꜛtadakʲitaꜜito oꜛmoimaꜜsɨ.
+4/8	RECITATION324_115	五行説による占いがあるという情報あり。	五行説に[LHLLLL] よる[LH] 占いが[LHHHH] あると[HLL] いう[LH] 情報[LHHH] あり[HL]	ɡoꜛɡʲoꜜːseʦɨɲi joꜛɾɯ ɯꜛɾanaiɡa aꜜɾɯto iꜛɯ ʥoꜛːhoː aꜜɾʲi.
+1/2	RECITATION324_144	ウェンディーズはハンバーガー屋さんです。	ウェンディーズは[HLLLLL] ハンバーガー屋さんです[LHHHHHHHHHL]	βeꜜndʲiːzɨβa haꜛmbaːɡaːjasandeꜜsɨ.
+4/8	RECITATION324_153	連中はリビングでぺちゃくちゃ喋って、警戒していない。	連中は[LHHHH] リビングで[HLLLL] ぺちゃくちゃ[HLLL] 喋って[LHLL] 警戒[LHHH] して[LH] いない[LHH]	ɾeꜛɲʨɨːβa ɾʲiꜜbʲiŋɡɯde peꜜʨakɯʨa ɕaꜛbeꜜʔte, keꜛːkai ɕiꜛte iꜛnai.
+2/4	RECITATION324_163	雨がぽつぽつ降りだした。	雨が[HLL] ぽつぽつ[HLLL] 降りだした[LHLLL]	aꜜmeɡa poꜜʦɨpoʦɨ ɸɯꜛɾʲiꜜdaɕita.
+2/4	RECITATION324_173	レインボーブリッジは東京の名所。	レインボーブリッジは[LHHHHHHLLL] 東京の[LHHHH] 名所[LHH]	ɾeꜛimboːbɯɾʲiꜜʔʥiβa toꜛːkʲoːno meꜛːɕo.
+4/8	RECITATION324_187	三国志の関羽という将軍はすごく有名です。	三国志の[LHHHLL] 関羽と[HLLL] いう[LH] 将軍は[LHHHH] すごく[LHL] 有名です[LHHHHL]	saꜛŋɡokɯꜜɕino kaꜜɴɯto iꜛɯ ɕoꜛːɡɯɴβa sɨꜛɡoꜜkɯ jɯꜛːmeːdeꜜsɨ.
+3/6	RECITATION324_199	マルメゾンの店主はジェシーとは仲良しだ。	マルメゾンの[LHHLLL] 店主は[HLLL] ジェシーとは[HLLLL] 仲良しだ[LHLLL]	maꜛɾɯmeꜜʣonno teꜜɴɕɨβa ʥeꜜɕiːtoβa naꜛkaꜜjoɕida.
+3/6	RECITATION324_200	釣竿を肩にかけた処士あり。	釣竿を[LHHHH] 肩に[HLL] かけた[LHL] 処士[HL] あり[HL]	ʦɨꜛɾʲiʣaoo kaꜜtaɲi kaꜛkeꜜta ɕoꜜɕi aꜜɾʲi.
+2/4	RECITATION324_225	マッチョな男性はモテるそう。	マッチョな[HLLL] 男性は[LHHHH] モテるそう[LHHLL]	maꜜʔʨona daꜛɴseːβa moꜛteɾɯꜜsoː.
+2/4	RECITATION324_236	皆も球場に行きましょう。	皆も[LHH] 球場に[LHHHH] 行きましょう[LHHHL]	mʲiꜛnamo kʲɨꜛːʥoːɲi iꜛkʲimaɕoꜜː.
+2/4	RECITATION324_237	コペルニクスはポーランドの天文学者です。	コペルニクスは[LHHHLLL] ポーランドの[HLLLLL] 天文学者です[LHHHHHHHL]	koꜛpeɾɯɲiꜜkɯsɨβa poꜜːɾandono teꜛmmoŋɡakɯɕadeꜜsɨ.
+3/6	RECITATION324_256	改良が進むとパンはどんどんおいしくなる。	改良が[LHHHH] 進むと[LHHH] パンは[HLL] どんどん[HLLL] おいしくなる[LHHLLL]	kaꜛiɾʲoːɡa sɨꜛsɨmɯto paꜜɴβa doꜜndoɴ oꜛiɕiꜜkɯnaɾɯ.
+2/4	RECITATION324_274	マッチを買いに入ったのかな。	マッチを[HLLL] 買いに[LHH] 入った[HLLL] のかな[LHH]	maꜜʔʨio kaꜛiɲi haꜜiʔta noꜛkana.
+5/10	RECITATION324_276	やがて陪審員は合議をするために法廷を出て行った。	やがて[LHH] 陪審員は[LHHHLLL] 合議を[HLLL] する[LH] ために[LHL] 法廷を[LHHHH] 出て[LH] 行った[LHH]	jaꜛɡate baꜛiɕiɴꜜiɴβa ɡoꜜːɡʲio sɨꜛɾɯ taꜛmeꜜɲi hoꜛːteːo deꜛte iꜛʔtaꜜ.
+4/8	RECITATION324_297	ヘスティア所長は、十二音音楽の作法を知っている。	ヘスティア所長は[LHHHHLLL] 十[LH] 二音音楽の[LHHHLLLL] 作法を[HLLL] 知って[LHH] いる[LH]	heꜛsɨtʲiaɕoꜜʨoːβa, ʥɨꜛː ɲiꜛotooꜜŋɡakɯno saꜜhoːo ɕiꜛʔte iꜛɾɯ.
+5/10	RECITATION324_298	主催者は、このフェスのキャパが小さいことを、セシルから聞いた。	主催者は[LHHHH] この[LH] フェスの[HLL] キャパが[HLL] 小さい[LHHL] ことを[LHL] セシルから[HLLLL] 聞いた[LHH]	ɕɨꜛsaiɕaβa, koꜛno ɸeꜜsɨno kʲaꜜpaɡa ʨiꜛːsaꜜi koꜛtoꜜo, seꜜɕiɾɯkaɾa kʲiꜛitaꜜ.
+5/10	RECITATION324_316	昼にはペスカトーレを、夜には寿司をパクパク食べた。	昼には[LHLL] ペスカトーレを[LHHHLLL] 夜には[HLLL] 寿司を[LHL] パクパク[HLLL] 食べた[LHL]	çiꜛɾɯꜜɲiβa peꜛsɨkatoꜜːɾeo, joꜜɾɯɲiβa sɨꜛɕiꜜo paꜜkɯpakɯ taꜛbeꜜta.
+5/10	RECITATION324_319	社販で巨富を築くという、彼の目論見は途中でへし折られた。	社販で[HLLL] 巨富を[HLL] 築くと[LHLL] いう[LH] 彼の[HLL] 目論見は[LHHHH] 途中で[LHHH] へし折られた[LHHLLL]	ɕaꜜhande kʲoꜜɸɯo kʲiꜛzɨꜜkɯto iꜛɯ, kaꜜɾeno moꜛkɯɾomʲiβa toꜛʨɨːde heꜛɕioꜜɾaɾeta.
+3/6	accent_0006	春が来たら一緒に旅行に行きましょう。	春が[HLL] 来たら[HLL] 一緒に[LHHH] 旅行に[LHHH] 行きましょう[LHHHL]	haꜜɾɯɡa kʲiꜜtaɾa iꜛʔɕoɲi ɾʲoꜛkoːɲi iꜛkʲimaɕoꜜː.
+3/6	accent_0014	紐を短く切ることにしました。	紐を[LHH] 短く切る[LHHLLL] ことに[LHL] しました[LHLL]	çiꜛmoo mʲiꜛʥikaꜜkɯkʲiɾɯ koꜛtoꜜɲi ɕiꜛmaꜜɕita.
+4/8	accent_0030	将来は医師になりたいと考えています。	将来は[HLLLL] 医師に[HLL] なりたいと[LHHLL] 考えて[LHHLL] います[LHL]	ɕoꜜːɾaiβa iꜜɕiɲi naꜛɾʲitaꜜito kaꜛŋɡaꜜete iꜛmaꜜsɨ.
+3/6	accent_0036	駅のホームで手を振る子供がいた。	駅の[HLL] ホームで[HLLL] 手を[HL] 振る[LH] 子供が[LHHH] いた[LH]	eꜜkʲino hoꜜːmɯde teꜜo ɸɯꜛɾɯ koꜛdomoɡa iꜛtaꜜ.
+3/6	accent_0041	会社に電話をかけてから出発した。	会社に[LHHH] 電話を[LHHH] かけてから[LHLLL] 出発[LHHH] した[LH]	kaꜛiɕaɲi deꜛɴβao kaꜛkeꜜtekaɾa ɕɨꜛʔpaʦɨ ɕiꜛtaꜜ.
+3/6	accent_0050	料理が得意な人がうらやましい。	料理が[HLLL] 得意な[LHLL] 人が[LHH] うらやましい[LHHHHL]	ɾʲoꜜːɾʲiɡa toꜛkɯꜜina çiꜛtoɡa ɯꜛɾajamaɕiꜜi.
+3/6	accent_0053	図書館で本を二冊借りてきた。	図書館で[LHLLL] 本を[HLL] 二冊[HLL] 借りて[LHH] きた[HL]	toꜛɕoꜜkande hoꜜɴo ɲiꜜsaʦɨ kaꜛɾʲite kʲiꜜta.
+4/8	accent_0062	耳をすませば波の音が聞こえる。	耳を[LHL] すませば[LHLL] 波の[LHL] 音が[LHL] 聞こえる[LHHH]	mʲiꜛmʲiꜜo sɨꜛmaꜜseba naꜛmʲiꜜno oꜛtoꜜɡa kʲiꜛkoeɾɯ.
+3/6	accent_0063	鍋に水を入れて火にかけた。	鍋に[HLL] 水を[LHH] 入れて[LHH] 火に[HL] かけた[LHL]	naꜜbeɲi mʲiꜛzɨo iꜛɾete çiꜜɲi kaꜛkeꜜta.
+2/4	accent_0074	駅まで歩いて行った。	駅まで[HLLL] 歩いて[LHLL] 行った[LHH]	eꜜkʲimade aꜛɾɯꜜite iꜛʔtaꜜ.
+2/4	accent_0077	この本はもう読み終わった。	この[LH] 本は[HLL] もう[HL] 読み終わった[HLLLLL]	koꜛno hoꜜɴβa moꜜː joꜜmʲioβaʔta.
+1/2	accent_0086	早く起きればよかった。	早く起きれば[HLLLLLL] よかった[HLLL]	haꜜjakɯokʲiɾeba joꜜkaʔta.
+2/4	accent_0088	窓を閉めてもいいですか？	窓を[HLL] 閉めても[LHLL] いいですか[HLLLL]	maꜜdoo ɕiꜛmeꜜtemo iꜜidesɨka?
+3/6	accent_0090	もっとゆっくり話してください。	もっと[HLL] ゆっくり[LHHL] 話して[LHLL] ください[LHHL]	moꜜʔto jɯꜛʔkɯꜜɾʲi haꜛnaꜜɕite kɯꜛdasaꜜi.
+3/6	accent_0094	楽しかった思い出を話してくれた。	楽しかった[LHHLLL] 思い出を[LHHHH] 話して[LHLL] くれた[LHH]	taꜛnoɕiꜜkaʔta oꜛmoideo haꜛnaꜜɕite kɯꜛɾetaꜜ.
+2/4	accent_0107	会議は午後二時半からです。	会議は[HLLL] 午後[HL] 二時半からです[LHHLLLLL]	kaꜜiɡʲiβa ɡoꜜɡo ɲiꜛʥihaꜜŋkaɾadesɨ.
+1/2	accent_0110	学生が三十人ほど集まった。	学生が[LHHHH] 三十人ほど[LHHHHHHH] 集まった[LHHLL]	ɡaꜛkɯseːɡa saꜛɲʥɨːɲiɴhodo aꜛʦɨmaꜜʔta.
+3/6	accent_0117	六時に目覚まし時計が鳴った。	六時に[LHLL] 目覚まし[LHHHL] 時計が[LHHH] 鳴った[LHH]	ɾoꜛkɯꜜʥiɲi meꜛʣamemaꜜɕi toꜛkeːɡa naꜛʔtaꜜ.
+3/6	accent_0118	第一回の打ち合わせを始めます。	第[HL] 一回の[LHLLL] 打ち合わせを[LHHHHH] 始めます[LHHHL]	daꜜi iꜛʔꜜkaino ɯꜛʨiaβaseo haꜛʥimemaꜜsɨ.
+1/2	accent_0126	これ、いくらですか？	これ[LH] いくらですか[HLLLLL]	koꜛɾe, iꜜkɯɾadesɨka?
+2/4	accent_0131	すみません、ちょっといいですか？	すみません[LHHHL] ちょっと[HLL] いいですか[HLLLL]	sɨꜛmʲimaseꜜɴ, ʨoꜜʔto iꜜidesɨka?
+1/2	accent_0134	へえ、意外だね。	へえ[HL] 意外だね[LHHHH]	heꜜː, iꜛɡaidane.
+2/4	accent_0142	少々お待ちいただけますか？	少々[HLLL] お待ち[LHH] いただけますか[LHHHHLL]	ɕoꜜːɕoː oꜛmaʨi iꜛtadakemaꜜsɨka?
+2/4	accent_0146	なんで教えてくれなかったの？	なんで[HLL] 教えて[LHHH] くれなかったの[LHHHHHL]	naꜜnde oꜛɕiete kɯꜛɾenakaʔtaꜜno?
+2/4	accent_0155	おかえりなさい、お風呂わいてるよ。	おかえりなさい[LHHHHHH] お風呂[HLL] わいてるよ[LHHLL]	oꜛkaeɾʲinasai, oꜜɸɯɾo βaꜛiteꜜɾɯjo.
+9/17	EMOTION100_063	事象として簡単なことを、いかにも難しそうに表現する人は、あまり頭がよさそうではない。	事象と[LHHH] して[LH] 簡単な[LHHHH] ことを[LHL] いかにも[LHLL] 難しそうに[LHHHLLL] 表現[LHHL] する[LH] 人は[LHH] あまり[LHH] 頭が[LHHL] よさそうではない[LHLLLLLL]	ʥiꜛɕoːto ɕiꜛte kaꜛntanna koꜛtoꜜo, iꜛkaꜜɲimo mɯꜛzɨkaɕiꜜsoːɲi çoꜛːɡeꜜɴ sɨꜛɾɯ çiꜛtoβa, aꜛmaɾʲi aꜛtamaꜜɡa joꜛsaꜜsoːdeβanai.
+7/13	RECITATION324_283	インスティテュートで、リデュースの話と併せて、ルデュックの話も聞いた。	インスティテュートで[LHHHHLLL] リデュースの[LHLLL] 話と[LHHL] 併せて[LHHL] ルデュックの[LHLLL] 話も[LHHL] 聞いた[LHH]	iꜛɴsɨtʲiʨɨꜜːtode, ɾʲiꜛdʲɨꜜːsɨno haꜛnaɕiꜜto aꜛβaseꜜte, ɾɯꜛdʲɨꜜʔkɯno haꜛnaɕiꜜmo kʲiꜛitaꜜ.
+6/11	EMOTION100_051	喧嘩をしていた二人の子供は、お互いにしかめっ面をして座っていた。	喧嘩を[LHHH] して[LH] いた[LH] 二人の[LHHL] 子供は[LHHH] お互いに[LHHHH] しかめっ面を[LHHHHHH] して[LH] 座って[LHHH] いた[LH]	keꜛŋkao ɕiꜛte iꜛtaꜜ ɸɯꜛtaɾʲiꜜno koꜛdomoβa, oꜛtaɡaiɲi ɕiꜛkameʔʦɨɾao ɕiꜛte sɨꜛβaʔte iꜛtaꜜ.
+10/18	EMOTION100_054	パックマンがある条件を満たすと、追ってくるモンスターを逆襲して食べることができる。	パックマンが[LHHLLL] ある[HL] 条件を[LHHLL] 満たすと[LHLL] 追って[LHH] くる[HL] モンスターを[HLLLLL] 逆襲[LHHH] して[LH] 食べる[LHL] ことが[LHL] できる[LHL]	paꜛʔkɯꜜmaŋɡa aꜜɾɯ ʥoꜛːkeꜜɴo mʲiꜛtaꜜsɨto, oꜛʔte kɯꜜɾɯ moꜜɴsɨtaːo ɡʲaꜛkɯɕɨː ɕiꜛte taꜛbeꜜɾɯ koꜛtoꜜɡa deꜛkʲiꜜɾɯ.
+5/9	RECITATION324_139	地表を緑化して、温暖化を抑止する能力を強くする。	地表を[LHHH] 緑化[LHH] して[LH] 温暖化を[LHHHHH] 抑止[LHH] する[LH] 能力を[HLLLL] 強くする[LHLLL]	ʨiꜛçoːo ɾʲoꜛkɯka ɕiꜛte, oꜛndaŋkao joꜛkɯɕi sɨꜛɾɯ noꜜːɾʲokɯo ʦɨꜛjoꜜkɯsɨɾɯ.
+5/9	RECITATION324_255	落ち込んでいるのか、うつむいてじっとしている。	落ち込んで[LHHLL] いる[LH] のか[LH] うつむいて[LHHLL] じっと[LHH] して[LH] いる[LH]	oꜛʨikoꜜnde iꜛɾɯ noꜛka, ɯꜛʦɨmɯꜜite ʥiꜛʔto ɕiꜛte iꜛɾɯ.
+5/9	RECITATION324_269	もう、あなたにばかりも精一杯、誰にも見せられます体ではないんです。	もう[HL] あなたにばかりも[LHLLLLLL] 精一杯[LHHLLL] 誰にも[HLLL] 見せられます[LHHHHL] 体では[LHHHH] ない[HL] んです[HLL]	moꜜː, aꜛnaꜜtaɲibakaɾʲimo seꜛːiꜜʔpai, daꜜɾeɲimo mʲiꜛseɾaɾemaꜜsɨ kaꜛɾadadeβa naꜜi nꜜdesɨ.
+5/9	RECITATION324_290	いぶかしげに見上げた雨雲から、琥珀色のドラゴンがギュンと現れた。	いぶかしげに[LHHHLL] 見上げた[LHHH] 雨雲から[LHHHHH] 琥珀色の[LHHHHH] ドラゴンが[HLLLL] ギュ[H] ンと[LH] 現れた[LHHHL]	iꜛbɯkaɕiꜜɡeɲi mʲiꜛaɡetaꜜ aꜛmaɡɯmokaɾa, koꜛhakɯɕokɯno doꜜɾaɡoŋɡa ɡʲɨꜜ nꜛto aꜛɾaβaɾeꜜta.
+5/9	RECITATION324_310	カフェとは、ブレックファストとして、フォカッチャを食べれる場所でもある。	カフェとは[HLLL] ブレックファストと[LHHHHLLL] して[LH] フォカッチャを[LHLLL] 食べれる[LHLL] 場所でも[LHHH] ある[HL]	kaꜜɸetoβa, bɯꜛɾeʔkɯɸaꜜsɨtoto ɕiꜛte, ɸoꜛkaꜜʔʨao taꜛbeꜜɾeɾɯ baꜛɕodemo aꜜɾɯ.
+4/7	EMOTION100_012	ゼロという概念は、ヒンドゥー文化に由来している。	ゼロと[HLL] いう[LH] 概念は[HLLLL] ヒンドゥー文化に[LHHHHLLL] 由来[LHH] して[LH] いる[LH]	ʣeꜜɾoto iꜛɯ ɡaꜜineɴβa, çiꜛndɯːbɯꜜŋkaɲi jɯꜛɾai ɕiꜛte iꜛɾɯ.
+4/7	EMOTION100_013	そのいたずら娘は何食わぬ顔をした。	その[LH] いたずら娘は[LHHHHLLL] 何[HL] 食わぬ[LHH] 顔を[LHH] した[LH]	soꜛno iꜛtazɨɾamɯꜜsɨmeβa naꜜɲi kɯꜛβanɯꜜ kaꜛoo ɕiꜛtaꜜ.
+4/7	RECITATION324_008	中国の外交団にアタッシェとして派遣された。	中国の[HLLLL] 外交団に[LHHHLLL] アタッシェと[LHLLL] して[LH] 派遣[LHH] された[LHH]	ʨɨꜜːɡokɯno ɡaꜛikoːꜜdaɲɲi aꜛtaꜜʔɕeto ɕiꜛte haꜛkeɴ saꜛɾetaꜜ.
+4/7	RECITATION324_012	フェイントで相手をかわしてからシュートでフィニッシュした。	フェイントで[LHHHH] 相手を[LHHL] かわしてから[LHHHHH] シュートで[HLLL] フィニッシュ[HLLL] した[LH]	ɸeꜛintode aꜛiteꜜo kaꜛβaɕitekaɾa ɕɨꜜːtode ɸʲiꜜɲiʔɕɨ ɕiꜛtaꜜ.
+4/7	RECITATION324_025	ショペンハウエルとニーチェの哲学書を本棚から取り出した。	ショペンハウエルと[LHHHLLLL] ニーチェの[HLLL] 哲学書を[LHHHHH] 本棚から[HLLLLL] 取り出した[LHHLL]	ɕoꜛpeɴhaꜜɯeɾɯto ɲiꜜːʨeno teꜛʦɨɡakɯɕoo hoꜜndanakaɾa toꜛɾʲidaꜜɕita.
+8/14	RECITATION324_043	そのほかに私に出来ることはなかったのです、百合枝は涙声になった。	その[LH] ほかに[LHH] 私に[LHHH] 出来る[LHL] ことは[LHL] なかった[HLLL] のです[LHL] 百合枝は[LHHH] 涙声に[LHHHLL] なった[HLL]	soꜛno hoꜛkaɲi βaꜛtaɕiɲi deꜛkʲiꜜɾɯ koꜛtoꜜβa naꜜkaʔta noꜛdeꜜsɨ, jɯꜛɾʲieβa naꜛmʲidaɡoꜜeɲi naꜜʔta.
+4/7	RECITATION324_057	パフィーのグッズが残らず部屋に落ち着いた。	パフィーの[HLLL] グッズが[HLLL] 残らず[LHHL] 部屋に[LHL] 落ち着いた[LHHHH]	paꜜɸʲiːno ɡɯꜜʔzɨɡa noꜛkoɾaꜜzɨ heꜛjaꜜɲi oꜛʨiʦɨitaꜜ.
+4/7	RECITATION324_102	開店当初プリンが一番売れていた。	開店[LHHH] 当初[HLL] プリンが[HLLL] 一番[LHLL] 売れて[LHH] いた[LH]	kaꜛiten toꜜːɕo pɯꜜɾʲiŋɡa iꜛʨiꜜbaɴ ɯꜛɾete iꜛtaꜜ.
+4/7	RECITATION324_152	一寸法師が、ヒョコヒョコと彼の方へ近づいた。	一寸法師が[LHHHHLLL] ヒョコヒョコと[HLLLL] 彼の[HLL] 方へ[HLL] 近づいた[LHHLL]	iꜛʔsɨmboꜜːɕiɡa, çoꜜkoçokoto kaꜜɾeno hoꜜːe ʨiꜛkazɨꜜita.
+4/7	RECITATION324_204	未解決の懸案を持って重役と対峙する。	未解決の[LHLLLL] 懸案を[LHHHH] 持って[HLL] 重役と[LHHHH] 対峙[HLL] する[LH]	mʲiꜛkaꜜikeʦɨno keꜛɴaɴo moꜜʔte ʥɨꜛːjakɯto taꜜiʥi sɨꜛɾɯ.
+4/7	RECITATION324_243	戦意を喪失させるのが勝利への近道。	戦意を[HLLL] 喪失[LHHH] させる[LHH] のが[LH] 勝利への[HLLLL] 近道[LHLL]	seꜜɴio soꜛːɕiʦɨ saꜛseɾɯ noꜛɡa ɕoꜜːɾʲieno ʨiꜛkaꜜmʲiʨi.
+4/7	RECITATION324_246	従軍記者は大尉相当の待遇を受ける。	従軍記者は[LHHHLLL] 大尉相当の[LHHHLLLL] 待遇を[LHHHH] 受ける[LHL]	ʥɨꜛːɡɯŋꜜkʲiɕaβa taꜛiisoꜜːtoːno taꜛiɡɯːo ɯꜛkeꜜɾɯ.
+4/7	RECITATION324_279	キェルツェを通ってドビェに、ザリピェからミェイに行く。	キェルツェを[HLLL] 通って[HLLL] ド[H] ビェに[HL] ザリピェ[HLL] から[HL] ミェイに[HLL] 行く[LH]	kʲeꜜɾɯʦeo toꜜːʔte doꜜ bʲeꜜɲi, ʣaꜜɾʲipʲe kaꜜɾa mʲeꜜiɲi iꜛkɯ.
+4/7	accent_0048	電気を消してから部屋を出てください。	電気を[HLLL] 消してから[LHHHH] 部屋を[LHL] 出て[LH] ください[LHHL]	deꜜŋkʲio keꜛɕitekaɾa heꜛjaꜜo deꜛte kɯꜛdasaꜜi.
+19/33	T014_1	併せまして、おおの ひであきさまのご家族で自動車にお乗りの方がいらっしゃいましたら、特約の重複などが無いか確認をさせていただきたいと思います。ご来店当日はお手元にご家族さまの保険証券等をご準備、	併せまして[LHHHLL] おおの[HLL] ひであきさまの[LHLLLLL] ご家族で[LHLLL] 自動車に[LHLLL] お乗りの[HLLL] 方が[HLL] いらっしゃいましたら[LHHHHHLLL] 特約の[LHHHH] 重複などが[LHHHHLL] 無いか[HLL] 確認を[LHHHH] させて[LHH] いただきたいと[LHHHHLL] 思います[LHHHL] ご来店[LHLLL] 当日は[LHHHH] お手元に[LHHHH] ご家族さまの[LHLLLLL] 保険証券等を[LHHHHHHHLL] ご準備[LHLL]	aꜛβasemaꜜɕite, oꜜːno çiꜛdeꜜakʲisamano ɡoꜛkaꜜʣokɯde ʥiꜛdoꜜːɕaɲi oꜜnoɾʲino hoꜜːɡa iꜛɾaʔɕaimaꜜɕitaɾa, toꜛkɯjakɯno ʥɨꜛːɸɯkɯnaꜜdoɡa naꜜika kaꜛkɯɲiɴo saꜛsete iꜛtadakʲitaꜜito oꜛmoimaꜜsɨ. ɡoꜛɾaꜜiten toꜛːʥiʦɨβa oꜛtemotoɲi ɡoꜛkaꜜʣokɯsamano hoꜛkeɴɕoːkentoꜜːo ɡoꜛʥɨꜜmbʲi,
+11/19	RECITATION324_080	私たちは、抽象的意識的自己を否定することで、本当の自己とは身心一如だということを知る。	私たちは[LHHLLL] 抽象的[LHHHLL] 意識的[LHHLL] 自己を[HLL] 否定[LHH] する[LH] ことで[LHL] 本当の[LHHHH] 自己とは[HLLL] 身心一如だと[LHHHHHLLL] いう[LH] ことを[LHL] 知る[LH]	βaꜛtaɕiꜜtaʨiβa, ʨɨꜛːɕoːꜜtekʲi iꜛɕikʲiꜜtekʲi ʥiꜜkoo çiꜛteː sɨꜛɾɯ koꜛtoꜜde, hoꜛntoːno ʥiꜜkotoβa ɕiꜛɴɕiɴiʨiꜜɲodato iꜛɯ koꜛtoꜜo ɕiꜛɾɯ.
+7/12	RECITATION324_065	八つになるウォルターと一緒に出た兄弟がいたが、ウォルターだけ発見された。	八つに[LHHL] なる[HL] ウォルターと[HLLLL] 一緒に[LHHH] 出た[LH] 兄弟が[HLLLL] いたが[LHL] ウォルターだけ[LHHHHH] 発見[LHHH] された[LHH]	jaꜛʔʦɨꜜɲi naꜜɾɯ βoꜜɾɯtaːto iꜛʔɕoɲi deꜛtaꜜ kʲoꜜːdaiɡa iꜛtaꜜɡa, βoꜛɾɯtaːdake haꜛʔkeɴ saꜛɾetaꜜ.
+7/12	RECITATION324_322	そのほつれが腐敗しているというのは、誇張した表現だと思う。	その[LH] ほつれが[LHHH] 腐敗[LHH] して[LH] いると[LHH] いう[LH] のは[LH] 誇張[LHH] した[LH] 表現だと[LHHLLL] 思う[LHL]	soꜛno hoꜛʦɨɾeɡa ɸɯꜛhai ɕiꜛte iꜛɾɯto iꜛɯ noꜛβa, koꜛʨoː ɕiꜛtaꜜ çoꜛːɡeꜜndato oꜛmoꜜɯ.
+7/12	accent_0168	彼女は毎日六時に起きて、近所を三十分ほど走っているそうだ。	彼女は[HLLL] 毎日[HLLL] 六時に[LHLL] 起きて[LHL] 近所を[HLLL] 三十分ほど[LHHHHHHH] 走って[LHLL] いる[LH] そうだ[LHH]	kaꜜnoʥoβa maꜜiɲiʨi ɾoꜛkɯꜜʥiɲi oꜛkʲiꜜte, kʲiꜜɲʥoo saꜛɲʥɨʔpɯɴhodo haꜛɕiꜜʔte iꜛɾɯ soꜛːda.
+10/17	RECITATION324_194	明の一訓詁学者は、宋代典籍の一つにあげてある茶せんの形状を思い起こすに苦しんでいる。	明の[HLLL] 一訓詁学者は[LHHHHHLLL] 宋代[LHLL] 典籍の[LHHHH] 一つに[LHLL] あげて[LHL] ある[HL] 茶せんの[LHHH] 形状を[LHHHH] 思い起こすに[LHHHHHH] 苦しんで[LHHLL] いる[LH]	aꜜkaɾʲino iꜛʨikɯŋkoɡaꜜkɯɕaβa, soꜛːꜜdai teꜛɴsekʲino çiꜛtoꜜʦɨɲi aꜛɡeꜜte aꜜɾɯ ʨaꜛsenno keꜛːʥoːo oꜛmoiokosɨɲi kɯꜛɾɯɕiꜜnde iꜛɾɯ.
+13/22	Y003	山口銀行ホームページの画面は、女性のイラストが1人パソコンの前に立っている画面で、みぎうえの「点が3つのアイコン」メニューをクリックしてください。	山口銀行ホームページの[LHHHHHHHHHHHLLL] 画面は[LHHH] 女性の[LHHH] イラストが[LHHHH] 一人[LHL] パソコンの[LHHHH] 前に[HLL] 立って[HLL] いる[LH] 画面で[LHHH] みぎうえの[LHHHH] 点が[LHH] ３つの[LHHL] アイコン[LHHH] メニューを[HLLL] クリック[LHLL] して[LH] ください[LHHL]	jaꜛmaɡɯʨiɡʲiŋkoːhoːmɯpeꜜːʥino ɡaꜛmeɴβa, ʥoꜛseːno iꜛɾasɨtoɡa çiꜛtoꜜɾʲi paꜛsokonno maꜜeɲi taꜜʔte iꜛɾɯ ɡaꜛmende, mʲiꜛɡʲiɯeno “teꜛŋɡa mʲiꜛʔʦɨꜜno aꜛikoɴ” meꜜɲɨːo kɯꜛɾʲiꜜʔkɯ ɕiꜛte kɯꜛdasaꜜi.
+13/22	T019	恐れ入りますが、お名前を間違えないようにご確認させていただきます。はた まよさまご本人様でしょうか。それともご関係者のかたでしょうか。	恐れ入りますが[LHHHHHLL] お名前を[LHLLL] 間違えない[LHHHLL] ように[HLL] ご確認[LHLLL] させて[LHH] いただきます[LHHHHL] はた[HL] まよさま[LHHL] ご本人様でしょうか[LHLLLLLLLLL] それとも[LHHL] ご関係者の[LHHHHHH] かたでしょうか[LHLLLL]	oꜛsoɾeiɾʲimaꜜsɨɡa, oꜛnaꜜmaeo maꜛʨiɡaeꜜnai joꜜːɲi ɡoꜛkaꜜkɯɲiɴ saꜛsete iꜛtadakʲimaꜜsɨ. haꜜta maꜛjosaꜜma ɡoꜛhoꜜɲɲiɴsamadeɕoːka. soꜛɾetoꜜmo ɡoꜛkaŋkeːɕano kaꜛtaꜜdeɕoːka.
+16/27	T010	トヨタカローラ香川の観音寺店が承りました、明後日の2026年3月5日、16時半に観音寺店のご来店、心よりお待ちしております。	トヨタカローラ香川の[LHHHHHHHLLL] 観音寺店が[LHHHHLLL] 承りました[LHHHHHHLL] 明後日の[LHHLLL] 二千[LHL] 二十[HLL] 六年[LHLL] ３月[HLLL] 五日[LHH] 十[LH] 六時半に[LHHHLL] 観音寺店の[LHHHHLLL] ご来店[LHLLL] 心より[LHLLL] お待ち[LHH] して[LH] おります[LHHL]	toꜛjotakaɾoːɾakaꜜɡaβano kaꜛɴoɲʥiꜜteŋɡa ɯꜛketamaβaɾʲimaꜜɕita, mʲoꜛːɡoꜜɲiʨino ɲiꜛseꜜɲ ɲiꜜʥɨː ɾoꜛkɯꜜneɴ saꜜŋɡaʦɨ iꜛʦɨka, ʥɨꜛː ɾoꜛkɯʥihaꜜɲɲi kaꜛɴoɲʥiꜜtenno ɡoꜛɾaꜜiteɴ, koꜛkoꜜɾojoɾʲi oꜛmaʨi ɕiꜛte oꜛɾʲimaꜜsɨ.
+19/32	T020	ご対応いただき、ありがとうございます。できればくろだ きつきさまにトヨタカローラ香川から保険継続の電話があったことをお伝えいただけますでしょうか。後ほどこちらの番号に再度ご連絡させていただきます。	ご対応[LHLLL] いただき[LHHH] ありがとう[LHLLL] ございます[LHHHL] できれば[LHLL] くろだ[LHH] きつきさまに[LHHHHH] トヨタカローラ香川から[LHHHHHHHLLLL] 保険継続の[LHHHLLLL] 電話が[LHHH] あった[HLL] ことを[LHL] お伝え[LHHH] いただけますでしょうか[LHHHHLLLLL] 後ほど[LHHH] こちらの[LHHH] 番号に[LHHLL] 再度[HLL] ご連絡[LHLLL] させて[LHH] いただきます[LHHHHL]	ɡoꜛtaꜜioː iꜛtadakʲi, aꜛɾʲiꜜɡatoː ɡoꜛʣaimaꜜsɨ. deꜛkʲiꜜɾeba kɯꜛɾoda kʲiꜛʦɨkʲisamaɲi toꜛjotakaɾoːɾakaꜜɡaβakaɾa hoꜛkeŋkeꜜːʣokɯno deꜛɴβaɡa aꜜʔta koꜛtoꜜo oꜛʦɨtae iꜛtadakemaꜜsɨdeɕoːka. noꜛʨihodo koꜛʨiɾano baꜛŋɡoꜜːɲi saꜜido ɡoꜛɾeꜜnɾakɯ saꜛsete iꜛtadakʲimaꜜsɨ.
+3/5	EMOTION100_002	シュヴァイツァーは見習うべき人間です。	シュヴァイツァーは[LHLLLL] 見習うべき[LHHLLL] 人間です[LHHHHL]	ɕɨꜛbaꜜiʦaːβa mʲiꜛnaɾaꜜɯbekʲi ɲiꜛŋɡendeꜜsɨ.
+6/10	EMOTION100_015	どーすんの、このお店。完ッ全に閑古鳥が鳴いちゃってるじゃない。	どー[HL] すんの[HLL] この[LH] お店[LHH] 完ッ全に[LHHLLL] 閑古鳥が[LHHLLL] 鳴いちゃってるじゃない[LHHHHLLLL]	doꜜː sɨꜜnno, koꜛno oꜛmʲise. kaꜛɴʔꜜʣeɲɲi kaꜛŋkoꜜdoɾʲiɡa naꜛiʨaʔteꜜɾɯʥanai.
+6/10	EMOTION100_025	その会社の急速な成長は、その独特な戦略によるものだった。	その[LH] 会社の[LHHH] 急速な[LHHHH] 成長は[LHHHH] その[LH] 独特な[LHHHH] 戦略に[LHHHH] よる[LH] ものだった[LHLLL]	soꜛno kaꜛiɕano kʲɨꜛːsokɯna seꜛːʨoːβa, soꜛno doꜛkɯtokɯna seꜛnɾʲakɯɲi joꜛɾɯ moꜛnoꜜdaʔta.
+6/10	RECITATION324_015	ホルロ・アラ・ティタルッフォという特別なお料理も出ました。	ホルロ[LHL] アラ[HL] ティタルッフォと[HLLLLL] いう[LH] 特別な[LHHHH] お料理も[LHLLL] 出ました[LHLL]	hoꜛɾɯꜜɾo aꜜɾa tʲiꜜtaɾɯʔɸoto iꜛɯ toꜛkɯbeʦɨna oꜛɾʲoꜜːɾʲimo deꜛmaꜜɕita.
+3/5	RECITATION324_028	ボストンで、とあるチョプスイ屋へ入って夕飯を食った。	ボストンで[HLLLL] とある[LHL] チョプスイ屋へ[LHHHHH] 入って[HLLL] 夕飯を[LHHHH] 食った[HLL]	boꜜsɨtonde, toꜛaꜜɾɯ ʨoꜛpɯsɨijae haꜜiʔte jɯꜛːhaɴo kɯꜜʔta.
+3/5	RECITATION324_044	ガル博士百体近く。	ガル博士[LHHLL] 百体[LHHL] 近く[HLL]	ɡaꜛɾɯhaꜜkase çaꜛkɯtaꜜi ʨiꜜkakɯ.
+3/5	RECITATION324_058	エピファーノフは財布を無くした。	エピファーノ[LHLLL] フは[HL] 財布を[LHHH] 無くした[HLLL]	eꜛpʲiꜜɸaːno ɸɯꜜβa saꜛiɸɯo naꜜkɯɕita.
+3/5	RECITATION324_066	最初のジョブはウォーリアがいいと思います。	最初の[LHHH] ジョブは[HLL] ウォーリアが[HLLLL] いいと[HLL] 思います[LHHHL]	saꜛiɕono ʥoꜜbɯβa βoꜜːɾʲiaɡa iꜜito oꜛmoimaꜜsɨ.
+3/5	RECITATION324_110	お隣さんが蒟蒻を持っていらっしゃる。	お隣さんが[LHHHHHH] 蒟蒻を[HLLLL] 持って[HLL] いらっしゃる[LHHHL]	oꜛtonaɾʲisaŋɡa koꜜɲɲakɯo moꜜʔte iꜛɾaʔɕaꜜɾɯ.
+3/5	RECITATION324_111	パーティーは楽しむものです。	パーティーは[HLLLL] 楽しむ[LHHL] ものです[LHLL]	paꜜːtʲiːβa taꜛnoɕiꜜmɯ moꜛnoꜜdesɨ.
+3/5	RECITATION324_123	ウィスキーの水割りをガッツリ飲んだ。	ウィスキーの[HLLLL] 水割りを[LHHHH] ガッツリ[LHHL] 飲んだ[HLL]	βiꜜsɨkʲiːno mʲiꜛzɨβaɾʲio ɡaꜛʔʦɨꜜɾʲi noꜜnda.
+3/5	RECITATION324_151	グレンエルギンはウィスキーの蒸留所です。	グレン[HLL] エルギンは[LHHHH] ウィスキーの[HLLLL] 蒸留所です[LHHHHLL]	ɡɯꜜɾeɴ eꜛɾɯɡʲiɴβa βiꜜsɨkʲiːno ʥoꜛːɾʲɨːɕoꜜdesɨ.
+3/5	RECITATION324_179	般若とは鬼女の能面の事です。	般若とは[HLLLL] 鬼女の[HLL] 能面の[LHHHH] 事です[LHLL]	haꜜɲɲatoβa kʲiꜜʥono noꜛːmenno koꜛtoꜜdesɨ.
+3/5	RECITATION324_186	私の病気は先天性なのです。	私の[LHHH] 病気は[LHHH] 先天性な[LHHHHHH] のです[LHL]	βaꜛtaɕino bʲoꜛːkʲiβa seꜛnteɴseːna noꜛdeꜜsɨ.
+3/5	RECITATION324_191	飲み会の参加を拒否した。	飲み会の[LHLLL] 参加を[LHHH] 拒否[HL] した[LH]	noꜛmʲiꜜkaino saꜛŋkao kʲoꜜçi ɕiꜛtaꜜ.
+3/5	RECITATION324_207	渓谷から出た氷河が一本に合流する。	渓谷から[LHHHHH] 出た[LH] 氷河が[HLLL] 一本に[LHLLL] 合流[LHHH] する[LH]	keꜛːkokɯkaɾa deꜛtaꜜ çoꜜːɡaɡa iꜛʔꜜpoɲɲi ɡoꜛːɾʲɨː sɨꜛɾɯ.
+3/5	RECITATION324_212	気球にのって空を楽しむ。	気球に[LHHH] のって[LHH] 空を[HLL] 楽しむ[LHHL]	kʲiꜛkʲɨːɲi noꜛʔte soꜜɾao taꜛnoɕiꜜmɯ.
+6/10	RECITATION324_235	私の精神と一脈相通じるものがあると思いました。	私の[LHHH] 精神と[HLLLL] 一脈相[LHHHLL] 通じる[LHHH] ものが[LHL] あると[HLL] 思いました[LHHHLL]	βaꜛtaɕino seꜜːɕinto iꜛʨimʲakɯꜜɕoː ʦɨꜛːʥiɾɯ moꜛnoꜜɡa aꜜɾɯto oꜛmoimaꜜɕita.
+3/5	RECITATION324_249	浦子は寝ながら息を引いた。	浦子は[LHHH] 寝ながら[LHLL] 息を[HLL] 引いた[LHH]	ɯꜛɾakoβa neꜛnaꜜɡaɾa iꜜkʲio çiꜛitaꜜ.
+3/5	RECITATION324_251	彼は不服そうに呟いた。	彼は[HLL] 不服そうに[LHHLLL] 呟いた[LHHLL]	kaꜜɾeβa ɸɯꜛɸɯkɯꜜsoːɲi ʦɨꜛbɯjaꜜita.
+3/5	RECITATION324_267	軍医は病院の門に入るのである。	軍医は[HLLL] 病院の[LHHHH] 門に[HLL] 入る[HLL] のである[LHHH]	ɡɯꜜɴiβa bʲoꜛːinno moꜜɲɲi haꜜiɾɯ noꜛdeaɾɯ.
+3/5	RECITATION324_291	布でギュギュっとヌンチャクを縛る。	布で[LHH] ギュギュっと[HLLL] ヌンチャクを[LHHHH] 縛る[LHL]	nɯꜛnode ɡʲɨꜜɡʲɨʔto nɯꜛɲʨakɯo ɕiꜛbaꜜɾɯ.
+3/5	RECITATION324_292	服を脱ぐが、いつも上下が逆さまだ。	服を[LHL] 脱ぐが[HLL] いつも[HLL] 上下が[HLLL] 逆さまだ[LHHHH]	ɸɯꜛkɯꜜo nɯꜜɡɯɡa, iꜜʦɨmo ʥoꜜːɡeɡa saꜛkasamada.
+6/10	RECITATION324_304	ティファニーはパピーにムギュッと抱き着きながら、チュチュッとキスをし、センキュと言った。	ティファニーは[HLLLL] パピーに[HLLL] ムギュッと[LHLL] 抱き着きながら[LHHHHLL] チュ[H] チュッと[HLL] キスを[HLL] し[L] セン[HL] キュと[HL] 言った[LHH]	tʲiꜜɸaɲiːβa paꜜpʲiːɲi mɯꜛɡʲɨꜜʔto daꜛkʲiʦɨkʲinaꜜɡaɾa, ʨɨꜜ ʨɨꜜʔto kʲiꜜsɨo ɕi, seꜜŋ kʲɨꜜto iꜛʔtaꜜ.
+3/5	accent_0039	桜が満開になるのは来週です。	桜が[LHHH] 満開に[LHHHH] なる[HL] のは[LH] 来週です[LHHHHL]	saꜛkɯɾaɡa maꜛŋkaiɲi naꜜɾɯ noꜛβa ɾaꜛiɕɨːdeꜜsɨ.
+3/5	accent_0056	遠くで雷が鳴っている。	遠くで[LHHH] 雷が[LHHLL] 鳴って[LHH] いる[LH]	toꜛːkɯde kaꜛmʲinaꜜɾʲiɡa naꜛʔte iꜛɾɯ.
+3/5	accent_0060	夜になると急に寒くなる。	夜に[HLL] なると[HLL] 急に[LHH] 寒くなる[LHLLL]	joꜜɾɯɲi naꜜɾɯto kʲɨꜛːɲi saꜛmɯꜜkɯnaɾɯ.
+3/5	accent_0069	毎日野菜をたくさん食べる。	毎日野菜を[LHHHHLLL] たくさん[LHHH] 食べる[LHL]	maꜛiɲiʨijaꜜsaio taꜛkɯsan taꜛbeꜜɾɯ.
+3/5	accent_0081	大きな荷物を二つ持ってきた。	大きな[HLLL] 荷物を[HLLL] 二つ[LHH] 持って[HLL] きた[HL]	oꜜːkʲina ɲiꜜmoʦɨo ɸɯꜛtaʦɨꜜ moꜜʔte kʲiꜜta.
+3/5	accent_0084	この問題は思ったより難しくない。	この[LH] 問題は[LHHHH] 思ったより[LHLLLL] 難しくない[LHHHLLL]	koꜛno moꜛndaiβa oꜛmoꜜʔtajoɾʲi mɯꜛzɨkaɕiꜜkɯnai.
+3/5	accent_0092	彼が来るかどうかわからない。	彼が[HLL] 来るか[HLL] どうか[HLL] わからない[LHHLL]	kaꜜɾeɡa kɯꜜɾɯka doꜜːka βaꜛkaɾaꜜnai.
+3/5	accent_0099	東京駅から新幹線に乗った。	東京駅から[LHHHLLLL] 新幹線に[LHHLLLL] 乗った[LHH]	toꜛːkʲoːꜜekʲikaɾa ɕiꜛŋkaꜜɴseɲɲi noꜛʔtaꜜ.
+3/5	accent_0102	携帯電話の充電が切れそうだ。	携帯電話の[LHHHHLLL] 充電が[LHHHH] 切れそうだ[LHLLL]	keꜛːtaideꜜɴβano ʥɨꜛːdeŋɡa kʲiꜛɾeꜜsoːda.
+3/5	accent_0109	りんごを五つと、みかんを八つください。	りんごを[LHHH] 五つと[LHLL] みかんを[HLLL] 八つ[LHH] ください[LHHL]	ɾʲiꜛŋɡoo iꜛʦɨꜜʦɨto, mʲiꜜkaɴo jaꜛʔʦɨꜜ kɯꜛdasaꜜi.
+3/5	accent_0112	三階の会議室に来てください。	三階の[LHHHH] 会議室に[LHHLLL] 来て[HL] ください[LHHL]	saꜛŋɡaino kaꜛiɡʲiꜜɕiʦɨɲi kʲiꜜte kɯꜛdasaꜜi.
+12/20	Y006_2	もし「エムアイディー、いち、ぜろ、よん、きゅう」が表示された場合は入力内容をご確認のうえ再度操作をお願いいたします。	もし[HL] エムアイディー[LHHLLL] いち[HL] ぜろ[HL] よん[LH] きゅう[LH] が[L] 表示[LHH] された[LHH] 場合は[LHHH] 入力内容を[LHHHHLLLL] ご確認の[LHLLLL] うえ[LH] 再度[HLL] 操作を[HLLL] お願い[LHHH] いたします[LHHHL]	moꜜɕi “eꜛmɯaꜜidʲiː, iꜜʨi, ʣeꜜɾo, joꜛɴ, kʲɨꜛː” ɡa çoꜛːʥi saꜛɾetaꜜ baꜛaiβa ɲɨꜛːɾʲokɯnaꜜijoːo ɡoꜛkaꜜkɯɲinno ɯꜛe saꜜido soꜜːsao oꜛneɡai iꜛtaɕimaꜜsɨ.
+12/20	T012	かしこまりました。移行手続きのために必要な確認となるのですが、差し支えなければ、どちらの保険会社様へ変更なさったかお伺いしてもよろしいでしょうか。	かしこまりました[LHHHHHLL] 移行手続きの[LHHHHLLL] ために[LHL] 必要な[LHHHH] 確認と[LHHHH] なる[HL] のですが[LHLL] 差し支えなければ[LHHHHLLLL] どちらの[HLLL] 保険会社様へ[LHHHHHHHH] 変更[LHHH] なさったか[LHLLL] お伺い[LHLLL] しても[LHH] よろしいでしょうか[LHHLLLLL]	kaꜛɕikomaɾʲimaꜜɕita. iꜛkoːteʦɨꜜzɨkʲino taꜛmeꜜɲi çiꜛʦɨjoːna kaꜛkɯɲinto naꜜɾɯ noꜛdeꜜsɨɡa, saꜛɕiʦɨkaeꜜnakeɾeba, doꜜʨiɾano hoꜛkeŋɡaiɕasamae heꜛŋkoː naꜛsaꜜʔtaka oꜛɯꜜkaɡai ɕiꜛtemo joꜛɾoɕiꜜideɕoːka.
+3/5	Y012_2	ウェブ口振へ連携いたします。	ウェブ口振へ[LHHLLLL] 連携[LHHH] いたします[LHHHL]	βeꜛbɯkɯꜜʨibɯɾʲie ɾeꜛŋkeː iꜛtaɕimaꜜsɨ.
+11/18	Y005	ご本人確認のため、電話番号しも4桁とキャッシュカード暗証番号をご用意のうえ、ホーム画面右下の「メニュー」をタップしてください。	ご本人確認の[LHHHHHLLLL] ため[LH] 電話番号しも[LHHHHHLLL] 四桁と[LHLLL] キャッシュカード暗証番号を[LHHHHHHHHHHHHLL] ご用意の[LHLLL] うえ[LH] ホーム画面右下の[LHHHHHLLLLL] メニュー[HLL] を[L] タップ[HLL] して[LH] ください[LHHL]	ɡoꜛhoɲɲiŋkaꜜkɯɲinno taꜛmeꜜ, deꜛɴβabaŋɡoꜜːɕimo joꜛŋꜜketato kʲaꜛʔɕɨkaːdoaɴɕoːbaŋɡoꜜːo ɡoꜛjoꜜːino ɯꜛe, hoꜛːmɯɡamemꜜmʲiɡʲiɕitano “meꜜɲɨː” o taꜜʔpɯ ɕiꜛte kɯꜛdasaꜜi.
+8/13	EMOTION100_039	アフィ狙いの釣り記事ですね。英語関係のコミュのあちこちにマルチポストしています。	アフィ狙いの[LHHLLL] 釣り記事ですね[LHLLLLL] 英語関係の[LHHHLLLL] コミュの[HLL] あちこちに[LHLLL] マルチポスト[LHHHLL] して[LH] います[LHL]	aꜛɸʲineꜜɾaino ʦɨꜛɾʲiꜜkʲiʥidesɨne. eꜛːɡokaꜜŋkeːno koꜜmʲɨno aꜛʨiꜜkoʨiɲi maꜛɾɯʨipoꜜsɨto ɕiꜛte iꜛmaꜜsɨ.
+13/21	RECITATION324_230	しかし、これではまるで私が誘拐しましたと自首して出るようなもので、そんな馬鹿なことをするやつはあるまい。	しかし[LHL] これでは[LHHH] まるで[LHH] 私が[LHHH] 誘拐[LHHH] しましたと[LHLLL] 自首[LH] して[LH] 出る[HL] ような[HLL] もので[LHL] そんな[LHH] 馬鹿な[HLL] ことを[LHL] する[LH] やつはあるまい[LHHHHHL]	ɕiꜛkaꜜɕi, koꜛɾedeβa maꜛɾɯde βaꜛtaɕiɡa jɯꜛːkai ɕiꜛmaꜜɕitato ʥiꜛɕɨ ɕiꜛte deꜜɾɯ joꜜːna moꜛnoꜜde, soꜛnnaꜜ baꜜkana koꜛtoꜜo sɨꜛɾɯ jaꜛʦɨβaaɾɯmaꜜi.
+13/21	Y002_1	ログイン時にエラーが出る場合、表示されているメッセージは「いち、いち、ご、データの問合せに失敗しました。」「いち、に、ご、データの問合せに失敗しました。」	ログイン時に[LHHHLL] エラーが[HLLL] 出る[HL] 場合[LHH] 表示[LHH] されて[LHH] いる[LH] メッセージは[HLLLLL] いち[HL] いち[HL] ご[L] データの[HLLL] 問合せに[LHHHHH] 失敗[LHHH] しました[LHLL] いち[HL] に[L] ご[L] データの[HLLL] 問合せに[LHHHHH] 失敗[LHHH] しました[LHLL]	ɾoꜛɡɯiɲꜜʥiɲi eꜜɾaːɡa deꜜɾɯ baꜛai, çoꜛːʥi saꜛɾete iꜛɾɯ meꜜʔseːʥiβa “iꜜʨi, iꜜʨi, ɡo, deꜜːtano toꜛiaβaseɲi ɕiꜛʔpai ɕiꜛmaꜜɕita.” “iꜜʨi, ɲi, ɡo, deꜜːtano toꜛiaβaseɲi ɕiꜛʔpai ɕiꜛmaꜜɕita.”
+13/21	Y007_2	エイチ、アイ、ビー、エー、エヌ、ケー、ドット、シー、オー、ドット、ジェー、ピー、ドメインからのメールを受信できるように設定してください。	エイチ[HLL] アイ[HL] ビー[HL] エー[HL] エヌ[HL] ケー[HL] ドット[HLL] シー[HL] オー[HL] ドット[HLL] ジェー[HL] ピー[HL] ドメインからの[LHLLLLL] メールを[LHHH] 受信[LHH] できる[LHL] ように[HLL] 設定[LHHH] して[LH] ください[LHHL]	eꜜiʨi, aꜜi, bʲiꜜː, eꜜː, eꜜnɯ, keꜜː, doꜜʔto, siꜜː, oꜜː, doꜜʔto, ʥeꜜː, pʲiꜜː, doꜛmeꜜiŋkaɾano meꜛːɾɯo ʥɨꜛɕin deꜛkʲiꜜɾɯ joꜜːɲi seꜛʔteː ɕiꜛte kɯꜛdasaꜜi.
+5/8	EMOTION100_029	牛乳はあなたの体に良いだろう、毎日飲んだほうがいい。	牛乳は[LHHHH] あなたの[LHLL] 体に[LHHH] 良いだろう[HLLLL] 毎日[HLLL] 飲んだ[HLL] ほうが[HLL] いい[HL]	ɡʲɨꜛːɲɨːβa aꜛnaꜜtano kaꜛɾadaɲi joꜜidaɾoː, maꜜiɲiʨi noꜜnda hoꜜːɡa iꜜi.
+5/8	EMOTION100_032	彼は自らの生涯を、インドでの病人の治療に捧げるつもりだ。	彼は[HLL] 自らの[HLLLL] 生涯を[HLLLL] インドでの[HLLLL] 病人の[LHHHH] 治療に[LHHH] 捧げる[LHHH] つもりだ[LHHH]	kaꜜɾeβa mʲiꜜzɨkaɾano ɕoꜜːɡaio, iꜜndodeno bʲoꜛːɲinno ʨiꜛɾʲoːɲi saꜛsaɡeɾɯ ʦɨꜛmoɾʲida.
+5/8	EMOTION100_044	この丘からは何百万という星が見える。	この[LH] 丘からは[LHHHH] 何百万と[LHHHLLL] いう[LH] 星が[LHH] 見える[LHL]	koꜛno oꜛkakaɾaβa naꜛmbʲakɯꜜmanto iꜛɯ hoꜛɕiɡa mʲiꜛeꜜɾɯ.
+5/8	EMOTION100_065	そんなに慌てて運転して、一体どこへ行こうってんだよ。	そんなに[LHHH] 慌てて[LHHH] 運転[LHHH] して[LH] 一体[LHHH] どこへ[HLL] 行こうって[LHHHH] んだよ[HLL]	soꜛnnaɲiꜜ aꜛβatete ɯꜛnteɴ ɕiꜛte, iꜛʔtai doꜜkoe iꜛkoːʔte nꜜdajo.
+5/8	RECITATION324_046	写経の美しさに私は仰天してしまった。	写経の[LHHH] 美しさに[LHHHLL] 私は[LHHH] 仰天[LHHH] して[LH] しまった[LHLL]	ɕaꜛkʲoːno ɯꜛʦɨkɯɕiꜜsaɲi βaꜛtaɕiβa ɡʲoꜛːteɴ ɕiꜛte ɕiꜛmaꜜʔta.
+5/8	RECITATION324_133	お昼前ジャスパーさん宅へ再びお邪魔しました。	お[L] 昼前[LHHL] ジャスパーさん[HLLLLL] 宅へ[LHH] 再び[LHHH] お邪魔[HLL] しました[LHLL]	o çiꜛɾɯmaꜜe ʥaꜜsɨpaːsan taꜛkɯe ɸɯꜛtatabʲi oꜜʥama ɕiꜛmaꜜɕita.
+5/8	RECITATION324_215	過去の数々の奇病が治るようになりつつある。	過去の[HLL] 数々の[HLLLL] 奇病が[LHHH] 治る[LHL] ように[HLL] なりつつ[LHHL] ある[HL]	kaꜜkono kaꜜzɨkazɨno kʲiꜛbʲoːɡa naꜛoꜜɾɯ joꜜːɲi naꜛɾʲiʦɨꜜʦɨ aꜜɾɯ.
+5/8	RECITATION324_232	しばらくしてパチパチという音も止んだ。	しばらく[LHLL] して[LH] パチ[LH] パチと[LHL] いう[LH] 音も[LHL] 止んだ[HLL]	ɕiꜛbaꜜɾakɯ ɕiꜛte paꜛʨiꜜ paꜛʨiꜜto iꜛɯ oꜛtoꜜmo jaꜜnda.
+5/8	RECITATION324_308	補佐が、一酸化炭素中毒になるというハプニングは起きなかった。	補佐が[HLL] 一酸化炭素中毒に[LHHHHHHHHLLLL] なると[HLL] いう[LH] ハプニングは[HLLLLL] 起きなかった[LHLLLL]	hoꜜsaɡa, iꜛʔsaŋkataɴsoʨɨꜜːdokɯɲi naꜜɾɯto iꜛɯ haꜜpɯɲiŋɡɯβa oꜛkʲiꜜnakaʔta.
+5/8	accent_0020	部屋の模様を少し変えるだけで気分が変わる。	部屋の[LHL] 模様を[LHHH] 少し[LHL] 変えるだけで[LHHHHH] 気分が[HLLL] 変わる[LHH]	heꜛjaꜜno moꜛjoːo sɨꜛkoꜜɕi kaꜛeɾɯdakede kʲiꜜbɯŋɡa kaꜛβaɾɯ.
+5/8	accent_0026	真っ白な雪が一晩で積もった。	真っ白な[LHHLL] 雪が[LHL] 一晩で[LHLLL] 積もった[LHLL]	maꜛʔɕiꜜɾona jɯꜛkʲiꜜɡa çiꜛtoꜜbande ʦɨꜛmoꜜʔta.
+5/8	accent_0059	弟と妹は同じ学校に通っている。	弟と[LHHHL] 妹は[LHHHL] 同じ[LHH] 学校に[LHHHH] 通って[LHHH] いる[LH]	oꜛtoːtoꜜto iꜛmoːtoꜜβa oꜛnaʥi ɡaꜛʔkoːɲi kaꜛjoʔte iꜛɾɯ.
+5/8	accent_0093	暑くても寒くても毎日走っている。	暑くても[LHLLL] 寒くても[LHLLL] 毎日[HLLL] 走って[LHLL] いる[LH]	aꜛʦɨꜜkɯtemo saꜛmɯꜜkɯtemo maꜜiɲiʨi haꜛɕiꜜʔte iꜛɾɯ.
+5/8	accent_0162	週末は家族と一緒に海の近くの旅館に泊まる予定です。	週末は[LHHHH] 家族と[HLLL] 一緒に[LHHH] 海の[HLL] 近くの[HLLL] 旅館に[LHHH] 泊まる[LHH] 予定です[LHHHL]	ɕɨꜛːmaʦɨβa kaꜜʣokɯto iꜛʔɕoɲi ɯꜜmʲino ʨiꜜkakɯno ɾʲoꜛkaɲɲi toꜛmaɾɯ joꜛteːdeꜜsɨ.
+5/8	accent_0163	説明書をよく読んでから、ゆっくり組み立ててください。	説明書を[LHHHHH] よく[HL] 読んでから[HLLLL] ゆっくり[LHHL] 組み立てて[LHHHH] ください[LHHL]	seꜛʦɨmeːɕoo joꜜkɯ joꜜndekaɾa, jɯꜛʔkɯꜜɾʲi kɯꜛmʲitatete kɯꜛdasaꜜi.
+15/24	Y007_1	「エムアイディー、いち、ぜろ、いち、なな」というエラーが表示される場合、受信拒否設定をご確認いただき、アットマーク、ワイ、エー、エム、エー、ジー、ユー、シー、	エムアイディー[LHHLLL] いち[HL] ぜろ[HL] いち[HL] なな[HL] と[L] いう[LH] エラーが[HLLL] 表示[LHH] される[LHH] 場合[LHH] 受信拒否設定を[LHHHHHLLLL] ご確認[LHLLL] いただき[LHHH] アットマーク[LHHHLL] ワイ[HL] エー[HL] エム[HL] エー[HL] ジー[LH] ユー[HL] シー[HL]	“eꜛmɯaꜜidʲiː, iꜜʨi, ʣeꜜɾo, iꜜʨi, naꜜna” to iꜛɯ eꜜɾaːɡa çoꜛːʥi saꜛɾeɾɯ baꜛai, ʥɨꜛɕiŋkʲoçiseꜜʔteːo ɡoꜛkaꜜkɯɲiɴ iꜛtadakʲi, aꜛʔtomaꜜːkɯ, βaꜜi, eꜜː, eꜜmɯ, eꜜː, ʥiꜛː, jɯꜜː, siꜜː,
+10/16	T004	小林彩香様は2026年2月29日にビーズィーフォーエックスの保険見積もりを希望しています。	小林[LHHH] 彩香様は[LHHHHH] 二千[LHL] 二十[HLL] 六年[LHLL] ２月[LHH] 二十[HLL] 九日に[HLLL] ビーズィーフォーエックスの[HLLLLLLLLLL] 保険見積もりを[LHHHLLLL] 希望[LHH] して[LH] います[LHL]	koꜛbajaɕi aꜛjakasamaβa ɲiꜛseꜜɲ ɲiꜜʥɨː ɾoꜛkɯꜜneɲ ɲiꜛɡaʦɨꜜ ɲiꜜʥɨː kɯꜜɲiʨiɲi bʲiꜜːziːɸoːeʔkɯsɨno hoꜛkemmʲiꜜʦɨmoɾʲio kʲiꜛboː ɕiꜛte iꜛmaꜜsɨ.
+10/16	Y012_1	当行の金融機関コードは、ぜろ、いち、なな、ぜろ、支店コードは、ぜろ、ぜろ、いちでございますので、状況を確認のうえ担当部署、	当行の[HLLLL] 金融機関コードは[LHHHHHHHLLL] ぜろ[HL] いち[HL] なな[HL] ぜろ[HL] 支店コードは[LHHHLLL] ぜろ[HL] ぜろ[HL] いちでございますので[LHHHHHHLLL] 状況を[LHHHH] 確認の[LHHHH] うえ担当部署[LHHHHHLL]	toꜜːkoːno kʲiꜛɴjɯːkʲikaŋkoꜜːdoβa, ʣeꜜɾo, iꜜʨi, naꜜna, ʣeꜜɾo, ɕiꜛteŋkoꜜːdoβa, ʣeꜜɾo, ʣeꜜɾo, iꜛʨideɡoʣaimaꜜsɨnode, ʥoꜛːkʲoːo kaꜛkɯɲinno ɯꜛetantoːꜜbɯɕo,
+7/11	EMOTION100_023	私の一番上の兄が父の名代としてその会合に出席した。	私の[LHHH] 一番[LHHH] 上の[LHH] 兄が[HLL] 父の[HLL] 名代と[LHHH] して[LH] その[LH] 会合に[LHHHH] 出席[LHHH] した[LH]	βaꜛtaɕino iꜛʨibaɴ ɯꜛeno aꜜɲiɡa ʨiꜜʨino naꜛdaito ɕiꜛte soꜛno kaꜛiɡoːɲi ɕɨꜛʔsekʲi ɕiꜛtaꜜ.
+7/11	EMOTION100_038	気分が悪くて入院したが、結果的にはたいしたことはなかった。	気分が[HLLL] 悪くて[LHLL] 入院[LHHH] したが[LHL] 結果的には[LHHLLLL] たいした[HLLL] ことは[LHL] なかった[HLLL]	kʲiꜜbɯŋɡa βaꜛɾɯꜜkɯte ɲɨꜛːiɴ ɕiꜛtaꜜɡa, keꜛʔkaꜜtekʲiɲiβa taꜜiɕita koꜛtoꜜβa naꜜkaʔta.
+7/11	RECITATION324_013	1877、プフェファーにより浸透現象が発見された。	千[HL] 八百[LHHH] 七十[HLLL] 七[HL] プフェファーに[LHLLL] より[LH] 浸透現象が[LHHHHLLLL] 発見[LHHH] された[LHH]	seꜜɴ haꜛʔpʲakɯꜜ naꜜnaʥɨː naꜜna, pɯꜛɸeꜜɸaːɲi joꜛɾʲi ɕiꜛntoːɡeꜜɴɕoːɡa haꜛʔkeɴ saꜛɾetaꜜ.
+7/11	RECITATION324_124	これやお祭りを若いものに見せるにゃ持ってこいだ。	これや[LHH] お祭りを[LHLLL] 若い[LHL] ものに[LHL] 見せるにゃ[LHLL] 持って[HLL] こいだ[HLL]	koꜛɾeja oꜛmaꜜʦɨɾʲio βaꜛkaꜜi moꜛnoꜜɲi mʲiꜛseꜜɾɯɲa moꜜʔte koꜜida.
+7/11	RECITATION324_214	かれらは幕のあいだに木戸の外を散歩しているのである。	かれらは[LHLL] 幕の[LHL] あいだに[LHHH] 木戸の[HLL] 外を[HLL] 散歩[LHH] して[LH] いる[LH] のである[LHHH]	kaꜛɾeꜜɾaβa maꜛkɯꜜno aꜛidaɲi kʲiꜜdono soꜜtoo saꜛmpo ɕiꜛte iꜛɾɯ noꜛdeaɾɯ.
+7/11	accent_0177	友達に勧められて読んだ小説が、思っていたよりずっと面白かった。	友達に[LHHHH] 勧められて[LHHHHH] 読んだ[HLL] 小説が[LHHHH] 思って[LHLL] いたより[LHLL] ずっと[LHH] 面白かった[LHHHLLL]	toꜛmodaʨiɲi sɨꜛsɨmeɾaɾete joꜜnda ɕoꜛːseʦɨɡa, oꜛmoꜜʔte iꜛtaꜜjoɾʲi zɨꜛʔto oꜛmoɕiɾoꜜkaʔta.
+14/22	T017	承知いたしました。2027年1月1日14時にトヨタカローラ香川のかすが店でピクシスバンの更新予約を承っております。	承知[LHH] いたしました[LHHHLL] 二千[LHL] 二十[HLL] 七年[LHLL] １月[LHHH] 一日[LHHH] 十[LH] 四時に[HLL] トヨタカローラ香川の[LHHHHHHHLLL] かすが店で[LHHLLL] ピクシスバンの[LHHHLLL] 更新予約を[LHHHHLLL] 承って[LHHHHLL] おります[LHHL]	ɕoꜛːʨi iꜛtaɕimaꜜɕita. ɲiꜛseꜜɲ ɲiꜜʥɨː naꜛnaꜜneɴ iꜛʨiɡaʦɨꜜ ʦɨꜛitaʨiꜜ ʥɨꜛː joꜜʥiɲi toꜛjotakaɾoːɾakaꜜɡaβano kaꜛsɨɡaꜜtende pʲiꜛkɯɕisɨꜜbanno koꜛːɕiɴjoꜜjakɯo ɯꜛketamaβaꜜʔte oꜛɾʲimaꜜsɨ.
+11/17	EMOTION100_043	店の人は私のことを知るようになり、私はいつも同じウェイトレスに応対してもらっていた。	店の[LHL] 人は[LHH] 私の[LHHH] ことを[LHL] 知る[LH] ように[HLL] なり[HL] 私は[LHHH] いつも[HLL] 同じ[LHH] ウェイトレスに[LHLLLL] 応対[LHHH] して[LH] もらって[LHHH] いた[LH]	mʲiꜛseꜜno çiꜛtoβa βaꜛtaɕino koꜛtoꜜo ɕiꜛɾɯ joꜜːɲi naꜜɾʲi, βaꜛtaɕiβa iꜜʦɨmo oꜛnaʥi βeꜛiꜜtoɾesɨɲi oꜛːtai ɕiꜛte moꜛɾaʔte iꜛtaꜜ.
+13/20	T001	伊藤彩香様は、2025年4月14日にトヨタカローラ香川の善通寺インター店でハイエースバンの自動車保険更新を予約されています。	伊藤[LHH] 彩香様は[LHHHHH] 二千[LHL] 二十[HLL] 五年[HLL] ４月[LHH] 十四日に[HLLLLL] トヨタカローラ香川の[LHHHHHHHLLL] 善通寺インター店で[LHHHHHHHHLLL] ハイエースバンの[LHHHHLLL] 自動車保険更新を[LHHHHHHHLLLL] 予約[LHH] されて[LHH] います[LHL]	iꜛtoː aꜛjakasamaβa, ɲiꜛseꜜɲ ɲiꜜʥɨː ɡoꜜneɴ ɕiꜛɡaʦɨꜜ ʥɨꜜːjoʔkaɲi toꜛjotakaɾoːɾakaꜜɡaβano ʣeꜛɴʦɨːʥiintaːꜜtende haꜛieːsɨꜜbanno ʥiꜛdoːɕahokeŋkoꜜːɕiɴo joꜛjakɯ saꜛɾete iꜛmaꜜsɨ.
+4/6	EMOTION100_047	別にブルマに特別な関心があるわけじゃない。	別に[LHH] ブルマに[HLLL] 特別な[LHHHH] 関心が[LHHHH] ある[HL] わけじゃない[HLLLL]	beꜛʦɨɲi bɯꜜɾɯmaɲi toꜛkɯbeʦɨna kaꜛɴɕiŋɡa aꜜɾɯ βaꜜkeʥanai.
+4/6	EMOTION100_048	そういうフェティシズムはないと思う。	そういう[LHHH] フェティシズムは[LHHLLL] ないと[HLL] 思う[LHL]	soꜛːjɯɯ ɸeꜛtʲiɕiꜜzɨmɯβa naꜜito oꜛmoꜜɯ.
+8/12	EMOTION100_060	とりあえず店の前、掃除しといてくれ。打ち水も頼む。	とりあえず[LHHLL] 店の[LHL] 前[HL] 掃除[LHH] しといて[LHHH] くれ[LH] 打ち水も[LHLLL] 頼む[LHL]	toꜛɾʲiaꜜezɨ mʲiꜛseꜜno maꜜe, soꜛːʥi ɕiꜛtoite kɯꜛɾe. ɯꜛʨiꜜmʲizɨmo taꜛnoꜜmɯ.
+12/18	EMOTION100_067	ディスプレイはモニタともいい、コンピュータなどの機器から出力される静止画、または動画の映像信号を表示する機器である。	ディスプレイは[LHHHLL] モニタとも[HLLLL] いい[HL] コンピュータなどの[LHHLLLLL] 機器から[HLLL] 出力[LHLL] される[LHH] 静止画[LHHH] または[LHL] 動画の[LHHH] 映像信号を[LHHHHLLLL] 表示[LHH] する[LH] 機器である[HLLLL]	dʲiꜛsɨpɯɾeꜜiβa moꜜɲitatomo iꜜi, koꜛmpʲɨꜜːtanadono kʲiꜜkʲikaɾa ɕɨꜛʦɨꜜɾʲokɯ saꜛɾeɾɯ seꜛːɕiɡa, maꜛtaꜜβa doꜛːɡano eꜛːʣoːɕiꜜŋɡoːo çoꜛːʥi sɨꜛɾɯ kʲiꜜkʲideaɾɯ.
+6/9	EMOTION100_073	私たちは恐怖の中で生きていて、苦しんでいるの。	私たちは[LHHLLL] 恐怖の[HLLL] 中で[HLL] 生きて[LHL] いて[LH] 苦しんで[LHHLL] いるの[LHL]	βaꜛtaɕiꜜtaʨiβa kʲoꜜːɸɯno naꜜkade iꜛkʲiꜜte iꜛte, kɯꜛɾɯɕiꜜnde iꜛɾɯꜜno.
+2/3	RECITATION324_002	ツァツォに旅行した。	ツァツォに[HLL] 旅行[LHH] した[LH]	ʦaꜜʦoɲi ɾʲoꜛkoː ɕiꜛtaꜜ.
+4/6	RECITATION324_030	かつて一人で国府に侵入した。	かつて[HLL] 一人で[LHLL] 国府に[HLLL] 侵入[LHHH] した[LH]	kaꜜʦɨte çiꜛtoꜜɾʲide koꜜkɯɸɯɲi ɕiꜛɲɲɨː ɕiꜛtaꜜ.
+8/12	RECITATION324_031	だが、今日お前がここへ御入来になったのは、どんなご用なのかな？	だが[HL] 今日[HL] お前が[LHHH] ここへ[LHH] 御入来に[LHLLLL] なった[HLL] のは[LH] どんな[HLL] ご用な[LHLL] のかな[LHH]	daꜜɡa, kʲoꜜː oꜛmaeɡa koꜛkoe ɡoꜛɲɨꜜːɾaiɲi naꜜʔta noꜛβa, doꜜnna ɡoꜛjoꜜːna noꜛkana?
+6/9	RECITATION324_041	ボスニア国境からの攻撃により、十一月にヴァリェヴォが占領された。	ボスニア国境からの[LHHHHLLLLLL] 攻撃に[LHHHH] より[HL] 十一月に[LHHHHHL] ヴァリェヴォが[HLLLL] 占領[LHHH] された[LHH]	boꜛsɨɲiakoꜜʔkʲoːkaɾano koꜛːɡekʲiɲi joꜜɾʲi, ʥɨꜛːiʨiɡaʦɨꜜɲi baꜜɾʲievoɡa seꜛnɾʲoː saꜛɾetaꜜ.
+6/9	RECITATION324_047	ソプラノ歌手ポリランダチョは歌劇アイーダの特別名歌手と評判です。	ソプラノ歌手ポリランダチョは[LHHHHHHHHLLLL] 歌劇アイーダの[LHHHHLLL] 特別[LHHH] 名歌手と[LHLLL] 評判です[LHHHHL]	soꜛpɯɾanokaɕɨpoɾʲiɾaꜜndaʨoβa kaꜛɡekʲiaiꜜːdano toꜛkɯbeʦɨ meꜛːꜜkaɕɨto çoꜛːbandeꜜsɨ.
+6/9	RECITATION324_061	おめえ、この仕込みにゃあ、どのくれえ時間かかるか知ってっか。	おめえ[LHH] この[LH] 仕込み[LHH] にゃあ[HL] どの[HL] くれえ[LHL] 時間[LHH] かかるか[LHLL] 知ってっか[LHHHH]	oꜛmeː, koꜛno ɕiꜛkomʲi ɲaꜜː, doꜜno kɯꜛɾeꜜː ʥiꜛkaŋ kaꜛkaꜜɾɯka ɕiꜛʔteʔka.
+6/9	RECITATION324_062	それに、このほうが体のためにゃずっといいんだからね。	それに[LHH] この[LH] ほうが[HLL] 体の[LHHH] ためにゃ[LHL] ずっと[LHH] いい[HL] んだからね[HLLLL]	soꜛɾeɲi, koꜛno hoꜜːɡa kaꜛɾadano taꜛmeꜜɲa zɨꜛʔto iꜜi nꜜdakaɾane.
+4/6	RECITATION324_072	突拍子もない話だが、決して嘘ではない。	突拍子も[LHHHHH] ない[HL] 話だが[LHHLL] 決して[LHHH] 嘘ではない[HLLLLL]	toꜛʔpʲoːɕimo naꜜi haꜛnaɕiꜜdaɡa, keꜛʔɕite ɯꜜsodeβanai.
+4/6	RECITATION324_078	すべての獲物を望みどおりに狙う技術がある。	すべての[HLLL] 獲物を[LHHH] 望みどおりに[LHHLLLL] 狙う[LHH] 技術が[HLLL] ある[HL]	sɨꜜbeteno eꜛmonoo noꜛʣomʲiꜜdoːɾʲiɲi neꜛɾaɯ ɡʲiꜜʥɨʦɨɡa aꜜɾɯ.
+4/6	RECITATION324_079	タコのグニャグニャした感触が嫌だ。	タコの[HLL] グニャグニャ[HLLL] した[LH] 感触が[LHHHH] 嫌だ[LHL]	taꜜkono ɡɯꜜɲaɡɯɲa ɕiꜛtaꜜ kaꜛɴɕokɯɡa iꜛjaꜜda.
+4/6	RECITATION324_097	客人をもてなすのは当然です。	客人を[LHHHH] もてなす[LHHL] のは[LH] 当然です[LHHHHL]	kʲaꜛkɯʥiɴo moꜛtenaꜜsɨ noꜛβa toꜛːʣendeꜜsɨ.
+4/6	RECITATION324_117	世界中の様々なモニュメントを訪ね歩いた。	世界中の[LHHHHH] 様々な[LHLLL] モニュメントを[HLLLLL] 訪ね歩いた[LHHLLLL]	seꜛkaiʥɨːno saꜛmaꜜʣamana moꜜɲɨmentoo taꜛzɨneꜜaɾɯita.
+4/6	RECITATION324_122	モンタギュ・ゴーシ卿がマンチェスターに来た。	モンタギュ[LHHH] ゴー[HL] シ卿が[HLLL] マンチェスターに[LHHLLLL] 来た[HL]	moꜛntaɡʲɨ ɡoꜜː ɕiꜜkʲoːɡa maꜛɲʨeꜜsɨtaːɲi kʲiꜜta.
+6/9	RECITATION324_128	均一居酒屋では一番売れても二人で八千円くらいだ。	均一居酒屋では[LHHHHLLLLL] 一番[LHLL] 売れても[LHHH] 二人で[LHHL] 八千円くらいだ[LHHHHHHLLL]	kʲiꜛɴiʦɨiꜜʣakajadeβa iꜛʨiꜜbaɴ ɯꜛɾetemo ɸɯꜛtaɾʲiꜜde haꜛʔseɴeŋkɯꜜɾaida.
+4/6	RECITATION324_143	ケプラーの法則について直接私に聞いてきた。	ケプラーの[HLLLL] 法則に[LHHHH] ついて[HLL] 直接[LHHH] 私に[LHHH] 聞いて[LHH] きた[HL]	keꜜpɯɾaːno hoꜛːsokɯɲi ʦɨꜜite ʨoꜛkɯseʦɨ βaꜛtaɕiɲi kʲiꜛite kʲiꜜta.
+6/9	RECITATION324_147	自分を評価するのは会社であって、行き過ぎた自己表現は失脚につながる。	自分を[LHHH] 評価[HLL] する[LH] のは[LH] 会社であって[LHHHHHH] 行き過ぎた[LHHHL] 自己表現は[LHHHHLL] 失脚に[LHHHH] つながる[LHHH]	ʥiꜛbɯɴo çoꜜːka sɨꜛɾɯ noꜛβa kaꜛiɕadeaʔte, iꜛkʲisɨɡʲiꜜta ʥiꜛkoçoːɡeꜜɴβa ɕiꜛʔkʲakɯɲi ʦɨꜛnaɡaɾɯ.
+4/6	RECITATION324_150	水中の金魚をすくうためのポイ。	水中の[LHHHH] 金魚を[HLLL] すくう[LHH] ための[LHL] ポイ[HL]	sɨꜛiʨɨːno kʲiꜜŋɡʲoo sɨꜛkɯɯ taꜛmeꜜno poꜜi.
+8/12	RECITATION324_154	平一郎はシャツ一枚になって絹物の布団の中へ潜りこんだ。	平一郎は[LHHLLLL] シャツ[HL] 一枚に[LHLLL] なって[HLL] 絹物の[LHLLL] 布団の[LHHH] 中へ[HLL] 潜りこんだ[LHHHLL]	heꜛːiꜜʨiɾoːβa ɕaꜜʦɨ iꜛʨiꜜmaiɲi naꜜʔte kʲiꜛnɯꜜmonono ɸɯꜛtonno naꜜkae moꜛɡɯɾʲikoꜜnda.
+12/18	RECITATION324_158	わたしの家ばかりでなく、近所の住居といわず、商店といわず、バラックの家々ではみな草花を植えている。	わたしの[LHHH] 家ばかりでなく[LHHHHHLL] 近所の[HLLL] 住居と[HLLL] いわず[LHL] 商店と[HLLLL] いわず[LHL] バラックの[LHLLL] 家々では[LHLLLL] みな草花を[LHHHLLL] 植えて[LHH] いる[LH]	βaꜛtaɕino iꜛebakaɾʲideꜜnakɯ, kʲiꜜɲʥono ʥɨꜜːkʲoto iꜛβaꜜzɨ, ɕoꜜːtento iꜛβaꜜzɨ, baꜛɾaꜜʔkɯno iꜛeꜜiedeβa mʲiꜛnakɯsaꜜbanao ɯꜛete iꜛɾɯ.
+4/6	RECITATION324_172	取っつきにくい女中が三人いる。	取っつきにくい[LHHHHHL] 女中が[LHHH] 三人[LHLL] いる[LH]	toꜛʔʦɨkʲiɲikɯꜜi ʥoꜛʨɨːɡa saꜛɲꜜɲiɴ iꜛɾɯ.
+4/6	RECITATION324_178	八百屋に行って百円で大根を買った。	八百屋に[LHHH] 行って[LHH] 百円で[LHLLL] 大根を[LHHHH] 買った[LHH]	jaꜛojaɲi iꜛʔte çaꜛkɯꜜende daꜛikoɴo kaꜛʔtaꜜ.
+4/6	RECITATION324_181	しかしパーで回るのも難しい。	しかし[LHL] パーで[HLL] 回る[LHH] のも[LH] 難しい[LHHHL]	ɕiꜛkaꜜɕi paꜜːde maꜛβaɾɯ noꜛmo mɯꜛzɨkaɕiꜜi.
+6/9	RECITATION324_202	誰かが後ろへ来て、変な声で叫んだのでぞっとした。	誰かが[HLLL] 後ろへ[LHHH] 来て[HL] 変な[HLL] 声で[HLL] 叫んだので[LHLLLL] ぞっと[LHH] した[LH]	daꜜɾekaɡa ɯꜛɕiɾoe kʲiꜜte, heꜜnna koꜜede saꜛkeꜜndanode ʣoꜛʔto ɕiꜛtaꜜ.
+2/3	RECITATION324_208	ディスカッションを進める。	ディスカッションを[LHHLLLL] 進める[LHHH]	dʲiꜛsɨkaꜜʔɕoɴo sɨꜛsɨmeɾɯ.
+4/6	RECITATION324_223	アスファルトに囲まれた中にケヤキの木が一本。	アスファルトに[LHHLLL] 囲まれた[LHHHH] 中に[HLL] ケヤキの[LHHH] 木が[HL] 一本[LHLL]	aꜛsɨɸaꜜɾɯtoɲi kaꜛkomaɾetaꜜ naꜜkaɲi keꜛjakʲino kʲiꜜɡa iꜛʔꜜpoɴ.
+2/3	RECITATION324_224	名札を用意する。	名札を[LHHH] 用意[HLL] する[LH]	naꜛɸɯdao joꜜːi sɨꜛɾɯ.
+2/3	RECITATION324_250	兄が邪険にされた。	兄が[HLL] 邪険に[HLLL] された[LHH]	aꜜɲiɡa ʥaꜜkeɲɲi saꜛɾetaꜜ.
+4/6	RECITATION324_258	彼女と初デートの今日は夢うつつ。	彼女と[HLLL] 初デートの[LHHLLL] 今日は[HLL] 夢うつつ[LHHLL]	kaꜜnoʥoto haꜛʦɨdeꜜːtono kʲoꜜːβa jɯꜛmeɯꜜʦɨʦɨ.
+2/3	RECITATION324_280	マリアーンスケー・ラーズニェを訪れる。	マリアーンスケー・ラーズニェを[HLLLLLLLLLLLL] 訪れる[LHHLL]	maꜜɾʲiaːɴsɨkeːɾaːzɨɲeo oꜛtozɨꜜɾeɾɯ.
+4/6	RECITATION324_305	その義軍は、一ヘクタールほふく前進をした。	その[LH] 義軍は[LHHH] 一ヘクタール[LHHHHLL] ほふく前進を[LHHHLLLL] した[LH]	soꜛno ɡʲiꜛɡɯɴβa, iꜛʨihekɯtaꜜːɾɯ hoꜛɸɯkɯʣeꜜɴɕiɴo ɕiꜛtaꜜ.
+6/9	RECITATION324_315	脚立の上でヒュヒューと風が吹くと、彼は背筋を伸ばした。	脚立の[LHHH] 上で[LHH] ヒュヒューと[HLLL] 風が[LHH] 吹くと[HLL] 彼は[HLL] 背筋を[HLLL] 伸ばした[LHLL]	kʲaꜛtaʦɨno ɯꜛede çɨꜜçɨːto kaꜛʣeɡa ɸɯꜜkɯto, kaꜜɾeβa seꜜsɨʥio noꜛbaꜜɕita.
+2/3	RECITATION324_318	皮膚が私のフェチである。	皮膚が[HLL] 私の[LHHH] フェチである[HLLLL]	çiꜜɸɯɡa βaꜛtaɕino ɸeꜜʨideaɾɯ.
+4/6	accent_0001	秋になると山の木々が赤く染まります。	秋に[HLL] なると[HLL] 山の[LHL] 木々が[HLL] 赤く染まります[LHHHHHHL]	aꜜkʲiɲi naꜜɾɯto jaꜛmaꜜno kʲiꜜɡʲiɡa aꜛkakɯsomaɾʲimaꜜsɨ.
+6/9	accent_0002	空きの部屋がまだ一つ残っています。	空きの[LHH] 部屋が[LHL] まだ[HL] 一つ[LHL] 残って[LHLL] います[LHL]	aꜛkʲino heꜛjaꜜɡa maꜜda çiꜛtoꜜʦɨ noꜛkoꜜʔte iꜛmaꜜsɨ.
+4/6	accent_0015	駅前の店でパンを買う。	駅前の[LHHLL] 店で[LHL] パンを[HLL] 買う[LH]	eꜛkʲimaꜜeno mʲiꜛseꜜde paꜜɴo kaꜛɯ.
+4/6	accent_0023	仕事が終わったらまっすぐ帰る。	仕事が[LHHH] 終わったら[LHHHL] まっすぐ[LHHL] 帰る[HLL]	ɕiꜛɡotoɡa oꜛβaʔtaꜜɾa maꜛʔsɨꜜɡɯ kaꜜeɾɯ.
+4/6	accent_0035	明日は午後から雪が降るらしい。	明日は[LHHL] 午後から[HLLL] 雪が[LHL] 降るらしい[HLLLL]	aꜛɕitaꜜβa ɡoꜜɡokaɾa jɯꜛkʲiꜜɡa ɸɯꜜɾɯɾaɕii.
+4/6	accent_0037	夜中に急に雪が降ってきた。	夜中に[LHHL] 急に[LHH] 雪が[LHL] 降って[HLL] きた[HL]	joꜛnakaꜜɲi kʲɨꜛːɲi jɯꜛkʲiꜜɡa ɸɯꜜʔte kʲiꜜta.
+2/3	accent_0079	空が赤く染まっていく。	空が[HLL] 赤く染まって[LHHHHHH] いく[LH]	soꜜɾaɡa aꜛkakɯsomaʔte iꜛkɯ.
+4/6	accent_0095	冷たい水を一杯ください。	冷たい[LHHH] 水を[LHH] 一杯[LHLL] ください[LHHL]	ʦɨꜛmetai mʲiꜛzɨo iꜛʔꜜpai kɯꜛdasaꜜi.
+2/3	accent_0106	誕生日は七月二十日です。	誕生日は[LHHHLL] 七月[LHHH] 二十日です[LHHHL]	taꜛɲʥoːꜜbʲiβa ɕiꜛʨiɡaʦɨꜜ haꜛʦɨkadeꜜsɨ.
+2/3	accent_0111	二週間ぶりに実家に帰った。	二週間ぶりに[LHHHHHHH] 実家に[LHHH] 帰った[HLLL]	ɲiꜛɕɨːkambɯɾʲiɲi ʥiꜛʔkaɲi kaꜜeʔta.
+4/6	accent_0120	台風十五号が近づいている。	台風十[LHHHLL] 五号が[HLLL] 近づいて[LHHLL] いる[LH]	taꜛiɸɯːꜜʥɨː ɡoꜜɡoːɡa ʨiꜛkazɨꜜite iꜛɾɯ.
+4/6	accent_0123	来年の三月に卒業する予定です。	来年の[LHHHH] 三月に[HLLLL] 卒業[LHHH] する[LH] 予定です[LHHHL]	ɾaꜛinenno saꜜŋɡaʦɨɲi soꜛʦɨɡʲoː sɨꜛɾɯ joꜛteːdeꜜsɨ.
+2/3	accent_0125	どこに行くんですか？	どこに[HLL] 行く[LH] んですか[HLLL]	doꜜkoɲi iꜛkɯ nꜜdesɨka?
+2/3	accent_0136	やった、合格したよ！	やった[HLL] 合格[LHHH] したよ[LHL]	jaꜜʔta, ɡoꜛːkakɯ ɕiꜛtaꜜjo!
+2/3	accent_0140	どうぞ、こちらへお座りください。	どうぞ[HLL] こちらへ[LHHH] お座りください[LHHHHHHH]	doꜜːʣo, koꜛʨiɾae oꜛsɨβaɾʲikɯdasai.
+2/3	accent_0148	ねえ、聞いてる？	ねえ[HL] 聞いてる[LHHL]	neꜜː, kʲiꜛiteꜜɾɯ?
+2/3	accent_0150	よし、もう一回やってみよう。	よし[HL] もう[HL] 一回[LHLL] やって[HLL] みよう[HLL]	joꜜɕi, moꜜː iꜛʔꜜkai jaꜜʔte mʲiꜜjoː.
+2/3	accent_0151	わあ、きれいな景色！	わあ[HL] きれいな[HLLL] 景色[HLL]	βaꜜa, kʲiꜜɾeina keꜜɕikʲi!
+4/6	accent_0153	気をつけて行ってらっしゃい。	気を[LH] つけて[LHL] 行って[LHH] らっしゃい[LHHL]	kʲiꜛo ʦɨꜛkeꜜte iꜛʔte ɾaꜛʔɕaꜜi.
+2/3	accent_0154	ただいま、お腹すいた。	ただいま[LHHH] お腹[LHH] すいた[LHH]	taꜛdaimaꜜ, oꜛnaka sɨꜛitaꜜ.
+4/6	T013_2	ご来店での手続きは大丈夫でしょうか？	ご来店での[LHLLLLL] 手続きは[LHLLL] 大丈夫でしょうか[LHHLLLLLL]	ɡoꜛɾaꜜitendeno teꜛʦɨꜜzɨkʲiβa daꜛiʥoꜜːbɯdeɕoːka?
+4/6	T015_2	善通寺インター店へのご来店予約をお取りしますか。	善通寺インター店への[LHHHHHHHHLLLL] ご来店予約を[LHHHHHLLL] お取りしますか[LHHHHLL]	ʣeꜛɴʦɨːʥiintaːꜜteɴeno ɡoꜛɾaiteɴjoꜜjakɯo oꜛtoɾʲiɕimaꜜsɨka.
+15/22	Y015_2	なお三行共同ATMはご利用いただけませんので、後ほど念のため手順をご確認ください、他にご不明点はございますでしょうか。	なお[HL] 三行[LHLL] 共同ＡＴＭは[LHHHHHHHHLL] ご利用[LHLL] いただけませんので[LHHHHHLLL] 後ほど[LHHH] 念の[LHH] ため手順を[LHHLLL] ご確認[LHLLL] ください[LHHL] 他に[LHH] ご不明点は[LHHHLLL] ございますでしょうか[LHHHLLLLL]	naꜜo saꜛŋꜜɡʲoː kʲoꜛːdoːeitʲiːeꜜmɯβa ɡoꜛɾʲiꜜjoː iꜛtadakemaseꜜnnode, noꜛʨihodo neꜛnno taꜛmeteꜜʥɨɴo ɡoꜛkaꜜkɯɲiŋ kɯꜛdasaꜜi, hoꜛkaɲi ɡoꜛɸɯmeːꜜteɴβa ɡoꜛʣaimaꜜsɨdeɕoːka.
+15/22	T002	2026年8月19日15時30分に、岡田真由美さまが善通寺インター店にてピクシスバンの保険更新をご希望です。	二千[LHL] 二十[HLL] 六年[LHLL] ８月[LHHH] 十[LH] 九日[HLL] 十[LH] 五時[HL] 三十分に[LHHHLLL] 岡田[LHH] 真由美さまが[LHHHHH] 善通寺インター店にて[LHHHHHHHHLLLL] ピクシスバンの[LHHHLLL] 保険更新を[LHHHLLLL] ご希望です[LHLLLL]	ɲiꜛseꜜɲ ɲiꜜʥɨː ɾoꜛkɯꜜneɴ haꜛʨiɡaʦɨꜜ ʥɨꜛː kɯꜜɲiʨi ʥɨꜛː ɡoꜜʥi saꜛɲʥɨʔꜜpɯɲɲi, oꜛkada maꜛjɯmʲisamaɡa ʣeꜛɴʦɨːʥiintaːꜜteɲɲite pʲiꜛkɯɕisɨꜜbanno hoꜛkeŋkoꜜːɕiɴo ɡoꜛkʲiꜜboːdesɨ.
+13/19	EMOTION100_059	目標は授業設計をするときの、学生の思考を触発するメディア教材の選択および、活用方法について理解することである。	目標は[LHHHH] 授業設計を[LHHHLLLL] する[LH] ときの[HLL] 学生の[LHHHH] 思考を[LHHH] 触発[LHHH] する[LH] メディア教材の[LHHHLLLL] 選択および[LHHHHHH] 活用方法に[LHHHHLLLL] ついて[HLL] 理解[HLL] する[LH] ことである[LHLLL]	moꜛkɯçoːβa ʥɨꜛɡʲoːseꜜʔkeːo sɨꜛɾɯ toꜜkʲino, ɡaꜛkɯseːno ɕiꜛkoːo ɕoꜛkɯhaʦɨ sɨꜛɾɯ meꜛdʲiakʲoꜜːʣaino seꜛntakɯojobʲi, kaꜛʦɨjoːhoꜜːhoːɲi ʦɨꜜite ɾʲiꜜkai sɨꜛɾɯ koꜛtoꜜdeaɾɯ.
+13/19	RECITATION324_127	満洲は雨季以外には雨が少ないと言われているが、わたしが満洲にあるあいだは、大戦中のせいか、ずいぶん雨が多かった。	満洲は[LHLLL] 雨季以外には[LHHLLLL] 雨が[HLL] 少ないと[LHHLL] 言われて[LHHH] いるが[LHH] わたしが[LHHH] 満洲に[LHLLL] ある[HL] あいだは[LHHH] 大戦中の[LHHHHHH] せいか[HLL] ずいぶん[HLLL] 雨が[HLL] 多かった[LHLLL]	maꜛɴꜜɕɨːβa ɯꜛkʲiiꜜɡaiɲiβa aꜜmeɡa sɨꜛkɯnaꜜito iꜛβaɾete iꜛɾɯɡa, βaꜛtaɕiɡa maꜛɴꜜɕɨːɲi aꜜɾɯ aꜛidaβa, taꜛiseɲʨɨːno seꜜika, zɨꜜibɯɴ aꜜmeɡa oꜛːꜜkaʔta.
+24/35	T013_1	ありがとうございます。弊社では、自動車保険のご継続手続きに関しまして、お客様の不利益が無いように、運転者の範囲、年齢条件、補償内容などにつき、面談にて、ご説明をさせていただければと考えております。	ありがとう[LHLLL] ございます[LHHHL] 弊社では[HLLLL] 自動車保険の[LHHHHLLL] ご継続手続きに[LHHHHHHLLL] 関しまして[LHHHLL] お客様の[LHHHLL] 不利益が[LHLLL] 無い[HL] ように[HLL] 運転者の[LHHHHH] 範囲[HLL] 年齢条件[LHHHHHHL] 補償内容などに[LHHHLLLLLL] つき[LH] 面談にて[LHHHHL] ご説明を[LHLLLL] させて[LHH] いただければと[LHHHHLL] 考えて[LHHLL] おります[LHHL]	aꜛɾʲiꜜɡatoː ɡoꜛʣaimaꜜsɨ. heꜜːɕadeβa, ʥiꜛdoːɕahoꜜkenno ɡoꜛkeːʣokɯteʦɨꜜzɨkʲiɲi kaꜛɴɕimaꜜɕite, oꜛkʲakɯsaꜜmano ɸɯꜛɾʲiꜜekʲiɡa naꜜi joꜜːɲi, ɯꜛnteɴɕano haꜜɴi, neꜛnɾeːʥoːkeꜜɴ, hoꜛɕoːnaꜜijoːnadoɲi ʦɨꜛkʲiꜜ, meꜛndaɲɲiꜜte, ɡoꜛseꜜʦɨmeːo saꜛsete iꜛtadakeɾeꜜbato kaꜛŋɡaꜜete oꜛɾʲimaꜜsɨ.
+11/16	EMOTION100_049	ウッド夫人が作ってくれるおいしい田舎風の料理を食べたし、ミルクをたくさん飲みました。	ウッド[HLL] 夫人が[LHHH] 作って[LHLL] くれる[LHH] おいしい[LHHL] 田舎風の[LHHLLL] 料理を[HLLL] 食べたし[LHLL] ミルクを[HLLL] たくさん[LHHH] 飲みました[LHHLL]	ɯꜜʔdo ɸɯꜛʥiŋɡa ʦɨꜛkɯꜜʔte kɯꜛɾeɾɯ oꜛiɕiꜜi iꜛnakaꜜɸɯːno ɾʲoꜜːɾʲio taꜛbeꜜtaɕi, mʲiꜜɾɯkɯo taꜛkɯsan noꜛmʲimaꜜɕita.
+11/16	EMOTION100_055	その数百年後に、フォークが西洋のテーブルに現れることになるが、ただちに受け入れられたわけではなかった。	その[LH] 数百年後に[LHHHHHLL] フォークが[HLLL] 西洋の[HLLLL] テーブルに[LHHHH] 現れる[LHHHL] ことに[LHL] なるが[HLL] ただちに[HLLL] 受け入れられた[LHHHLLL] わけでは[HLLL] なかった[HLLL]	soꜛno sɨꜛːçakɯneŋꜜɡoɲi, ɸoꜜːkɯɡa seꜜːjoːno teꜛːbɯɾɯɲi aꜛɾaβaɾeꜜɾɯ koꜛtoꜜɲi naꜜɾɯɡa, taꜜdaʨiɲi ɯꜛkeiɾeꜜɾaɾeta βaꜜkedeβa naꜜkaʔta.
+9/13	RECITATION324_299	母は、サフランライスと、さつまいもの入ったシチューと、ポトフをハフハフしながら食べた。	母は[HLL] サフランライスと[LHHHHLLL] さつまいもの[LHHHHH] 入った[HLLL] シチューと[LHLL] ポトフを[HLLL] ハフハフ[HLLL] しながら[LHLL] 食べた[LHL]	haꜜhaβa, saꜛɸɯɾanɾaꜜisɨto, saꜛʦɨmaimono haꜜiʔta ɕiꜛʨɨꜜːto, poꜜtoɸɯo haꜜɸɯhaɸɯ ɕiꜛnaꜜɡaɾa taꜛbeꜜta.
+9/13	accent_0160	天気予報によると、明日は全国的に晴れて気温が上がるそうです。	天気予報に[LHHHLLL] よると[LHH] 明日は[LHHL] 全国的に[LHHHLLL] 晴れて[LHL] 気温が[LHHH] 上がる[LHH] そうです[LHHL]	teꜛŋkʲijoꜜhoːɲi joꜛɾɯto, aꜛɕitaꜜβa ʣeꜛŋkokɯꜜtekʲiɲi haꜛɾeꜜte kʲiꜛoŋɡa aꜛɡaɾɯ soꜛːdeꜜsɨ.
+18/26	Y008	振り込みは原則24時間可能ですが、受付時間により着金が翌営業日となる場合があり、他行宛は1取引ごとに手数料がかかり、3万円以上は330円です。	振り込みは[LHHHH] 原則[LHHH] 二十[HLL] 四時間[LHLL] 可能ですが[LHHHLL] 受付[LHHH] 時間に[LHHH] より[LH] 着金が[LHHHH] 翌営業日と[LHHHHHLL] なる[HL] 場合が[LHHH] あり[HL] 他行宛は[LHHHHH] 一取引ごとに[LHHHHHHHH] 手数料が[LHLLLL] かかり[LHH] 三万円[LHHHLL] 以上は[HLLL] 三百[HLLL] 三十円です[LHHHLLLL]	ɸɯꜛɾʲikomʲiβa ɡeꜛɴsokɯ ɲiꜜʥɨː joꜛʥiꜜkaŋ kaꜛnoːdeꜜsɨɡa, ɯꜛkeʦɨke ʥiꜛkaɲɲi joꜛɾʲi ʨaꜛʔkʲiŋɡa joꜛkɯeːɡʲoːꜜbʲito naꜜɾɯ baꜛaiɡa aꜜɾʲi, taꜛkoːateβa iꜛʨitoɾʲiçikʲiɡotoɲi teꜛsɨꜜːɾʲoːɡa kaꜛkaɾʲiꜜ, saꜛmmaɴꜜeɴ iꜜʥoːβa saꜜmbʲakɯ saꜛɲʥɨːꜜendesɨ.
+18/26	T011	大変申し訳ございませんが。あいにく2026年2月10日は第2火曜日に当たり、全店舗の定休日となっております。別のご希望日をお聞かせいただけますでしょうか。	大変[LHHH] 申し訳ございませんが[LHHHHHHHHHLL] あいにく[LHHH] 二千[LHL] 二十[HLL] 六年[LHLL] ２月[LHH] 十日は[LHHH] 第[HL] 二火曜日に[LHHLLL] 当たり[LHH] 全店舗の[LHHLLL] 定休日と[LHHHLL] なって[HLL] おります[LHHL] 別の[LHH] ご希望日を[LHHHLL] お聞かせいただけますでしょうか[LHHHHHLLLLLLLL]	taꜛihem moꜛːɕiβakeɡoʣaimaseꜜŋɡa. aꜛiɲikɯ ɲiꜛseꜜɲ ɲiꜜʥɨː ɾoꜛkɯꜜneɲ ɲiꜛɡaʦɨꜜ toꜛːkaβa daꜜi ɲiꜛkajoꜜːbʲiɲi aꜛtaɾʲi, ʣeꜛnteꜜmpono teꜛːkʲɨːꜜbʲito naꜜʔte oꜛɾʲimaꜜsɨ. beꜛʦɨno ɡoꜛkʲiboːꜜbʲio oꜛkʲikaseitaꜜdakemasɨdeɕoːka.
+7/10	EMOTION100_046	サブマリンのペリスコープが、水中からにょっきり突き出ていた。	サブマリンの[LHHLLL] ペリスコープが[LHHHLLL] 水中から[LHHHHH] にょっきり[LHHL] 突き出て[LHHL] いた[LH]	saꜛbɯmaꜜɾʲinno peꜛɾʲisɨkoꜜːpɯɡa, sɨꜛiʨɨːkaɾa ɲoꜛʔkʲiꜜɾʲi ʦɨꜛkʲideꜜte iꜛtaꜜ.
+7/10	RECITATION324_042	シルヴィウスはデュボアと呼ばれていたフランスのユグノーの家に生まれた。	シルヴィウスは[LHHLLL] デュボアと[HLLL] 呼ばれて[LHHH] いた[LH] フランスの[LHHHH] ユグノーの[HLLLL] 家に[LHL] 生まれた[LHHH]	ɕiꜛɾɯbʲiꜜɯsɨβa dʲɨꜜboato joꜛbaɾete iꜛtaꜜ ɸɯꜛɾaɴsɨno jɯꜜɡɯnoːno iꜛeꜜɲi ɯꜛmaɾetaꜜ.
+7/10	RECITATION324_112	おてつと大きく書かれた番茶茶碗は、これらの人々の前に置かれた。	おてつと[HLLL] 大きく書かれた[HLLLLLLL] 番茶茶碗は[LHHLLLL] これらの[LHLL] 人々の[LHLLL] 前に[HLL] 置かれた[LHHH]	oꜜteʦɨto oꜜːkʲikɯkakaɾeta baꜛɲʨaꜜʥaβaɴβa, koꜛɾeꜜɾano çiꜛtoꜜbʲitono maꜜeɲi oꜛkaɾetaꜜ.
+7/10	RECITATION324_148	夜に吹く風のヒュウヒュウという音が私を不安にさせる。	夜に[HLL] 吹く[HL] 風の[LHH] ヒュウヒュウと[HLLLL] いう[LH] 音が[LHL] 私を[LHHH] 不安に[LHHH] させる[LHH]	joꜜɾɯɲi ɸɯꜜkɯ kaꜛʣeno çɨꜜːçɨːto iꜛɯ oꜛtoꜜɡa βaꜛtaɕio ɸɯꜛaɲɲi saꜛseɾɯ.
+7/10	RECITATION324_183	鬼太郎くんは冗談半分で盗みに入って怪我をした。	鬼太郎くんは[LHLLLLLL] 冗談[LHHL] 半分で[LHHLL] 盗みに[LHHH] 入って[HLLL] 怪我を[LHL] した[LH]	oꜛɲiꜜtaɾoːkɯɴβa ʥoꜛːdaꜜɴ haꜛmbɯꜜnde nɯꜛsɨmʲiɲi haꜜiʔte keꜛɡaꜜo ɕiꜛtaꜜ.
+7/10	accent_0038	犬がしっぽを振るのはうれしい証拠です。	犬が[LHL] しっぽを[LHHL] 振る[LH] のは[LH] うれしい[LHHL] 証拠です[LHHHL]	iꜛnɯꜜɡa ɕiꜛʔpoꜜo ɸɯꜛɾɯ noꜛβa ɯꜛɾeɕiꜜi ɕoꜛːkodeꜜsɨ.
+14/20	Y010	偶然な事故により被った損害を補償する特約ですが、賃貸住宅にお住まいの方は借家人賠償責任補償が必要です。	偶然な[LHHHH] 事故により[HLLLL] 被った[LHHLL] 損害を[LHHHH] 補償[LHH] する[LH] 特約ですが[LHHHHLL] 賃貸住宅に[LHHHHLLLL] お住まいの[LHLLL] 方は[HLL] 借家人[LHHLL] 賠償責任補償が[LHHHHHHHHLLL] 必要です[LHHHHL]	ɡɯꜛːʣenna ʥiꜜkoɲijoɾʲi koꜛːmɯꜜʔta soꜛŋɡaio hoꜛɕoː sɨꜛɾɯ toꜛkɯjakɯdeꜜsɨɡa, ʨiꜛntaiʥɨꜜːtakɯɲi oꜛsɨꜜmaino hoꜜːβa ɕaꜛkɯjaꜜʥim baꜛiɕoːsekʲiɲiɴhoꜜɕoːɡa çiꜛʦɨjoːdeꜜsɨ.
+19/27	T009_1	本日は、はせがわ みほさまがご加入されているジーアールハチロクの自動車保険の満期時期が、2026年4月4日となりますため、ご連絡をさせていただきました。	本日は[HLLLL] はせがわ[LHHH] みほさまが[HLLLL] ご加入[LHLL] されて[LHH] いる[LH] ジーアールハチロクの[HLLLLLLLLL] 自動車保険の[LHHHHLLL] 満期時期が[LHHHLL] 二千[LHL] 二十[HLL] 六年[LHLL] ４月[LHH] 四日と[LHHH] なります[LHHL] ため[LH] ご連絡を[LHLLLL] させて[LHH] いただきました[LHHHHLL]	hoꜜɲʥiʦɨβa, haꜛseɡaβa mʲiꜜhosamaɡa ɡoꜛkaꜜɲɨː saꜛɾete iꜛɾɯ ʥiꜜːaːɾɯhaʨiɾokɯno ʥiꜛdoːɕahoꜜkenno maꜛŋkʲiʥiꜜkʲiɡa, ɲiꜛseꜜɲ ɲiꜜʥɨː ɾoꜛkɯꜜneɴ ɕiꜛɡaʦɨꜜ joꜛʔkato naꜛɾʲimaꜜsɨ taꜛmeꜜ, ɡoꜛɾeꜜnɾakɯo saꜛsete iꜛtadakʲimaꜜɕita.
+17/24	EMOTION100_076	ノースウエスタン大学の研究者、アイリーン・ペパーバーグは、オウムは人の口まねをするだけでなく言葉の意味を学ぶことができることを発見しつつある。	ノース[HLL] ウエスタン大学の[LHHHHHLLLL] 研究者[LHHHH] アイリーン[LHHLL] ペパーバーグは[HLLLLLL] オウムは[HLLL] 人の[LHH] 口まねを[LHHHH] するだけでなく[LHHHHHH] 言葉の[LHHL] 意味を[HLL] 学ぶ[LHH] ことが[LHL] できる[LHL] ことを[LHL] 発見[LHHH] しつつ[LHL] ある[HL]	noꜜːsɨ ɯꜛesɨtandaꜜiɡakɯno keꜛŋkʲɨːɕa, aꜛiɾʲiꜜːm peꜜpaːbaːɡɯβa, oꜜːmɯβa çiꜛtono kɯꜛʨimaneo sɨꜛɾɯdakedenakɯ koꜛtobaꜜno iꜜmʲio maꜛnabɯ koꜛtoꜜɡa deꜛkʲiꜜɾɯ koꜛtoꜜo haꜛʔkeɴ ɕiꜛʦɨꜜʦɨ aꜜɾɯ.
+15/21	EMOTION100_075	弊社のエンジニアが日本国内で販売されている同様の製品と仕様を比較した結果、非常に競合力があると判断いたしました。	弊社の[HLLL] エンジニアが[LHHLLL] 日本国内で[LHHHHHLLL] 販売[LHHH] されて[LHH] いる[LH] 同様の[LHHHH] 製品と[LHHHH] 仕様を[LHHH] 比較[LHH] した[LH] 結果[LHH] 非常に[LHHH] 競合力が[LHHHHLL] あると[HLL] 判断[HLLL] いたしました[LHHHLL]	heꜜːɕano eꜛɲʥiꜜɲiaɡa ɲiꜛʔpoŋkokɯꜜnaide haꜛmbai saꜛɾete iꜛɾɯ doꜛːjoːno seꜛːçinto ɕiꜛjoːo çiꜛkakɯ ɕiꜛtaꜜ keꜛʔka, çiꜛʥoːɲi kʲoꜛːɡoːɾʲoꜜkɯɡa aꜜɾɯto haꜜndaɴ iꜛtaɕimaꜜɕita.
+5/7	RECITATION324_007	フランス人シェフと日本人シェフは全然違う。	フランス人[LHHHLL] シェフと[HLL] 日本人シェフは[LHHHHHLLL] 全然[LHHH] 違う[LHH]	ɸɯꜛɾaɴsɨꜜʥiɴ ɕeꜜɸɯto ɲiꜛʔpoɲʥiɴꜜɕeɸɯβa ʣeꜛɴʣeɲ ʨiꜛɡaɯ.
+5/7	RECITATION324_022	助手たちとミッツィは探している書類を見つけられなかった。	助手たちと[LHLLL] ミッツィは[HLLL] 探して[LHHH] いる[LH] 書類を[LHHH] 見つけられなかった[LHHHHHHHH]	ʥoꜛɕɨꜜtaʨito mʲiꜜʔʦʲiβa saꜛɡaɕite iꜛɾɯ ɕoꜛɾɯio mʲiꜛʦɨkeɾaɾenakaʔtaꜜ.
+10/14	RECITATION324_038	家政婦は休みにおしゃれなアウターウェアに身を包み一人で屋台を楽しみました。	家政婦は[LHHLL] 休みに[LHHH] おしゃれな[LHLL] アウターウェアに[LHHHHLL] 身を[LH] 包み[LHH] 一人で[LHLL] 屋台を[HLLL] 楽しみました[LHHHHLL]	kaꜛseːꜜɸɯβa jaꜛsɨmʲiɲi oꜛɕaꜜɾena aꜛɯtaːβeꜜaɲi mʲiꜛo ʦɨꜛʦɨmʲiꜜ çiꜛtoꜜɾʲide jaꜜtaio taꜛnoɕimʲimaꜜɕita.
+5/7	RECITATION324_045	日本政府からの百兆円を超える予算要求。	日本政府からの[LHHHHLLLLL] 百[LH] 兆円を[LHLLL] 超える[LHH] 予算要求[LHHHLLL]	ɲiꜛʔpoɴseꜜːɸɯkaɾano çaꜛkɯꜜ ʨoꜛːꜜeɴo koꜛeɾɯ joꜛsaɴjoꜜːkʲɨː.
+5/7	RECITATION324_093	著名なラニョン博士が患者と接していた。	著名な[LHHH] ラニョン博士が[LHHHLLL] 患者と[LHHH] 接して[LHHL] いた[LH]	ʨoꜛmeːna ɾaꜛɲoɴhaꜜkaseɡa kaꜛɲʥato seꜛʔɕiꜜte iꜛtaꜜ.
+5/7	RECITATION324_113	私のポケットの中には携帯電話が入っています。	私の[LHHH] ポケットの[HLLLL] 中には[HLLL] 携帯電話が[LHHHHLLL] 入って[HLLL] います[LHL]	βaꜛtaɕino poꜜkeʔtono naꜜkaɲiβa keꜛːtaideꜜɴβaɡa haꜜiʔte iꜛmaꜜsɨ.
+5/7	RECITATION324_135	必要なミョウバンの量はプリントに書いてあります。	必要な[LHHHH] ミョウバンの[LHHHH] 量は[HLL] プリントに[LHHHH] 書いて[HLL] あります[LHHL]	çiꜛʦɨjoːna mʲoꜛːbanno ɾʲoꜜːβa pɯꜛɾʲintoɲi kaꜜite aꜛɾʲimaꜜsɨ.
+5/7	RECITATION324_145	しかし氷河はアルプスだけにあるものではない。	しかし[LHL] 氷河は[HLLL] アルプスだけに[LHHHHHH] ある[HL] ものではない[LHLLLL]	ɕiꜛkaꜜɕi çoꜜːɡaβa aꜛɾɯpɯsɨdakeɲi aꜜɾɯ moꜛnoꜜdeβanai.
+5/7	RECITATION324_156	彼の言葉に一種不思議な感覚を覚えた。	彼の[HLL] 言葉に[LHHL] 一種[HLL] 不思議な[LHHH] 感覚を[LHHHH] 覚えた[LHHL]	kaꜜɾeno koꜛtobaꜜɲi iꜜʔɕɨ ɸɯꜛɕiɡʲina kaꜛŋkakɯo oꜛboeꜜta.
+5/7	RECITATION324_206	犯人がどっちの部屋へ入ったかわからない。	犯人が[HLLLL] どっちの[HLLL] 部屋へ[LHL] 入ったか[HLLLL] わからない[LHHLL]	haꜜɲɲiŋɡa doꜜʔʨino heꜛjaꜜe haꜜiʔtaka βaꜛkaɾaꜜnai.
+5/7	RECITATION324_216	購入者はポンプの修理が必要なことに気がついた。	購入者は[LHHHHH] ポンプの[HLLL] 修理が[HLLL] 必要な[LHHHH] ことに[LHL] 気がついた[LHHHH]	koꜛːɲɨːɕaβa poꜜmpɯno ɕɨꜜːɾʲiɡa çiꜛʦɨjoːna koꜛtoꜜɲi kʲiꜛɡaʦɨitaꜜ.
+5/7	RECITATION324_233	身分をわきまえず放った狂言。	身分を[HLLL] わきまえず[LHHHL] 放った[LHLL] 狂言[LHHL]	mʲiꜜbɯɴo βaꜛkʲimaeꜜzɨ haꜛnaꜜʔta kʲoꜛːɡeꜜɴ.
+5/7	RECITATION324_245	ふぁふぁと笑いながら楽しく手拍子。	ふぁふぁと[HLL] 笑いながら[LHHHLL] 楽しく[LHHL] 手拍子[LHLL]	ɸaꜜɸato βaꜛɾainaꜜɡaɾa taꜛnoɕiꜜkɯ teꜛbʲoꜜːɕi.
+5/7	RECITATION324_254	困ってる人に向けて寄付をしました。	困ってる[LHHHL] 人に[LHH] 向けて[LHH] 寄付を[HLL] しました[LHLL]	koꜛmaʔteꜜɾɯ çiꜛtoɲi mɯꜛkete kʲiꜜɸɯo ɕiꜛmaꜜɕita.
+5/7	RECITATION324_285	スィーディーを聞きながら、でゃーこんを食べる。	スィーディーを[HLLLL] 聞きながら[LHHLL] でゃーこんを[LHLLL] 食べる[LHL]	siꜜːdʲiːo kʲiꜛkʲinaꜜɡaɾa, djaꜛːꜜkoɴo taꜛbeꜜɾɯ.
+5/7	RECITATION324_294	モゴモゴしながら言うギャグは面白くない。	モゴモゴ[HLLL] しながら[LHLL] 言う[LH] ギャグは[HLL] 面白くない[LHHHLLL]	moꜜɡomoɡo ɕiꜛnaꜜɡaɾa iꜛɯ ɡʲaꜜɡɯβa oꜛmoɕiɾoꜜkɯnai.
+5/7	RECITATION324_313	シェパードと同居中に、フォスターはその格付け表を見た。	シェパードと[LHLLL] 同居中に[LHHHHH] フォスターは[HLLLL] その[LH] 格付け表を[LHHHHHH] 見た[HL]	ɕeꜛpaꜜːdoto doꜛːkʲoʨɨːɲi, ɸoꜜsɨtaːβa soꜛno kaꜛkɯzɨkeçoːo mʲiꜜta.
+5/7	accent_0004	駐車場に空きがあるか確認してください。	駐車場に[LHHHHH] 空きが[LHH] あるか[HLL] 確認[LHHH] して[LH] ください[LHHL]	ʨɨꜛːɕaʥoːɲi aꜛkʲiɡa aꜜɾɯka kaꜛkɯɲiɴ ɕiꜛte kɯꜛdasaꜜi.
+5/7	accent_0011	寒いからもう一枚上着を着る。	寒いから[LHLLL] もう[HL] 一枚[LHLL] 上着を[LHHH] 着る[LH]	saꜛmɯꜜikaɾa moꜜː iꜛʨiꜜmai ɯꜛβaɡʲio kʲiꜛɾɯ.
+5/7	accent_0012	電話を切る前に住所を教えてください。	電話を[LHHH] 切る[HL] 前に[HLL] 住所を[HLLL] 教えて[LHHH] ください[LHHL]	deꜛɴβao kʲiꜜɾɯ maꜜeɲi ʥɨꜜːɕoo oꜛɕiete kɯꜛdasaꜜi.
+5/7	accent_0013	明日の式には着物を着るつもりです。	明日の[LHHL] 式には[LHLL] 着物を[LHHH] 着る[LH] つもりです[LHHHL]	aꜛɕitaꜜno ɕiꜛkʲiꜜɲiβa kʲiꜛmonoo kʲiꜛɾɯ ʦɨꜛmoɾʲideꜜsɨ.
+5/7	accent_0032	弟は来年の春から高校に通います。	弟は[LHHHL] 来年の[LHHHH] 春から[HLLL] 高校に[LHHHH] 通います[LHHHL]	oꜛtoːtoꜜβa ɾaꜛinenno haꜜɾɯkaɾa koꜛːkoːɲi kaꜛjoimaꜜsɨ.
+5/7	accent_0033	親孝行は元気なうちにしておきたい。	親孝行は[LHHLLLL] 元気な[HLLL] うちに[LHH] して[LH] おきたい[LHHL]	oꜛjakoꜜːkoːβa ɡeꜜŋkʲina ɯꜛʨiɲi ɕiꜛte oꜛkʲitaꜜi.
+5/7	accent_0104	四月一日から新しい生活が始まる。	四月[LHH] 一日から[LHHHLL] 新しい[LHHHL] 生活が[LHHHH] 始まる[LHHH]	ɕiꜛɡaʦɨꜜ ʦɨꜛitaʨiꜜkaɾa aꜛtaɾaɕiꜜi seꜛːkaʦɨɡa haꜛʥimaɾɯ.
+5/7	accent_0171	窓の外では、冷たい風に吹かれて木の葉が舞っていた。	窓の[HLL] 外では[HLLL] 冷たい[LHHH] 風に[LHH] 吹かれて[HLLL] 木の葉が[HLLL] 舞って[HLL] いた[LH]	maꜜdono soꜜtodeβa, ʦɨꜛmetai kaꜛʣeɲi ɸɯꜜkaɾete koꜜnohaɡa maꜜʔte iꜛtaꜜ.
+15/21	Y009	お手続きに必要な本人確認書類は、運転免許証などをご用意ください、また「証券再発行」をご希望の場合は案内に沿ってお進みください。	お手続きに[LHHLLL] 必要な[LHHHH] 本人確認書類は[LHHHHHHHHLLL] 運転免許証などを[LHHHHHHHHHLL] ご用意[LHLL] ください[LHHL] また[LH] 証券[LHHH] 再発行[LHHLLL] を[L] ご希望の[LHLLL] 場合は[LHHH] 案内に[LHHLL] 沿って[HLL] お進みください[LHHHHHHH]	oꜛteʦɨꜜzɨkʲiɲi çiꜛʦɨjoːna hoꜛɲɲiŋkakɯɲiɴɕoꜜɾɯiβa, ɯꜛntemmeŋkʲoɕoːnaꜜdoo ɡoꜛjoꜜːi kɯꜛdasaꜜi, maꜛta “ɕoꜛːkeɴ saꜛihaꜜʔkoː” o ɡoꜛkʲiꜜboːno baꜛaiβa aꜛnnaꜜiɲi soꜜʔte oꜛsɨsɨmʲikɯdasai.
+10/14	T014_2	ご持参頂けますと、ご家族全員さまの契約確認が出来ますので、ご協力ください。	ご持参[LHLL] 頂けますと[LHHHHLL] ご家族[LHLL] 全員さまの[LHHHHHH] 契約確認が[LHHHHLLLL] 出来ますので[LHHLLL] ご協力[LHLLL] ください[LHHL]	ɡoꜛʥiꜜsaɴ iꜛtadakemaꜜsɨto, ɡoꜛkaꜜʣokɯ ʣeꜛɴiɴsamano keꜛːjakɯkaꜜkɯɲiŋɡa deꜛkʲimaꜜsɨnode, ɡoꜛkʲoꜜːɾʲokɯ kɯꜛdasaꜜi.
+13/18	RECITATION324_257	こんなことを言いながら、気の短いおじいさんは下駄を突っかけて、そそくさと出て行ってしまった。	こんな[LHH] ことを[LHL] 言いながら[LHHLL] 気の[LH] 短い[LHHL] おじいさんは[LHLLLL] 下駄を[LHH] 突っかけて[LHHHL] そそくさと[HLLLL] 出て[LH] 行って[LHH] しまった[LHLL]	koꜛnna koꜛtoꜜo iꜛinaꜜɡaɾa, kʲiꜛno mʲiꜛʥikaꜜi oꜛʥiꜜːsaɴβa ɡeꜛtao ʦɨꜛʔkakeꜜte, soꜜsokɯsato deꜛte iꜛʔte ɕiꜛmaꜜʔta.
+21/29	T016	当店の営業時間は、平日が10時から18時30分まで、土日と祝日が9時から17時30分までとなっております。なお、毎週水曜日と第2火曜日は定休日でございます。	当店の[HLLLL] 営業[LHHH] 時間は[LHHH] 平日が[LHHHH] 十時から[LHLLL] 十[LH] 八時[LHL] 三十分まで[LHHHLLLL] 土日と[LHHH] 祝日が[LHHHH] 九時から[HLLL] 十[LH] 七時[LHL] 三十分までと[LHHHLLLLL] なって[HLL] おります[LHHL] なお[HL] 毎週[LHHH] 水曜日と[LHHLLL] 第[HL] 二火曜日は[LHHLLL] 定休日でございます[LHHHHHHHHHL]	toꜜːtenno eꜛːɡʲoː ʥiꜛkaɴβa, heꜛːʥiʦɨɡa ʥɨꜛːꜜʥikaɾa ʥɨꜛː haꜛʨiꜜʥi saꜛɲʥɨʔꜜpɯmmade, doꜛɲiʨito ɕɨꜛkɯʥiʦɨɡa kɯꜜʥikaɾa ʥɨꜛː ɕiꜛʨiꜜʥi saꜛɲʥɨʔꜜpɯmmadeto naꜜʔte oꜛɾʲimaꜜsɨ. naꜜo, maꜛiɕɨː sɨꜛijoꜜːbʲito daꜜi ɲiꜛkajoꜜːbʲiβa teꜛːkʲɨːbʲideɡoʣaimaꜜsɨ.
+8/11	RECITATION324_101	柄は、猫の尻尾でもあるように、尖端をぶるぶると震わせながら、動いていく。	柄は[LH] 猫の[HLL] 尻尾でも[LHHLL] ある[HL] ように[HLL] 尖端を[LHHHH] ぶるぶると[HLLLL] 震わせながら[LHHHHLL] 動いて[LHLL] いく[LH]	eꜛβa, neꜜkono ɕiꜛʔpoꜜdemo aꜜɾɯ joꜜːɲi, seꜛntaɴo bɯꜜɾɯbɯɾɯto ɸɯꜛɾɯβasenaꜜɡaɾa, ɯꜛɡoꜜite iꜛkɯ.
+8/11	RECITATION324_157	この事業所には百人以上の人が勤めています。	この[LH] 事業所には[LHHHLL] 百人[LHLL] 以上の[HLLL] 人が[LHH] 勤めて[LHHL] います[LHL]	koꜛno ʥiꜛɡʲoːɕoꜜɲiβa çaꜛkɯꜜɲiɴ iꜜʥoːno çiꜛtoɡa ʦɨꜛtomeꜜte iꜛmaꜜsɨ.
+8/11	RECITATION324_159	どうせ私は馬の世話をせにゃならんから、外へ行こう。	どうせ[LHH] 私は[LHHH] 馬の[LHL] 世話を[LHL] せにゃ[HL] ならんから[LHHLL] 外へ[HLL] 行こう[LHH]	doꜛːse βaꜛtaɕiβa ɯꜛmaꜜno seꜛβaꜜo seꜜɲa naꜛɾaŋꜜkaɾa, soꜜtoe iꜛkoː.
+8/11	RECITATION324_222	今まで明るかった二階の窓は、急にまっくらになってしまいました。	今まで[LHHL] 明るかった[LHHLLL] 二階の[LHHH] 窓は[HLL] 急に[LHH] まっくらに[LHHLL] なって[HLL] しまいました[LHHHLL]	iꜛmamaꜜde aꜛkaɾɯꜜkaʔta ɲiꜛkaino maꜜdoβa, kʲɨꜛːɲi maꜛʔkɯꜜɾaɲi naꜜʔte ɕiꜛmaimaꜜɕita.
+8/11	accent_0161	駅前の新しいパン屋さんには、開店前からたくさんの人が並んでいます。	駅前の[LHHLL] 新しい[LHHHL] パン屋さんには[LHHHHHH] 開店[LHHH] 前から[HLLL] たくさんの[LHHHH] 人が[LHH] 並んで[LHHH] います[LHL]	eꜛkʲimaꜜeno aꜛtaɾaɕiꜜi paꜛɴjasaɲɲiβa, kaꜛitem maꜜekaɾa taꜛkɯsanno çiꜛtoɡa naꜛɾande iꜛmaꜜsɨ.
+8/11	accent_0172	もし時間があれば、帰りに郵便局に寄ってもらえると助かります。	もし[HL] 時間が[LHHH] あれば[LHL] 帰りに[LHHL] 郵便局に[LHHHLLL] 寄って[LHH] もらえると[LHHHH] 助かります[LHHHHL]	moꜜɕi ʥiꜛkaŋɡa aꜛɾeꜜba, kaꜛeɾʲiꜜɲi jɯꜛːbʲiŋꜜkʲokɯɲi joꜛʔte moꜛɾaeɾɯto taꜛsɨkaɾʲimaꜜsɨ.
+8/11	accent_0175	山の頂上に着いたときには、すでに日が沈みかけていた。	山の[LHL] 頂上に[LHHLL] 着いた[HLL] ときには[HLLL] すでに[HLL] 日が[LH] 沈みかけて[LHHHHL] いた[LH]	jaꜛmaꜜno ʨoꜛːʥoꜜːɲi ʦɨꜜita toꜜkʲiɲiβa, sɨꜜdeɲi çiꜛɡa ɕiꜛzɨmʲikakeꜜte iꜛtaꜜ.
+19/26	Y004	Wi-Fi回線の切り替え等により別の環境として検知されている可能性がございますので、再度お試しください、他にご不明な点がございましたらお申し付けください。	Ｗｉ−Ｆｉ回線の[LHHHHLLLL] 切り替え等に[LHHHHLL] より別の[LHLLL] 環境と[LHHHH] して[LH] 検知[HLL] されて[LHH] いる[LH] 可能性が[LHHHHH] ございますので[LHHHLLL] 再度[HLL] お試し[LHLL] ください[LHHL] 他に[LHH] ご不明な[LHLLL] 点が[LHH] ございましたら[LHHHLLL] お申し付けください[LHHHHHHHHH]	βaꜛiɸaikaꜜisenno kʲiꜛɾʲikaetoꜜːɲi joꜛɾʲiꜜbeʦɨno kaꜛŋkʲoːto ɕiꜛte keꜜɲʨi saꜛɾete iꜛɾɯ kaꜛnoːseːɡa ɡoꜛʣaimaꜜsɨnode, saꜜido oꜛtaꜜmeɕi kɯꜛdasaꜜi, hoꜛkaɲi ɡoꜛɸɯꜜmeːna teꜛŋɡa ɡoꜛʣaimaꜜɕitaɾa oꜛmoːɕiʦɨkekɯdasai.
+30/41	EMOTION100_072	一つには、西洋人ではない人々が自分たち独自の文化に誇りを持ち始めてきたためと、また一つには、フォークを使わないそれらの地域は最も高い出生率の地域を抱えているという理由から、このことは当たっている。	一つには[LHLLL] 西洋人では[LHHHLLLL] ない[HL] 人々が[LHLLL] 自分たち[LHHLL] 独自の[HLLL] 文化に[HLLL] 誇りを[LHHH] 持ち始めて[LHLLLL] きた[HL] ためと[LHL] また[LH] 一つには[LHLLL] フォークを[HLLL] 使わない[LHHHH] それらの[LHLL] 地域は[HLLL] 最も[LHHL] 高い[LHL] 出生率の[LHHHLLL] 地域を[HLLL] 抱えて[LHHH] いると[LHH] いう[LH] 理由から[LHHHH] この[LH] ことは[LHL] 当たって[LHHH] いる[LH]	çiꜛtoꜜʦɨɲiβa, seꜛːjoːꜜʥindeβa naꜜi çiꜛtoꜜbʲitoɡa ʥiꜛbɯnꜜtaʨi doꜜkɯʥino bɯꜜŋkaɲi hoꜛkoɾʲio moꜛʨiꜜhaʥimete kʲiꜜta taꜛmeꜜto, maꜛta çiꜛtoꜜʦɨɲiβa, ɸoꜜːkɯo ʦɨꜛkaβanai soꜛɾeꜜɾano ʨiꜜikʲiβa moꜛʔtoꜜmo taꜛkaꜜi ɕɨꜛʔɕoːꜜɾʲiʦɨno ʨiꜜikʲio kaꜛkaete iꜛɾɯto iꜛɯ ɾʲiꜛjɯːkaɾa, koꜛno koꜛtoꜜβa aꜛtaʔte iꜛɾɯ.
+14/19	T015_1	松本亮様、お客様のランドクルーザーニーゴーマルの保険が2027年7月29日に切れます。更新手続きのため、	松本[LHHH] 亮様[HLLLL] お客様の[LHHHLL] ランドクルーザーニーゴーマルの[LHHLLLLLLLLLLLL] 保険が[LHHH] 二千[LHL] 二十[HLL] 七年[LHLL] ７月[LHHH] 二十[HLL] 九日に[HLLL] 切れます[LHHL] 更新手続きの[LHHHHHLLL] ため[LH]	maꜛʦɨmoto aꜜkʲiɾasama, oꜛkʲakɯsaꜜmano ɾaꜛndoꜜkɯɾɯːʣaːɲiːɡoːmaɾɯno hoꜛkeŋɡa ɲiꜛseꜜɲ ɲiꜜʥɨː naꜛnaꜜneɴ ɕiꜛʨiɡaʦɨꜜ ɲiꜜʥɨː kɯꜜɲiʨiɲi kʲiꜛɾemaꜜsɨ. koꜛːɕinteʦɨꜜzɨkʲino taꜛmeꜜ,
+3/4	EMOTION100_024	彼は首相にインタビューした。	彼は[HLL] 首相に[LHHH] インタビュー[HLLLL] した[LH]	kaꜜɾeβa ɕɨꜛɕoːɲi iꜜntabʲɨː ɕiꜛtaꜜ.
+6/8	RECITATION324_019	ウサギのキッドは気分よくピョン、またピョンと飛び続けた。	ウサギの[LHHH] キッドは[HLLL] 気分[HLL] よく[HL] ピョン[HL] また[LH] ピョンと[HLL] 飛び続けた[LHHHHH]	ɯꜛsaɡʲino kʲiꜜʔdoβa kʲiꜜbɯɴ joꜜkɯ pʲoꜜɴ, maꜛta pʲoꜜnto toꜛbʲiʦɨzɨketaꜜ.
+3/4	RECITATION324_020	アフタヌーンティーを楽しみましょう。	アフタヌーンティーを[LHHHHHLLL] 楽しみましょう[LHHHHHL]	aꜛɸɯtanɯːnꜜtʲiːo taꜛnoɕimʲimaɕoꜜː.
+3/4	RECITATION324_026	早速召使い全員に知らせましょう。	早速[LHHH] 召使い[LHHLL] 全員に[LHHHH] 知らせましょう[LHHHHL]	saꜛʔsokɯ meꜛɕiʦɨꜜkai ʣeꜛɴiɲɲi ɕiꜛɾasemaɕoꜜː.
+6/8	RECITATION324_035	先生は、立ったままニュースを見ていました。	先生は[LHHLL] 立った[HLL] ままニュースを[LHHLLL] 見て[HL] いました[LHLL]	seꜛɴseꜜːβa, taꜜʔta maꜛmaɲɨꜜːsɨo mʲiꜜte iꜛmaꜜɕita.
+3/4	RECITATION324_071	結局のところお互い五十歩百歩だ。	結局の[LHHHL] ところお互い五十歩百歩だ[LHHHHHHHHHHHLLL]	keꜛʔkʲokɯꜜno toꜛkoɾootaɡaiɡoʥɨʔpoçaꜜʔpoda.
+9/12	RECITATION324_076	クレンペ教頭は無骨な男だが、自分の学問の秘密には深く浸っていた。	ク[L] レンペ教頭は[LHHHLLLL] 無骨な[LHHH] 男だが[LHHLL] 自分の[LHHH] 学問の[LHLLL] 秘密には[LHHHH] 深く浸って[LHLLLLL] いた[LH]	kɯ ɾeꜛmpekʲoꜜːtoːβa bɯꜛkoʦɨna oꜛtokoꜜdaɡa, ʥiꜛbɯnno ɡaꜛkɯꜜmonno çiꜛmʲiʦɨɲiβa ɸɯꜛkaꜜkɯçitaʔte iꜛtaꜜ.
+6/8	RECITATION324_087	いっそ脚本家を目指した方がいいかとも考えた。	いっそ[LHH] 脚本家を[LHHHLL] 目指した[LHLL] 方が[HLL] いいかとも[HLLLL] 考えた[LHHLL]	iꜛʔso kʲaꜛkɯhoŋꜜkao meꜛʣaꜜɕita hoꜜːɡa iꜜikatomo kaꜛŋɡaꜜeta.
+3/4	RECITATION324_089	仏教はインド由来の宗教です。	仏教は[HLLLL] インド由来の[LHHHLLL] 宗教です[HLLLLL]	bɯꜜʔkʲoːβa iꜛndojɯꜜɾaino ɕɨꜜːkʲoːdesɨ.
+6/8	RECITATION324_092	三角関数においてピュタゴラスの定理は必須です。	三角関数に[LHHHHHHLL] おいて[HLL] ピュタゴラスの[LHHLLL] 定理は[HLLL] 必須です[LHHHL]	saꜛŋkakɯkaɴsɨꜜːɲi oꜜite pʲɨꜛtaɡoꜜɾasɨno teꜜːɾʲiβa çiꜛʔsɨdeꜜsɨ.
+3/4	RECITATION324_104	日刊センティナル紙のヘプバンです。	日刊センティナル紙[LHHHHHHHHL] のヘ[LH] プバンです[HLLLL]	ɲiꜛʔkaɴsentʲinaɾɯꜜɕi noꜛe pɯꜜbandesɨ.
+6/8	RECITATION324_107	宇宙では、エントロピーは無際限に増大している。	宇宙では[HLLLL] エントロピーは[LHHHLLL] 無際限に[LHHHLL] 増大[LHHH] して[LH] いる[LH]	ɯꜜʨɨːdeβa, eꜛntoɾoꜜpʲiːβa mɯꜛsaiɡeꜜɲɲi ʣoꜛːdai ɕiꜛte iꜛɾɯ.
+3/4	RECITATION324_116	テンプル君、既に真逆だと言った。	テンプル君[HLLLLL] 既に[HLL] 真逆だと[HLLLL] 言った[LHH]	teꜜmpɯɾɯkɯɴ, sɨꜜdeɲi maꜜɡʲakɯdato iꜛʔtaꜜ.
+6/8	RECITATION324_161	男が妙な顔をして、一瞬残忍になった。	男が[LHHL] 妙な[HLL] 顔を[LHH] して[LH] 一瞬[LHHH] 残忍に[LHHHH] なった[HLL]	oꜛtokoꜜɡa mʲoꜜːna kaꜛoo ɕiꜛte, iꜛʔɕɨɴ ʣaꜛɲɲiɲɲi naꜜʔta.
+3/4	RECITATION324_162	普及活動に幻滅した。	普及活動に[LHHHLLLL] 幻滅[LHHH] した[LH]	ɸɯꜛkʲɨːkaꜜʦɨdoːɲi ɡeꜛmmeʦɨ ɕiꜛtaꜜ.
+6/8	RECITATION324_167	ウォルターとウォードが入室すると、ノラが真っ赤になった。	ウォルターと[HLLLL] ウォードが[HLLL] 入室[LHHH] すると[LHH] ノラが[HLL] 真っ赤に[LHHL] なった[HLL]	βoꜜɾɯtaːto βoꜜːdoɡa ɲɨꜛːɕiʦɨ sɨꜛɾɯto, noꜜɾaɡa maꜛʔkaꜜɲi naꜜʔta.
+3/4	RECITATION324_175	突然海へ飛び込んだ。	突然[LHHH] 海へ[HLL] 飛び込んだ[LHHLL]	toꜛʦɨʣeɴ ɯꜜmʲie toꜛbʲikoꜜnda.
+3/4	RECITATION324_190	名をツァウォツキイといった。	名を[LH] ツ[H] ァウォ[HL] ツ[H] キイと[HLL] いった[LHH]	naꜛo ʦɨꜜ aꜜβo ʦɨꜜ kʲiꜜito iꜛʔtaꜜ.
+6/8	RECITATION324_209	九頭竜明神を祭るために灯篭をながす。	九頭竜明神を[LHHHHLLLL] 祭る[LHH] ために[LHL] 灯篭を[LHHHH] ながす[LHL]	kɯꜛzɨɾʲɨːmʲoꜜːʥiɴo maꜛʦɨɾɯ taꜛmeꜜɲi toꜛːɾoːo naꜛɡaꜜsɨ.
+6/8	RECITATION324_217	彼自身は、レジ業務につきたいと思っている。	彼自身は[LHHLLL] レジ業務に[LHHLLL] つきたいと[LHHLL] 思って[LHLL] いる[LH]	kaꜛɾeʥiꜜɕiɴβa, ɾeꜛʥiɡʲoꜜːmɯɲi ʦɨꜛkʲitaꜜito oꜛmoꜜʔte iꜛɾɯ.
+3/4	RECITATION324_220	ヒポクラテスは医学の父と呼ばれます。	ヒポクラテスは[LHHHLLL] 医学の[HLLL] 父と[HLL] 呼ばれます[LHHHL]	çiꜛpokɯɾaꜜtesɨβa iꜜɡakɯno ʨiꜜʨito joꜛbaɾemaꜜsɨ.
+12/16	RECITATION324_221	ところが商人は、国ざかいのすぐ近くへ住まって、やはり前と同じようにやっています。	ところが[LHHL] 商人は[HLLLL] 国ざかいの[LHHLLL] すぐ[HL] 近くへ[HLLL] 住まって[LHLL] やはり[LHL] 前と[HLL] 同じ[LHH] ように[HLL] やって[HLL] います[LHL]	toꜛkoɾoꜜɡa ɕoꜜːɲiɴβa, kɯꜛɲiʣaꜜkaino sɨꜜɡɯ ʨiꜜkakɯe sɨꜛmaꜜʔte, jaꜛhaꜜɾʲi maꜜeto oꜛnaʥi joꜜːɲi jaꜜʔte iꜛmaꜜsɨ.
+6/8	RECITATION324_241	私の手を引っ張るようにして、手のひらへくれました。	私の[LHHH] 手を[HL] 引っ張る[LHHL] ように[HLL] して[LH] 手のひらへ[HLLLL] くれました[LHHLL]	βaꜛtaɕino teꜜo çiꜛʔpaꜜɾɯ joꜜːɲi ɕiꜛte, teꜜnoçiɾae kɯꜛɾemaꜜɕita.
+9/12	RECITATION324_242	北海の荒波は、その氷の絶壁の根を噛んで、激しく飛沫を散らしている。	北海の[LHHHH] 荒波は[LHHHH] その[LH] 氷の[LHHH] 絶壁の[LHHHH] 根を[HL] 噛んで[HLL] 激しく[LHHL] 飛沫を[LHHH] 散らして[LHHH] いる[LH]	hoꜛʔkaino aꜛɾanamʲiβa, soꜛno koꜛːɾʲino ʣeꜛʔpekʲino neꜜo kaꜜnde, haꜛɡeɕiꜜkɯ ɕiꜛbɯkʲio ʨiꜛɾaɕite iꜛɾɯ.
+3/4	RECITATION324_306	へへっと、きゃつは媚びへつらった。	へへ[LH] っと[LH] きゃつは[HLL] 媚びへつらった[LHLLLLL]	heꜛheʔꜛto, kʲaꜜʦɨβa koꜛbʲiꜜheʦɨɾaʔta.
+6/8	RECITATION324_323	その映画の出演者である彼が、主犯である可能性はフィフティーフィフティーだ。	その[LH] 映画の[LHHH] 出演者である[LHHHHHHH] 彼が[HLL] 主犯である[LHHHHH] 可能性は[LHHHHH] フィフティーフィフティーだ[LHHHHLLLL]	soꜛno eꜛːɡano ɕɨꜛʦɨeɴɕadeaɾɯ kaꜜɾeɡa, ɕɨꜛhandeaɾɯ kaꜛnoːseːβa ɸʲiꜛɸɯtʲiːɸʲiꜜɸɯtʲiːda.
+6/8	accent_0016	子供のころから犬を飼うのが夢だった。	子供の[LHHH] ころから[HLLL] 犬を[LHL] 飼う[HL] のが[LH] 夢だった[LHLLL]	koꜛdomono koꜜɾokaɾa iꜛnɯꜜo kaꜜɯ noꜛɡa jɯꜛmeꜜdaʔta.
+6/8	accent_0018	うちのマンションでは猫を飼うことができない。	うちの[LHH] マンションでは[HLLLLL] 猫を[HLL] 飼う[HL] ことが[LHL] できない[LHLL]	ɯꜛʨino maꜜɴɕondeβa neꜜkoo kaꜜɯ koꜛtoꜜɡa deꜛkʲiꜜnai.
+3/4	accent_0024	白のシャツに着替えてから出かけた。	白の[HLL] シャツに[HLL] 着替えてから[LHHHHH] 出かけた[LHHH]	ɕiꜜɾono ɕaꜜʦɨɲi kʲiꜛɡaetekaɾa deꜛkaketaꜜ.
+3/4	accent_0028	川原で平たい石を拾った。	川原で[LHHH] 平たい[LHHH] 石を[LHL] 拾った[LHHH]	kaꜛβaɾade çiꜛɾatai iꜛɕiꜜo çiꜛɾoʔtaꜜ.
+3/4	accent_0040	学校の前で友達を待っています。	学校の[LHHHH] 前で[HLL] 友達を[LHHHH] 待って[HLL] います[LHL]	ɡaꜛʔkoːno maꜜede toꜛmodaʨio maꜜʔte iꜛmaꜜsɨ.
+6/8	accent_0058	犬が山のほうへ走っていった。	犬が[LHL] 山の[LHL] ほうへ[HLL] 走って[LHLL] いった[LHH]	iꜛnɯꜜɡa jaꜛmaꜜno hoꜜːe haꜛɕiꜜʔte iꜛʔtaꜜ.
+3/4	accent_0068	先生に質問があります。	先生に[LHHLL] 質問が[LHHHH] あります[LHHL]	seꜛɴseꜜːɲi ɕiꜛʦɨmoŋɡa aꜛɾʲimaꜜsɨ.
+3/4	accent_0103	日本語能力試験に合格した。	日本語能力試験に[LHHHHHHHHHLL] 合格[LHHH] した[LH]	ɲiꜛhoŋɡonoːɾʲokɯɕikeꜜɲɲi ɡoꜛːkakɯ ɕiꜛtaꜜ.
+3/4	accent_0115	今年で二十歳になります。	今年で[LHHH] 二十歳に[LHHLLL] なります[LHHL]	koꜛtoɕide ɲiꜛʥɨʔꜜsaiɲi naꜛɾʲimaꜜsɨ.
+3/4	accent_0139	お疲れさまでした、また明日。	お疲れさまでした[LHHHHHHLL] また[LH] 明日[LHH]	oꜛʦɨkaɾesamadeꜜɕita, maꜛta aꜛɕitaꜜ.
+3/4	accent_0147	早くしないと遅れちゃうよ。	早くしないと[LHHHLLL] 遅れちゃうよ[LHHHHL]	haꜛjakɯɕiꜜnaito oꜛkɯɾeʨaɯꜜjo.
+18/24	Y001	この手続きは10分ほどで完了しますので、更新される方は、画面右下のメニューボタンから最下部の「ログイン状態のリセット」を選択してください。	この[LH] 手続きは[LHLLL] 十分ほどで[LHHHHHH] 完了[LHHH] しますので[LHLLL] 更新[LHHH] される[LHH] 方は[HLL] 画面右下の[LHHLLLLL] メニューボタンから[LHHHLLLL] 最下部の[LHHLL] ログイン状態の[LHHHHLLLL] リセット[LHLL] を[L] 選択[LHHH] して[LH] ください[LHHL]	koꜛno teꜛʦɨꜜzɨkʲiβa ʥɨꜛʔpɯɴhodode kaꜛnɾʲoː ɕiꜛmaꜜsɨnode, koꜛːɕiɴ saꜛɾeɾɯ hoꜜːβa, ɡaꜛmemꜜmʲiɡʲiɕitano meꜛɲɨːboꜜtaŋkaɾa saꜛikaꜜbɯno “ɾoꜛɡɯiɲʥoꜜːtaino ɾʲiꜛseꜜʔto” o seꜛntakɯ ɕiꜛte kɯꜛdasaꜜi.
+18/24	Y011	表示順は「預金番号が小さい順」のほか、「預入日が古い順、新しい順」や「満期日が近い順、遠い順」に切り替えできます。	表示順は[LHHHHH] 預金番号が[LHHHHHLL] 小さい[LHHL] 順[LH] の[L] ほか[LH] 預入日が[LHHLL] 古い[LHL] 順[LH] 新しい[LHHHL] 順[LH] や[L] 満期日が[LHHLL] 近い[LHL] 順[LH] 遠い[LHH] 順[LH] に[L] 切り替えできます[LHHHHHHL]	çoꜛːʥiʥɨɴβa “joꜛkʲimbaŋɡoꜜːɡa ʨiꜛːsaꜜi ʥɨꜛɴ” no hoꜛka, “joꜛɲɨːꜜbʲiɡa ɸɯꜛɾɯꜜi ʥɨꜛɴ, aꜛtaɾaɕiꜜi ʥɨꜛɴ” ja “maꜛŋkʲiꜜbʲiɡa ʨiꜛkaꜜi ʥɨꜛɴ, toꜛːi ʥɨꜛɴ” ɲi kʲiꜛɾʲikaedekʲimaꜜsɨ.
+16/21	EMOTION100_070	泳者のシンディー・ニコラスは、へとへとになって泳ぎ切った後、ドーバーでかろうじて陸に上がってきたが、海峡水泳協会のスポークスマンは、彼女がとても元気であると発表した。	泳者の[HLLL] シンディー・ニコラスは[HLLLLLLLL] へとへとに[LHHHH] なって[HLL] 泳ぎ切った[LHLLLL] 後[HL] ドーバーで[HLLLL] かろうじて[LHHHH] 陸に[LHH] 上がって[LHHH] きたが[HLL] 海峡水泳協会の[LHHHHHHHHLLLL] スポークスマンは[LHLLLLLL] 彼女が[HLLL] とても[LHH] 元気であると[HLLLLLL] 発表[LHHH] した[LH]	eꜜːɕano ɕiꜜndʲiːɲikoɾasɨβa, heꜛtohetoɲi naꜜʔte oꜛjoꜜɡʲikʲiʔta aꜜto, doꜜːbaːde kaꜛɾoːʥite ɾʲiꜛkɯɲi aꜛɡaʔte kʲiꜜtaɡa, kaꜛikʲoːsɨieːkʲoꜜːkaino sɨꜛpoꜜːkɯsɨmaɴβa, kaꜜnoʥoɡa toꜛtemo ɡeꜜŋkʲideaɾɯto haꜛʔpʲoː ɕiꜛtaꜜ.
+13/17	EMOTION100_069	ギリシャのフットボールの試合では、一方のチームの選手は、相手チームの陣地のラインの向こう側にボールを持ち込もうとしたのです。	ギリシャの[HLLL] フットボールの[LHHHLLL] 試合では[LHHHH] 一方の[LHHLL] チームの[HLLL] 選手は[HLLL] 相手チームの[LHHHLLL] 陣地の[HLLL] ラインの[HLLL] 向こう側に[LHHHHH] ボールを[LHHH] 持ち込もうと[LHHLLL] した[LH] のです[LHL]	ɡʲiꜜɾʲiɕano ɸɯꜛʔtoboꜜːɾɯno ɕiꜛaideβa, iꜛʔpoꜜːno ʨiꜜːmɯno seꜜɴɕɨβa, aꜛiteʨiꜜːmɯno ʥiꜜɲʨino ɾaꜜinno mɯꜛkoːɡaβaɲi boꜛːɾɯo moꜛʨikoꜜmoːto ɕiꜛtaꜜ noꜛdeꜜsɨ.
+13/17	T003	中村翔太様は2026年6月8日にハイエースバンの事故対応について連絡しました。	中村[LHHH] 翔太様は[HLLLLL] 二千[LHL] 二十[HLL] 六年[LHLL] ６月[LHHH] 八日に[LHHH] ハイエースバンの[LHHHHLLL] 事故対応に[LHHLLLL] ついて[HLL] 連絡[LHHH] しました[LHLL]	naꜛkamɯɾa ɕoꜜːtasamaβa ɲiꜛseꜜɲ ɲiꜜʥɨː ɾoꜛkɯꜜnen ɾoꜛkɯɡaʦɨꜜ joꜛːkaɲi haꜛieːsɨꜜbanno ʥiꜛkotaꜜioːɲi ʦɨꜜite ɾeꜛnɾakɯ ɕiꜛmaꜜɕita.
+10/13	EMOTION100_006	ストラットフォード・オン・エイヴォンは、シェイクスピアの生まれたところですが、毎年多くの観光客が訪れます。	ストラットフォード[LHHHHLLL] オン[HL] エイヴォンは[HLLLL] シェイクスピアの[LHHHLLL] 生まれた[LHHH] ところですが[LHHHLL] 毎年[LHHH] 多くの[HLLL] 観光客が[LHHHLLL] 訪れます[LHHHHL]	sɨꜛtoɾaʔtoꜜɸoːdo oꜜɴ eꜜiboɴβa, ɕeꜛikɯsɨꜜpʲiano ɯꜛmaɾetaꜜ toꜛkoɾodeꜜsɨɡa, maꜛitoɕi oꜜːkɯno kaꜛŋkoːꜜkʲakɯɡa oꜛtozɨɾemaꜜsɨ.
+10/13	RECITATION324_165	姫や侍女たちが、キンポウゲやタンポポの花を持って、彼の方へ駆け寄っていった。	姫や[HLL] 侍女たちが[LHLLL] キンポウゲや[LHHLLL] タンポポの[HLLLL] 花を[LHL] 持って[HLL] 彼の[HLL] 方へ[HLL] 駆け寄って[LHHLL] いった[LHH]	çiꜜmeja ʥiꜛʥoꜜtaʨiɡa, kʲiꜛmpoꜜɯɡeja taꜜmpopono haꜛnaꜜo moꜜʔte, kaꜜɾeno hoꜜːe kaꜛkejoꜜʔte iꜛʔtaꜜ.
+10/13	RECITATION324_259	おなじ東京の名をよぶにも、今後はおそらく旧東京と新東京とに区別されるであろう。	おなじ[LHH] 東京の[LHHHH] 名を[LH] よぶにも[LHHH] 今後は[LHHH] おそらく[LHLL] 旧東京と[LHHLLLL] 新東京とに[LHHLLLLL] 区別[HLL] されるであろう[LHHHHHH]	oꜛnaʥi toꜛːkʲoːno naꜛo joꜛbɯɲimo, koꜛŋɡoβa oꜛsoꜜɾakɯ kʲɨꜛːtoꜜːkʲoːto ɕiꜛntoꜜːkʲoːtoɲi kɯꜜbeʦɨ saꜛɾeɾɯdeaɾoː.
+7/9	EMOTION100_031	彼女はその事件を、生き生きとした筆致で描写した。	彼女は[HLLL] その[LH] 事件を[HLLL] 生き生きと[LHHLL] した[LH] 筆致で[LHHH] 描写[LHH] した[LH]	kaꜜnoʥoβa soꜛno ʥiꜜkeɴo, iꜛkʲiiꜜkʲito ɕiꜛtaꜜ çiꜛʔʨide bʲoꜛːɕa ɕiꜛtaꜜ.
+7/9	RECITATION324_086	およそ百年前には、薬剤として薬屋で売っていた。	およそ[LHH] 百年[LHLL] 前には[HLLL] 薬剤と[LHHHH] して[LH] 薬屋で[LHHHH] 売って[LHH] いた[LH]	oꜛjoso çaꜛkɯꜜnem maꜜeɲiβa, jaꜛkɯʣaito ɕiꜛte kɯꜛsɨɾʲijade ɯꜛʔte iꜛtaꜜ.
+7/9	RECITATION324_189	町の女房らしい二人連れが、日傘を持って入ってきた。	町の[LHL] 女房らしい[HLLLLLL] 二人連れが[LHHHHH] 日傘を[LHLL] 持って[HLL] 入って[HLLL] きた[HL]	maꜛʨiꜜno ɲoꜜːboːɾaɕii ɸɯꜛtaɾʲizɨɾeɡa, çiꜛɡaꜜsao moꜜʔte haꜜiʔte kʲiꜜta.
+7/9	RECITATION324_296	ムンムンとした熱気に、あの淡水魚もへとへとになっている。	ムンムンと[HLLLL] した[LH] 熱気に[LHHH] あの[LH] 淡水魚も[LHHLLL] へとへとに[LHHHH] なって[HLL] いる[LH]	mɯꜜmmɯnto ɕiꜛtaꜜ neꜛʔkʲiɲi, aꜛno taꜛɴsɨꜜiɡʲomo heꜛtohetoɲi naꜜʔte iꜛɾɯ.
+7/9	accent_0164	長い会議が終わって、ようやく自分の仕事に取りかかれた。	長い[LHL] 会議が[HLLL] 終わって[LHHH] ようやく[LHHH] 自分の[LHHH] 仕事に[LHHH] 取りかかれた[LHHHHL]	naꜛɡaꜜi kaꜜiɡʲiɡa oꜛβaʔte, joꜛːjakɯ ʥiꜛbɯnno ɕiꜛɡotoɲi toꜛɾʲikakaɾeꜜta.
+7/9	accent_0173	新しいプロジェクトの担当になって、毎日が忙しくなりました。	新しい[LHHHL] プロジェクトの[LHLLLL] 担当に[LHHHH] なって[HLL] 毎日が[LHHHH] 忙しくなりました[LHHHHHHHLL]	aꜛtaɾaɕiꜜi pɯꜛɾoꜜʥekɯtono taꜛntoːɲi naꜜʔte, maꜛiɲiʨiɡa iꜛsoɡaɕikɯnaɾʲimaꜜɕita.
+14/18	T005	2027年11月9日9時30分にタカハシ モモさまのタウンエースバン保険満期対応をご予約を承りました。	二千[LHL] 二十[HLL] 七年[LHLL] １１月[LHHHHH] 九日[LHHH] 九時[HL] 三十分に[LHHHLLL] タカハシ[LHLL] モモさまの[LHHHH] タウンエースバン保険満期対応を[LHHHHHHHHHHHHHHLLLL] ご予約を[LHLLL] 承りました[LHHHHHHLL]	ɲiꜛseꜜɲ ɲiꜜʥɨː naꜛnaꜜneɲ ʥɨꜛːiʨiɡaʦɨꜜ koꜛkonoka kɯꜜʥi saꜛɲʥɨʔꜜpɯɲɲi taꜛkaꜜhaɕi moꜛmosamano taꜛɯɴeːsɨbaɴhokemmaŋkʲitaꜜioːo ɡoꜛjoꜜjakɯo ɯꜛketamaβaɾʲimaꜜɕita.
+11/14	EMOTION100_011	イタリア旅行で彼は、いくつか景勝の地として有名な都市、例えば、ナポリやフィレンツェを訪れた。	イタリア旅行で[LHHHHLLL] 彼は[HLL] いくつか[HLLL] 景勝の[LHHHH] 地と[HL] して[LH] 有名な[LHHHH] 都市[HL] 例えば[LHLL] ナポリや[HLLL] フィレンツェを[LHLLL] 訪れた[LHHLL]	iꜛtaɾʲiaɾʲoꜜkoːde kaꜜɾeβa, iꜜkɯʦɨka keꜛːɕoːno ʨiꜜto ɕiꜛte jɯꜛːmeːna toꜜɕi, taꜛtoꜜeba, naꜜpoɾʲija ɸʲiꜛɾeꜜɴʦeo oꜛtozɨꜜɾeta.
+11/14	EMOTION100_045	彼女は大学に入学したら、親から経済的に独立しようと思っていた。	彼女は[HLLL] 大学に[LHHHH] 入学[LHHH] したら[LHL] 親から[LHLL] 経済的に[LHHHLLL] 独立[LHHH] しようと[LHHH] 思って[LHLL] いた[LH]	kaꜜnoʥoβa daꜛiɡakɯɲi ɲɨꜛːɡakɯ ɕiꜛtaꜜɾa, oꜛjaꜜkaɾa keꜛːʣaiꜜtekʲiɲi doꜛkɯɾʲiʦɨ ɕiꜛjoːto oꜛmoꜜʔte iꜛtaꜜ.
+11/14	RECITATION324_070	われわれは、天主教徒か長老教会派のもので、天主教徒が多数を占めている。	われわれは[LHHHH] 天主教徒か[LHHHLLL] 長老教[LHHHHH] 会派の[HLLL] もので[LHL] 天主教徒が[LHHHLLL] 多数を[LHLL] 占めて[LHL] いる[LH]	βaꜛɾeβaɾeβa, teꜛɴɕɨkʲoꜜːtoka ʨoꜛːɾoːkʲoː kaꜜihano moꜛnoꜜde, teꜛɴɕɨkʲoꜜːtoɡa taꜛsɨꜜːo ɕiꜛmeꜜte iꜛɾɯ.
+8/10	EMOTION100_005	彼女はモーツァルトやベートーヴェンといった、古典派の作曲家が好きだ。	彼女は[HLLL] モーツァルトや[HLLLLL] ベートーヴェンと[LHHLLLL] いった[LHH] 古典派の[LHHHH] 作曲家が[LHHHLL] 好きだ[LHL]	kaꜜnoʥoβa moꜜːʦaɾɯtoja beꜛːtoꜜːbento iꜛʔtaꜜ, koꜛteɴhano saꜛʔkʲokɯꜜkaɡa sɨꜛkʲiꜜda.
+8/10	EMOTION100_014	スミスさん、ピエール・デュボワをご紹介しますわ。私の親友なの。	スミスさん[HLLLL] ピエール[HLLL] デュボワを[HLLL] ご紹介[LHLLL] しますわ[LHLL] 私の[LHHH] 親友なの[LHHHHL]	sɨꜜmʲisɨsaɴ, pʲiꜜeːɾɯ dʲɨꜜboβao ɡoꜛɕoꜜːkai ɕiꜛmaꜜsɨβa. βaꜛtaɕino ɕiꜛɴjɯːnaꜜno.
+4/5	EMOTION100_078	ぴゅうぴゅう風が吹きこんでくる。	ぴゅうぴゅう[HLLL] 風が[LHH] 吹きこんで[LHHLL] くる[HL]	pʲɨꜜːpʲɨː kaꜛʣeɡa ɸɯꜛkʲikoꜜnde kɯꜜɾɯ.
+4/5	RECITATION324_001	女の子がキッキッ嬉しそう。	女の子が[LHHLLL] キッ[HL] キッ[HL] 嬉しそう[LHHLL]	oꜛnnaꜜnokoɡa kʲiꜜʔkʲiꜜʔɯꜛɾeɕiꜜsoː.
+8/10	RECITATION324_004	ハイチ共和国でトゥーサンルーヴェルテュールが勝利を収められたのは、実際黄熱病のおかげだった。	ハイチ共和国で[LHHHHHLLL] トゥーサンルーヴェルテュールが[HLLLLLLLLLLLL] 勝利を[HLLL] 収められた[LHHLLL] のは[LH] 実際[LHHH] 黄熱病の[LHHHHHH] おかげだった[LHHHHH]	haꜛiʨikʲoːβaꜜkokɯde toꜜːːsanɾɯːveɾɯtʲɨːɾɯɡa ɕoꜜːɾʲio oꜛsameꜜɾaɾeta noꜛβa, ʥiꜛʔsai oꜛːneʦɨbʲoːno oꜛkaɡedaʔtaꜜ.
+4/5	RECITATION324_006	助言はできないとデュパンは言った。	助言は[LHHH] できないと[LHLLL] デュパンは[HLLL] 言った[LHH]	ʥoꜛɡeɴβa deꜛkʲiꜜnaito dʲɨꜜpaɴβa iꜛʔtaꜜ.
+8/10	RECITATION324_050	どうも気まぐれというものは多少メフィスティックなものであるらしい。	どうも[HLL] 気まぐれと[LHHHH] いう[LH] ものは[LHL] 多少[LHH] メフィスティックな[LHHHLLL] ものであるらしい[LHLLLLLL]	doꜜːmo kʲiꜛmaɡɯɾeto iꜛɯ moꜛnoꜜβa taꜛɕoː meꜛɸʲisɨtʲiꜜʔkɯna moꜛnoꜜdeaɾɯɾaɕii.
+4/5	RECITATION324_054	スピリッツとは蒸留酒の事です。	スピリッツとは[LHLLLLL] 蒸留酒の[LHHLLL] 事です[LHLL]	sɨꜛpʲiꜜɾʲiʔʦɨtoβa ʥoꜛːɾʲɨꜜːɕɨno koꜛtoꜜdesɨ.
+4/5	RECITATION324_073	ネットで懸案の解決を目指す。	ネットで[LHHH] 懸案の[LHHHH] 解決を[LHHHH] 目指す[LHL]	neꜛʔtode keꜛɴanno kaꜛikeʦɨo meꜛʣaꜜsɨ.
+8/10	RECITATION324_082	私は手始めに、同業者から話を聞く努力をした。	私は[LHHH] 手始めに[LHLLL] 同業者から[LHHLLLL] 話を[LHHL] 聞く[LH] 努力を[HLLL] した[LH]	βaꜛtaɕiβa teꜛhaꜜʥimeɲi, doꜛːɡʲoꜜːɕakaɾa haꜛnaɕiꜜo kʲiꜛkɯ doꜜɾʲokɯo ɕiꜛtaꜜ.
+8/10	RECITATION324_088	この書物に誤謬があっても、純一でない何ものにもインフェクトしないでしょう。	この[LH] 書物に[HLLL] 誤謬が[LHHH] あっても[HLLL] 純一でない[LHHHHHH] 何ものにも[LHHHHH] インフェクト[LHLLL] しないでしょう[LHHLLL]	koꜛno ɕoꜜmoʦɨɲi ɡoꜛbʲɨːɡa aꜜʔtemo, ʥɨꜛɴiʦɨdenai naꜛɲimonoɲimo iꜛɴꜜɸekɯto ɕiꜛnaiꜜdeɕoː.
+4/5	RECITATION324_095	食料の補給が急務であると伝えられた。	食料の[LHLLL] 補給が[LHHH] 急務であると[HLLLLLL] 伝えられた[LHHHHH]	ɕoꜛkɯꜜɾʲoːno hoꜛkʲɨːɡa kʲɨꜜːmɯdeaɾɯto ʦɨꜛtaeɾaɾetaꜜ.
+8/10	RECITATION324_100	小さい星をたくさん描いた、水飲みグラスはよくある。	小さい[LHHL] 星を[LHH] たくさん[LHHH] 描いた[LHLL] 水飲みグラスは[LHHHHLLL] よく[HL] ある[HL]	ʨiꜛːsaꜜi hoꜛɕio taꜛkɯsaɴ eꜛɡaꜜita, mʲiꜛzɨnomʲiɡɯꜜɾasɨβa joꜜkɯ aꜜɾɯ.
+8/10	RECITATION324_105	この宝石は、ひとつ百万円以上のお値段です。	この[LH] 宝石は[LHHHH] ひとつ[LHL] 百[LH] 万円[LHLL] 以上の[HLLL] お値段です[LHLLLL]	koꜛno hoꜛːsekʲiβa, çiꜛtoꜜʦɨ çaꜛkɯꜜ maꜛɴꜜeɴ iꜜʥoːno oꜛneꜜdandesɨ.
+4/5	RECITATION324_132	直ぐウィルキンソンを呼びに行け。	直ぐ[HL] ウィルキンソンを[LHHLLLL] 呼びに[LHH] 行け[LH]	sɨꜜɡɯ βiꜛɾɯkʲiꜜɴsoɴo joꜛbʲiɲi iꜛke.
+4/5	RECITATION324_164	ペリウィンクルやプランティンはブルーアイです。	ペリウィンクルや[LHHLLLL] プランティンは[HLLLLL] ブルーアイです[LHHLLLL]	peꜛɾʲiβiꜜŋkɯɾɯja pɯꜜɾantʲiɴβa bɯꜛɾɯːꜜaidesɨ.
+4/5	RECITATION324_176	仕事はどっさりとあります。	仕事は[LHHH] どっさりと[LHHLL] あります[LHHL]	ɕiꜛɡotoβa doꜛʔsaꜜɾʲito aꜛɾʲimaꜜsɨ.
+4/5	RECITATION324_227	行楽シーズンの京都は人でいっぱい。	行楽シーズンの[LHHHHLLLL] 京都は[HLLL] 人で[LHH] いっぱい[HLLL]	koꜛːɾakɯɕiꜜːzɨnno kʲoꜜːtoβa çiꜛtode iꜜʔpai.
+4/5	RECITATION324_228	どこからかパチパチと音が聞こえる。	どこからか[HLLLL] パチ[LH] パチと[LHL] 音が[LHL] 聞こえる[LHHH]	doꜜkokaɾaka paꜛʨiꜜ paꜛʨiꜜto oꜛtoꜜɡa kʲiꜛkoeɾɯ.
+4/5	RECITATION324_238	海沿いの旅館は眺めがいい。	海沿いの[LHHHH] 旅館は[LHHH] 眺めが[LHHL] いい[HL]	ɯꜛmʲiʣoino ɾʲoꜛkaɴβa naꜛɡameꜜɡa iꜜi.
+4/5	RECITATION324_239	集中すると周りが見えない。	集中[LHHH] すると[LHH] 周りが[LHHH] 見えない[LHLL]	ɕɨꜛːʨɨː sɨꜛɾɯto maꜛβaɾʲiɡa mʲiꜛeꜜnai.
+4/5	RECITATION324_260	腰振りを二分間続ける。	腰振りを[LHLLL] 二分間[LHLLL] 続ける[LHHH]	koꜛɕiꜜɸɯɾʲio ɲiꜛɸɯꜜŋkaɴ ʦɨꜛzɨkeɾɯ.
+4/5	RECITATION324_263	オムライスにはケチャップが一番。	オムライスには[LHHLLLL] ケチャップが[HLLLL] 一番[LHLL]	oꜛmɯɾaꜜisɨɲiβa keꜜʨaʔpɯɡa iꜛʨiꜜbaɴ.
+4/5	RECITATION324_264	ストレスは適度に発散しましょう。	ストレスは[LHLLL] 適度に[HLLL] 発散[LHHH] しましょう[LHHL]	sɨꜛtoꜜɾesɨβa teꜜkʲidoɲi haꜛʔsaɴ ɕiꜛmaɕoꜜː.
+8/10	RECITATION324_268	一日中明るい白夜は、一切太陽が沈まないことで起こります。	一日中[LHHHHH] 明るい[LHHH] 白夜は[HLLL] 一切[HLLL] 太陽が[HLLLL] 沈まない[LHHHH] ことで[LHL] 起こります[LHHHL]	iꜛʨiɲiʨiʥɨː aꜛkaɾɯi bʲaꜜkɯjaβa, iꜜʔsai taꜜijoːɡa ɕiꜛzɨmanai koꜛtoꜜde oꜛkoɾʲimaꜜsɨ.
+4/5	RECITATION324_272	腸チフスは怖い病気。	腸チフスは[LHHLLL] 怖い[LHL] 病気[LHH]	ʨoꜛːʨiꜜɸɯsɨβa koꜛβaꜜi bʲoꜛːkʲi.
+4/5	RECITATION324_284	ギェナーを見てイェーイと叫ぶ。	ギェナーを[HLLL] 見て[HL] イェーイと[HLLL] 叫ぶ[LHL]	ɡʲeꜜnaːo mʲiꜜte jeꜜːito saꜛkeꜜbɯ.
+4/5	accent_0022	予定を変えるなら早めに連絡してね。	予定を[LHHH] 変えるなら[LHHHH] 早めに[LHHH] 連絡[LHHH] してね[LHH]	joꜛteːo kaꜛeɾɯnaɾa haꜛjameɲi ɾeꜛnɾakɯ ɕiꜛtene.
+4/5	accent_0043	名前をここに書いてください。	名前を[LHHH] ここに[LHH] 書いて[HLL] ください[LHHL]	naꜛmaeo koꜛkoɲi kaꜜite kɯꜛdasaꜜi.
+4/5	accent_0044	窓を開けると鳥の声が聞こえた。	窓を[HLL] 開けると[LHHH] 鳥の[LHH] 声が[HLL] 聞こえた[LHHH]	maꜜdoo aꜛkeɾɯto toꜛɾʲino koꜜeɡa kʲiꜛkoetaꜜ.
+4/5	accent_0049	映画を見たあとで音楽を聴いた。	映画を[LHHH] 見た[HL] あとで[HLL] 音楽を[HLLLL] 聴いた[LHH]	eꜛːɡao mʲiꜜta aꜜtode oꜜŋɡakɯo kʲiꜛitaꜜ.
+4/5	accent_0061	冬の夜は布団から出たくない。	冬の[LHL] 夜は[HLL] 布団から[LHHHH] 出たくない[LHHLL]	ɸɯꜛjɯꜜno joꜜɾɯβa ɸɯꜛtoŋkaɾa deꜛtakɯꜜnai.
+4/5	accent_0070	昨日は何も食べなかった。	昨日は[LHLL] 何も[HLL] 食べなかった[LHLLLL]	kʲiꜛnoꜜːβa naꜜɲimo taꜛbeꜜnakaʔta.
+4/5	accent_0073	来週、京都へ行く予定です。	来週[LHHH] 京都へ[HLLL] 行く[LH] 予定です[LHHHL]	ɾaꜛiɕɨː, kʲoꜜːtoe iꜛkɯ joꜛteːdeꜜsɨ.
+4/5	accent_0078	値段が思ったより高かった。	値段が[LHHH] 思ったより[LHLLLL] 高かった[LHLLL]	neꜛdaŋɡa oꜛmoꜜʔtajoɾʲi taꜛkaꜜkaʔta.
+4/5	accent_0080	部屋をもっと明るくしたい。	部屋を[LHL] もっと[HLL] 明るくしたい[LHHHHHL]	heꜛjaꜜo moꜜʔto aꜛkaɾɯkɯɕitaꜜi.
+4/5	accent_0082	新しいかばんを買いました。	新しい[LHHHL] かばんを[LHHH] 買いました[LHHLL]	aꜛtaɾaɕiꜜi kaꜛbaɴo kaꜛimaꜜɕita.
+4/5	accent_0083	図書館の中はとても静かだった。	図書館の[LHLLL] 中は[HLL] とても[LHH] 静かだった[HLLLLL]	toꜛɕoꜜkanno naꜜkaβa toꜛtemo ɕiꜜzɨkadaʔta.
+4/5	accent_0096	長い間お待たせしました。	長い[LHL] 間[LHH] お待たせしました[LHHHHHLL]	naꜛɡaꜜi aꜛida oꜛmataseɕimaꜜɕita.
+4/5	accent_0101	国際会議の資料を準備している。	国際会議の[LHHHHLLL] 資料を[HLLL] 準備[HLL] して[LH] いる[LH]	koꜛkɯsaikaꜜiɡʲino ɕiꜜɾʲoːo ʥɨꜜmbʲi ɕiꜛte iꜛɾɯ.
+4/5	accent_0108	千二百円のお釣りをもらった。	千[HL] 二百円の[LHHLLL] お釣りを[LHHH] もらった[LHHH]	seꜜɲ ɲiꜛçakɯꜜenno oꜛʦɨɾʲio moꜛɾaʔtaꜜ.
+4/5	accent_0122	夏休みの宿題がまだ終わらない。	夏休みの[LHHLLL] 宿題が[LHHHH] まだ[HL] 終わらない[LHHHH]	naꜛʦɨjaꜜsɨmʲino ɕɨꜛkɯdaiɡa maꜜda oꜛβaɾanai.
+4/5	accent_0144	お名前を伺ってもよろしいですか？	お名前を[LHLLL] 伺っても[LHHHHH] よろしいですか[LHHLLLL]	oꜛnaꜜmaeo ɯꜛkaɡaʔtemo joꜛɾoɕiꜜidesɨka?
+16/20	Y013	ご案内を終了する場合は「1」を、オペレーターに接続する場合は「2」を、SMSを送信する場合は「3」を押してください。	ご案内を[LHHHLL] 終了[LHHH] する[LH] 場合は[LHHH] 一[LH] を[L] オペレーターに[LHHLLLL] 接続[LHHH] する[LH] 場合は[LHHH] 二[H] を[L] ＳＭＳを[LHHHHLL] 送信[LHHH] する[LH] 場合は[LHHH] 三[LH] を[L] 押して[LHH] ください[LHHL]	ɡoꜛannaꜜio ɕɨꜛːɾʲoː sɨꜛɾɯ baꜛaiβa “iꜛʨiꜜ” o, oꜛpeɾeꜜːtaːɲi seꜛʦɨʣokɯ sɨꜛɾɯ baꜛaiβa “ɲiꜜ” o, eꜛsɨemɯeꜜsɨo soꜛːɕiɴ sɨꜛɾɯ baꜛaiβa “saꜛɴ” o oꜛɕite kɯꜛdasaꜜi.
+16/20	T007	2028年2月20日13時30分にすがわら やまとさまのランドクルーザーニーゴーマル保険契約更新をご予約を承りました。	二千[LHL] 二十[HLL] 八年[LHLL] ２月[LHH] 二十日[LHH] 十[LH] 三時[LHL] 三十分に[LHHHLLL] すがわら[LHHH] やまとさまの[LHHHHH] ランドクルーザーニーゴーマル保険契約更新を[LHHHHHHHHHHHHHHHHHHHHHLLLL] ご予約を[LHLLL] 承りました[LHHHHHHLL]	ɲiꜛseꜜɲ ɲiꜜʥɨː haꜛʨiꜜneɲ ɲiꜛɡaʦɨꜜ haꜛʦɨka ʥɨꜛː saꜛɲꜜʥi saꜛɲʥɨʔꜜpɯɲɲi sɨꜛɡaβaɾa jaꜛmatosamano ɾaꜛndokɯɾɯːʣaːɲiːɡoːmaɾɯhokeŋkeːjakɯkoꜜːɕiɴo ɡoꜛjoꜜjakɯo ɯꜛketamaβaɾʲimaꜜɕita.
+13/16	accent_0170	初めて一人で料理を作ったとき、塩と砂糖を間違えてしまった。	初めて[LHLL] 一人で[LHLL] 料理を[HLLL] 作った[LHLL] とき[HL] 塩と[LHL] 砂糖を[LHLL] 間違えて[LHHHL] しまった[LHLL]	haꜛʥiꜜmete çiꜛtoꜜɾʲide ɾʲoꜜːɾʲio ʦɨꜛkɯꜜʔta toꜜkʲi, ɕiꜛoꜜto saꜛtoꜜːo maꜛʨiɡaeꜜte ɕiꜛmaꜜʔta.
+13/16	T018	はい、左様でございます。ジーアールハチロクの契約満期日は2026年6月6日でございます。	はい[HL] 左様でございます[LHHHHHHHL] ジー[LH] アールハチロクの[LHHHHLLL] 契約満期日は[LHHHHHHLL] 二千[LHL] 二十[HLL] 六年[LHLL] ６月[LHHH] 六日でございます[LHHHHHHHL]	haꜜi, saꜛjoːdeɡoʣaimaꜜsɨ. ʥiꜛː aꜛːɾɯhaʨiꜜɾokɯno keꜛːjakɯmaŋkʲiꜜbʲiβa ɲiꜛseꜜɲ ɲiꜜʥɨː ɾoꜛkɯꜜnen ɾoꜛkɯɡaʦɨꜜ mɯꜛikadeɡoʣaimaꜜsɨ.
+9/11	RECITATION324_252	摸造品ばかりでなく、本物のドイツ将校や兵卒のヘルメットを売っているのもある。	摸造品ばかりでなく[LHHHHHHHHLL] 本物の[LHHHH] ドイツ将校や[LHHHLLLL] 兵卒の[LHHHH] ヘルメットを[HLLLLL] 売って[LHH] いる[LH] のも[LH] ある[HL]	moꜛʣoːçimbakaɾʲideꜜnakɯ, hoꜛmmonono doꜛiʦɨɕoꜜːkoːja heꜛːsoʦɨno heꜜɾɯmeʔtoo ɯꜛʔte iꜛɾɯ noꜛmo aꜜɾɯ.
+9/11	Y002_2	「ご、ご、ぜろ、証明書ファイルは取得できませんでした。認証に失敗しました。」のどちらでしょうか。	ご[L] ご[L] ぜろ[HL] 証明書[LHHHH] ファイルは[HLLL] 取得[LHH] できませんでした[LHHHLLLL] 認証に[LHHHH] 失敗[LHHH] しました[LHLL] の[L] どちらでしょうか[HLLLLLL]	“ɡo, ɡo, ʣeꜜɾo, ɕoꜛːmeːɕo ɸaꜜiɾɯβa ɕɨꜛtokɯ deꜛkʲimaseꜜndeɕita. ɲiꜛɴɕoːɲi ɕiꜛʔpai ɕiꜛmaꜜɕita.” no doꜜʨiɾadeɕoːka.
+5/6	EMOTION100_009	クリスはヴァンパイア・ナイトを倒した。	クリスは[HLLL] ヴァンパイア[LHHLL] ナイトを[HLLL] 倒した[LHLL]	kɯꜜɾʲisɨβa vaꜛmpaꜜia naꜜitoo taꜛoꜜɕita.
+5/6	EMOTION100_016	頂上に着くと皆でヤッホーと叫んだ。	頂上に[LHHLL] 着くと[HLL] 皆で[LHH] ヤッホーと[HLLLL] 叫んだ[LHLL]	ʨoꜛːʥoꜜːɲi ʦɨꜜkɯto mʲiꜛnade jaꜜʔhoːto saꜛkeꜜnda.
+10/12	EMOTION100_030	あなたは流感になりかけているか、もっと重い病気かもしれません。	あなたは[LHLL] 流感に[LHHHH] なりかけて[LHHHL] いるか[LHL] もっと[HLL] 重い[LHH] 病気かも[LHHHL] しれません[LHHHL]	aꜛnaꜜtaβa ɾʲɨꜛːkaɲɲi naꜛɾʲikakeꜜte iꜛɾɯꜜka, moꜜʔto oꜛmoi bʲoꜛːkʲikaꜜmo ɕiꜛɾemaseꜜɴ.
+5/6	EMOTION100_033	奇妙な男で、彼は人から話し掛けられないと口をきかない。	奇妙な[HLLL] 男で[LHHL] 彼は[HLL] 人から[LHHH] 話し掛けられないと[LHHHHHHHHH] 口を[LHH] きかない[LHHH]	kʲiꜜmʲoːna oꜛtokoꜜde, kaꜜɾeβa çiꜛtokaɾa haꜛnaɕikakeɾaɾenaito kɯꜛʨio kʲiꜛkanai.
+5/6	EMOTION100_036	彼はライフルを拾い上げ、それで標的をねらった。	彼は[HLL] ライフルを[HLLLL] 拾い上げ[LHHHH] それで[LHH] 標的を[LHHHH] ねらった[LHHH]	kaꜜɾeβa ɾaꜜiɸɯɾɯo çiꜛɾoiaɡeꜜ, soꜛɾede çoꜛːtekʲio neꜛɾaʔtaꜜ.
+15/18	EMOTION100_053	しかしペパーバーグは、そのオウムを研究することによって、動物に対する考え方が変わったと言っている。	しかし[LHL] ペパーバーグは[HLLLLLL] その[LH] オウムを[HLLL] 研究[LHHH] する[LH] ことによって[LHLLLL] 動物に[LHHHH] 対する[LHHL] 考え方が[LHHHHLL] 変わったと[LHHHL] 言って[LHH] いる[LH]	ɕiꜛkaꜜɕi peꜜpaːbaːɡɯβa, soꜛno oꜜːmɯo keꜛŋkʲɨː sɨꜛɾɯ koꜛtoꜜɲijoʔte, doꜛːbɯʦɨɲi taꜛisɨꜜɾɯ kaꜛŋɡaekaꜜtaɡa kaꜛβaʔtaꜜto iꜛʔte iꜛɾɯ.
+5/6	EMOTION100_066	時間はあるんだから、安全運転してくれよ。	時間は[LHHH] ある[HL] んだから[HLLL] 安全[LHHH] 運転[LHHH] して[LH] くれよ[LHH]	ʥiꜛkaɴβa aꜜɾɯ nꜜdakaɾa, aꜛɴʣeɴ ɯꜛnteɴ ɕiꜛte kɯꜛɾejo.
+5/6	RECITATION324_017	あの旅客は噂のキャフェに行くようです。	あの[LH] 旅客は[LHHH] 噂の[LHHH] キャフェに[HLL] 行く[LH] ようです[HLLL]	aꜛno ɾʲoꜛkakɯβa ɯꜛβasano kʲaꜜɸeɲi iꜛkɯ joꜜːdesɨ.
+5/6	RECITATION324_051	蛙がピョコピョコ飛び回っています。	蛙が[LHHH] ピョコピョコ[HLLL] 飛び回って[LHHHLL] います[LHL]	kaꜛeɾɯɡa pʲoꜜkopʲoko toꜛbʲimaβaꜜʔte iꜛmaꜜsɨ.
+10/12	RECITATION324_055	ヌルシアのベネディクトゥスはアポロン神殿を壊し、ベネディクト会の修道院を建てた。	ヌルシアの[LHLLL] ベネディクトゥスは[LHHHLLL] アポロン神殿を[LHHHHLLLL] 壊し[LHL] ベネディクト会の[LHHHHLLL] 修道院を[LHHLLLL] 建てた[LHL]	nɯꜛɾɯꜜɕiano beꜛnedʲikɯꜜtɯsɨβa aꜛpoɾoɴɕiꜜndeɴo koꜛβaꜜɕi, beꜛnedʲikɯtoꜜkaino ɕɨꜛːdoꜜːiɴo taꜛteꜜta.
+5/6	RECITATION324_064	ここで一緒にウェイクフィールドの叔母を待った。	ここで[LHH] 一緒に[LHHH] ウェイクフィールドの[LHHHHLLL] 叔母を[LHH] 待った[HLL]	koꜛkode iꜛʔɕoɲi βeꜛːkɯɸʲiːꜜɾɯdono oꜛbao maꜜʔta.
+5/6	RECITATION324_084	二分だけのオルガン演奏で終わってしまった。	二分だけの[LHHHHH] オルガン演奏で[LHHHHLLLL] 終わって[LHHH] しまった[LHLL]	ɲiꜛɸɯndakeno oꜛɾɯɡaɴeꜜɴsoːde oꜛβaʔte ɕiꜛmaꜜʔta.
+5/6	RECITATION324_120	茶一つ参らぬか、まあいいで。	茶一つ[LHHL] 参らぬか[LHHHL] まあ[HL] いいで[HLL]	ʨaꜛçitoꜜʦɨ maꜛiɾanɯꜜka, maꜜː iꜜide.
+5/6	RECITATION324_137	読み進むにつれ、ますます興味が湧いた。	読み進むに[LHHHHH] つれ[LH] ますます[LHLL] 興味が[HLLL] 湧いた[LHH]	joꜛmʲisɨsɨmɯɲi ʦɨꜛɾe, maꜛsɨꜜmasɨ kʲoꜜːmʲiɡa βaꜛitaꜜ.
+5/6	RECITATION324_166	皆の協力のおかげで帰郷できた。	皆の[LHH] 協力の[LHHHH] おかげで[LHHH] 帰郷[LHH] できた[LHL]	mʲiꜛnano kʲoꜛːɾʲokɯno oꜛkaɡede kʲiꜛkʲoː deꜛkʲiꜜta.
+5/6	RECITATION324_185	男の妙な動きが怪しい。	男の[LHHL] 妙な[HLL] 動きが[LHHL] 怪しい[LHHH]	oꜛtokoꜜno mʲoꜜːna ɯꜛɡokʲiꜜɡa aꜛjaɕii.
+5/6	RECITATION324_196	ニューヨークでイヴニングポストの記事に注目した。	ニューヨークで[LHHLLL] イヴニングポストの[LHHHHHLLL] 記事に[HLL] 注目[LHHH] した[LH]	ɲɨꜛːjoꜜːkɯde iꜛbɯɲiŋɡɯpoꜜsɨtono kʲiꜜʥiɲi ʨɨꜛːmokɯ ɕiꜛtaꜜ.
+10/12	RECITATION324_203	おおでらの石段の前に立ち止まって、その出て来るのを待ちあわせた。	おおでらの[LHHLL] 石段の[LHHHH] 前に[HLL] 立ち止まって[LHHHLL] その[LH] 出て[LH] 来る[HL] のを[LH] 待ちあわせた[LHHHHL]	oꜛːdeꜜɾano iꜛɕidanno maꜜeɲi taꜛʨidomaꜜʔte, soꜛno deꜛte kɯꜜɾɯ noꜛo maꜛʨiaβaseꜜta.
+5/6	RECITATION324_229	プロ野球はどのチームが優勝するだろう？	プロ野球は[LHHLLL] どの[HL] チームが[HLLL] 優勝[LHHH] するだろう[LHHHH]	pɯꜛɾojaꜜkʲɨːβa doꜜno ʨiꜜːmɯɡa jɯꜛːɕoː sɨꜛɾɯdaɾoː?
+5/6	RECITATION324_234	天を翔ける竜の姿は神秘的だ。	天を[HLL] 翔ける[LHL] 竜の[HLL] 姿は[HLLL] 神秘的だ[LHHLLL]	teꜜɴo kaꜛkeꜜɾɯ ɾʲɨꜜːno sɨꜜɡataβa ɕiꜛmpʲiꜜtekʲida.
+5/6	RECITATION324_262	絵葉書と一緒に銀色のルアーをマッシュに送った。	絵葉書と[LHLLL] 一緒に[LHHH] 銀色の[LHHHH] ルアーを[HLLL] マッシュに[HLLL] 送った[LHHH]	eꜛhaꜜɡakʲito iꜛʔɕoɲi ɡʲiꜛɴiɾono ɾɯꜜaːo maꜜʔɕɨɲi oꜛkɯʔtaꜜ.
+5/6	RECITATION324_270	みんな揃って海に飛び込んだ。	みんな[LHH] 揃って[LHLL] 海に[HLL] 飛び込んだ[LHHLL]	mʲiꜛnnaꜜ soꜛɾoꜜʔte ɯꜜmʲiɲi toꜛbʲikoꜜnda.
+5/6	RECITATION324_277	芸術の求める永遠性に疑問を感じる。	芸術の[LHHHH] 求める[LHHL] 永遠性に[LHHHHHH] 疑問を[LHHH] 感じる[LHHH]	ɡeꜛːʥɨʦɨno moꜛtomeꜜɾɯ eꜛːeɴseːɲi ɡʲiꜛmoɴo kaꜛɲʥiɾɯ.
+5/6	accent_0008	春の風はまだ少し冷たいですね。	春の[HLL] 風は[LHH] まだ[HL] 少し[LHL] 冷たいですね[LHHHLLL]	haꜜɾɯno kaꜛʣeβa maꜜda sɨꜛkoꜜɕi ʦɨꜛmetaiꜜdesɨne.
+5/6	accent_0009	封筒に切手を貼るのを忘れないでね。	封筒に[LHHHH] 切手を[LHHH] 貼る[LH] のを[LH] 忘れないでね[LHHHLLL]	ɸɯꜛːtoːɲi kʲiꜛʔteo haꜛɾɯ noꜛo βaꜛsɨɾenaꜜidene.
+5/6	accent_0021	田んぼで蛙がにぎやかに鳴いている。	田んぼで[LHHH] 蛙が[LHHH] にぎやかに[LHLLL] 鳴いて[LHH] いる[LH]	taꜛmbode kaꜛeɾɯɡa ɲiꜛɡʲiꜜjakaɲi naꜛite iꜛɾɯ.
+5/6	accent_0031	道の真ん中に大きな石が落ちている。	道の[LHH] 真ん中に[LHHHH] 大きな[HLLL] 石が[LHL] 落ちて[LHL] いる[LH]	mʲiꜛʨino maꜛnnakaɲi oꜜːkʲina iꜛɕiꜜɡa oꜛʨiꜜte iꜛɾɯ.
+5/6	accent_0042	机の上に時計を置いたままだった。	机の[LHHH] 上に[LHH] 時計を[LHHH] 置いた[LHH] ままだった[LHLLL]	ʦɨꜛkɯeno ɯꜛeɲi toꜛkeːo oꜛitaꜜ maꜛmaꜜdaʔta.
+5/6	accent_0045	日曜日は魚を焼いて食べよう。	日曜日は[LHHLLL] 魚を[LHHH] 焼いて[LHH] 食べよう[LHLL]	ɲiꜛʨijoꜜːbʲiβa saꜛkanao jaꜛite taꜛbeꜜjoː.
+5/6	accent_0055	自転車で駅まで十分かかります。	自転車で[LHLLL] 駅まで[HLLL] 十分[LHHL] かかります[LHHHL]	ʥiꜛteꜜɴɕade eꜜkʲimade ʥɨꜛːbɯꜜŋ kaꜛkaɾʲimaꜜsɨ.
+5/6	accent_0066	心を込めて手紙を書いた。	心を[LHLL] 込めて[LHL] 手紙を[LHHH] 書いた[HLL]	koꜛkoꜜɾoo koꜛmeꜜte teꜛɡamʲio kaꜜita.
+5/6	accent_0067	言葉にできないほどうれしかった。	言葉に[LHHL] できないほど[LHLLLL] うれしかった[LHHLLL]	koꜛtobaꜜɲi deꜛkʲiꜜnaihodo ɯꜛɾeɕiꜜkaʔta.
+5/6	accent_0087	その話はもう聞きました。	その[LH] 話は[LHHL] もう[HL] 聞きました[LHHLL]	soꜛno haꜛnaɕiꜜβa moꜜː kʲiꜛkʲimaꜜɕita.
+5/6	accent_0089	少し休んでから続けましょう。	少し[LHL] 休んでから[LHLLLL] 続けましょう[LHHHHL]	sɨꜛkoꜜɕi jaꜛsɨꜜndekaɾa ʦɨꜛzɨkemaɕoꜜː.
+5/6	accent_0098	美しい景色に言葉を失った。	美しい[LHHHL] 景色に[HLLL] 言葉を[LHHL] 失った[LHHHH]	ɯꜛʦɨkɯɕiꜜi keꜜɕikʲiɲi koꜛtobaꜜo ɯꜛɕinaʔtaꜜ.
+20/24	T006	2026年4月5日16時にトヨタカローラ香川のかすが店でやまもと たかしさまのランドクルーザーななまる保険更新のご案内です。	二千[LHL] 二十[HLL] 六年[LHLL] ４月[LHH] 五日[LHH] 十[LH] 六時に[LHLL] トヨタカローラ香川の[LHHHHHHHLLL] かすが店で[LHHLLL] やまもと[LHHH] たかしさまの[HLLLLL] ランドクルーザーな[LHHHHLLLL] なまる[LHL] 保険更新の[LHHHLLLL] ご案内です[LHHHLLL]	ɲiꜛseꜜɲ ɲiꜜʥɨː ɾoꜛkɯꜜneɴ ɕiꜛɡaʦɨꜜ iꜛʦɨka ʥɨꜛː ɾoꜛkɯꜜʥiɲi toꜛjotakaɾoːɾakaꜜɡaβano kaꜛsɨɡaꜜtende jaꜛmamoto taꜜkaɕisamano ɾaꜛndokɯɾɯꜜːʣaːna naꜛmaꜜɾɯ hoꜛkeŋkoꜜːɕinno ɡoꜛannaꜜidesɨ.
+15/18	T008	2026年3月7日15時にくぼた まさしさまのクラウンクロスオーバーの保険更新をご予約を承りました。	二千[LHL] 二十[HLL] 六年[LHLL] ３月[HLLL] 七日[LHH] 十[LH] 五時に[HLL] くぼた[HLL] まさしさまの[HLLLLL] クラウンクロスオーバーの[LHHHHHHHLLLL] 保険更新を[LHHHLLLL] ご予約を[LHLLL] 承りました[LHHHHHHLL]	ɲiꜛseꜜɲ ɲiꜜʥɨː ɾoꜛkɯꜜneɴ saꜜŋɡaʦɨ naꜛnoka ʥɨꜛː ɡoꜜʥiɲi kɯꜜbota maꜜsaɕisamano kɯꜛɾaɯŋkɯɾosɨoꜜːbaːno hoꜛkeŋkoꜜːɕiɴo ɡoꜛjoꜜjakɯo ɯꜛketamaβaɾʲimaꜜɕita.
+11/13	EMOTION100_062	彼女の魅力は言葉では表現できない、とその芸術家は叫んだ。	彼女の[HLLL] 魅力は[LHHH] 言葉では[LHHLL] 表現[LHHL] できない[LHLL] と[L] その[LH] 芸術家は[LHHHLL] 叫んだ[LHLL]	kaꜜnoʥono mʲiꜛɾʲokɯβa koꜛtobaꜜdeβa çoꜛːɡeꜜn deꜛkʲiꜜnai, to soꜛno ɡeꜛːʥɨʦɨꜜkaβa saꜛkeꜜnda.
+11/13	RECITATION324_210	今回の資料作りは深い思慮を必要としたが、先日やっと終了した。	今回の[HLLLL] 資料作りは[LHHHLLL] 深い[LHL] 思慮を[HLL] 必要と[LHHHH] したが[LHL] 先日[LHHH] やっと[LHH] 終了[LHHH] した[LH]	koꜜŋkaino ɕiꜛɾʲoːzɨꜜkɯɾʲiβa ɸɯꜛkaꜜi ɕiꜜɾʲoo çiꜛʦɨjoːto ɕiꜛtaꜜɡa, seꜛɲʥiʦɨ jaꜛʔto ɕɨꜛːɾʲoː ɕiꜛtaꜜ.
+11/13	RECITATION324_317	ケフィアに関するこの本は、初版では三百部くらいだったが、次から波及的に増加した。	ケフィアに[HLLL] 関する[LHHL] この[LH] 本は[HLL] 初版では[LHHHH] 三百部くらいだったが[LHHHHHLLLLLL] 次から[LHLL] 波及的に[LHHLLL] 増加[LHH] した[LH]	keꜜɸʲiaɲi kaꜛɴsɨꜜɾɯ koꜛno hoꜜɴβa, ɕoꜛhandeβa saꜛmbʲakɯbɯkɯꜜɾaidaʔtaɡa, ʦɨꜛɡʲiꜜkaɾa haꜛkʲɨːꜜtekʲiɲi ʣoꜛːka ɕiꜛtaꜜ.
+6/7	RECITATION324_103	ロナルドホープ大尉が大将のマンションへ急行しました。	ロナルドホープ大尉が[LHHHHHHHLLL] 大将の[HLLLL] マンションへ[HLLLL] 急行[LHHH] しました[LHLL]	ɾoꜛnaɾɯdohoːpɯtaꜜiiɡa taꜜiɕoːno maꜜɴɕoɴe kʲɨꜛːkoː ɕiꜛmaꜜɕita.
+6/7	RECITATION324_146	この先百年も抹茶は衰退しない。	この[LH] 先[LH] 百年も[LHLLL] 抹茶は[LHHH] 衰退[LHHH] しない[LHH]	koꜛno saꜛkʲi çaꜛkɯꜜnemmo maꜛʔʨaβa sɨꜛitai ɕiꜛnai.
+6/7	RECITATION324_180	日本へ行くには船か飛行機が必要です。	日本へ[LHHLL] 行くには[LHHH] 船か[HLL] 飛行機が[LHLLL] 必要です[LHHHHL]	ɲiꜛʔpoꜜɴe iꜛkɯɲiβa ɸɯꜜneka çiꜛkoꜜːkʲiɡa çiꜛʦɨjoːdeꜜsɨ.
+6/7	RECITATION324_197	確かに牛乳とコーンフレークの相性は抜群だ。	確かに[HLLL] 牛乳と[LHHHH] コーンフレークの[LHHHHLLL] 相性は[LHHLL] 抜群だ[LHHHH]	taꜜɕikaɲi ɡʲɨꜛːɲɨːto koꜛːɴɸɯɾeꜜːkɯno aꜛiɕoꜜːβa baꜛʦɨɡɯnda.
+6/7	RECITATION324_302	ケケっと笑いながら、津原はパトカーに乗った。	ケケっと[HLLL] 笑いながら[LHHHLL] 津原は[HLLL] パトカーに[LHLLL] 乗った[LHH]	keꜜkeʔto βaꜛɾainaꜜɡaɾa, ʦɨꜜβaɾaβa paꜛtoꜜkaːɲi noꜛʔtaꜜ.
+6/7	accent_0019	今日は早めに家に帰るつもりです。	今日は[HLL] 早めに[LHHH] 家に[LHL] 帰る[HLL] つもりです[LHHHL]	kʲoꜜːβa haꜛjameɲi iꜛeꜜɲi kaꜜeɾɯ ʦɨꜛmoɾʲideꜜsɨ.
+6/7	accent_0046	果物と野菜を毎日しっかり食べる。	果物と[LHLLL] 野菜を[LHHH] 毎日[HLLL] しっかり[LHHL] 食べる[LHL]	kɯꜛdaꜜmonoto jaꜛsaio maꜜiɲiʨi ɕiꜛʔkaꜜɾʲi taꜛbeꜜɾɯ.
+6/7	accent_0052	卵を三つ使ってオムレツを作った。	卵を[LHLL] 三つ[LHH] 使って[LHHH] オムレツを[LHHHH] 作った[LHLL]	taꜛmaꜜɡoo mʲiꜛʔʦɨꜜ ʦɨꜛkaʔte oꜛmɯɾeʦɨo ʦɨꜛkɯꜜʔta.
+6/7	accent_0065	男の子と女の子が公園で遊んでいる。	男の子と[LHHLLL] 女の子が[LHHLLL] 公園で[LHHHH] 遊んで[LHHH] いる[LH]	oꜛtokoꜜnokoto oꜛnnaꜜnokoɡa koꜛːende aꜛsonde iꜛɾɯ.
+13/15	EMOTION100_071	若い男女が人里離れた洋館で恐怖の一夜を過ごすという、ホラーの定番スタイルだ。	若い[LHL] 男女が[HLLL] 人里[LHHH] 離れた[HLLL] 洋館で[LHHHH] 恐怖の[HLLL] 一夜を[LHLL] 過ごすと[LHLL] いう[LH] ホラーの[HLLL] 定番スタイルだ[LHHHHHLLL]	βaꜛkaꜜi daꜜɲʥoɡa çiꜛtoʣato haꜜnaɾeta joꜛːkande kʲoꜜːɸɯno iꜛʨiꜜjao sɨꜛɡoꜜsɨto iꜛɯ, hoꜜɾaːno teꜛːbaɴsɨtaꜜiɾɯda.
+20/23	Y014_3	土曜日れいじから21時、日曜日7時から24時、年末年始、12月31日から1月2日は時間が異なる場合があります。	土曜日[LHLL] れいじから[HLLLL] 二十[HLL] 一時[LHL] 日曜日[LHHLL] 七時から[LHLLL] 二十[HLL] 四時[HL] 年末年始[LHHHHLL] １２月[LHHHH] 三十[HLLL] 一日から[LHLLLL] １月[LHHH] 二日は[LHHH] 時間が[LHHH] 異なる[LHHL] 場合が[LHHH] あります[LHHL]	doꜛjoꜜːbʲi ɾeꜜiʥikaɾa ɲiꜜʥɨː iꜛʨiꜜʥi, ɲiꜛʨijoꜜːbʲi ɕiꜛʨiꜜʥikaɾa ɲiꜜʥɨː joꜜʥi, neꜛmmaʦɨneꜜɴɕi, ʥɨꜛːɲiɡaʦɨꜜ saꜜɲʥɨː iꜛʨiꜜɲiʨikaɾa iꜛʨiɡaʦɨꜜ ɸɯꜛʦɨkaβa ʥiꜛkaŋɡa koꜛtonaꜜɾɯ baꜛaiɡa aꜛɾʲimaꜜsɨ.
+7/8	EMOTION100_035	彼女は息子に家で行儀よくするように言った。	彼女は[HLLL] 息子に[LHHH] 家で[LHL] 行儀[LHH] よくする[HLLL] ように[HLL] 言った[LHH]	kaꜜnoʥoβa mɯꜛsɨkoɲi iꜛeꜜde ɡʲoꜛːɡʲi joꜜkɯsɨɾɯ joꜜːɲi iꜛʔtaꜜ.
+7/8	RECITATION324_010	家具商人のフィシェルは、荷車と仔馬を貸してくれた。	家具商人の[LHHLLLL] フィシェルは[HLLL] 荷車と[LHLLL] 仔馬を[LHHH] 貸して[LHH] くれた[LHH]	kaꜛɡɯɕoꜜːɲinno ɸʲiꜜɕeɾɯβa, ɲiꜛɡɯꜜɾɯmato koꜛɯmao kaꜛɕite kɯꜛɾetaꜜ.
+7/8	RECITATION324_014	揺れるフェリーに乗るのは私にとって苦行です。	揺れる[LHH] フェリーに[HLLL] 乗る[LH] のは[LH] 私に[LHHH] とって[HLL] 苦行です[LHHHL]	jɯꜛɾeɾɯ ɸeꜜɾʲiːɲi noꜛɾɯ noꜛβa βaꜛtaɕiɲi toꜜʔte kɯꜛɡʲoːdeꜜsɨ.
+7/8	RECITATION324_024	楽譜に次のように書いてあるのが、エーフェリチェです。	楽譜に[LHHH] 次の[LHL] ように[HLL] 書いて[HLL] ある[HL] のが[LH] エーフェリチェです[HLLLLLL]	ɡaꜛkɯɸɯɲi ʦɨꜛɡʲiꜜno joꜜːɲi kaꜜite aꜜɾɯ noꜛɡa, eꜜːɸeɾʲiʨedesɨ.
+7/8	RECITATION324_027	重い綿入を脱いで、あわせに着替える。	重い[LHH] 綿入を[LHHLL] 脱いで[HLL] あわせに[LHLL] 着替える[LHHL]	oꜛmoi βaꜛtaiꜜɾeo nɯꜜide, aꜛβaꜜseɲi kʲiꜛɡaeꜜɾɯ.
+7/8	RECITATION324_032	サブフランチャイザーを増やして目指せ百店舗。	サブフランチャイザーを[LHHHHHLLLL] 増やして[LHLL] 目指せ[LHL] 百店舗[LHHLL]	saꜛbɯɸɯɾaɲʨaꜜiʣaːo ɸɯꜛjaꜜɕite meꜛʣaꜜse çaꜛkɯteꜜmpo.
+7/8	RECITATION324_098	旅行客が楽しめるように工夫しましょう。	旅行客が[LHHLLL] 楽しめる[LHHHL] ように[HLL] 工夫[LHH] しましょう[LHHL]	ɾʲoꜛkoːꜜkʲakɯɡa taꜛnoɕimeꜜɾɯ joꜜːɲi kɯꜛɸɯː ɕiꜛmaɕoꜜː.
+7/8	RECITATION324_134	その竜の百の頭が恐ろしい。	その[LH] 竜の[HLL] 百の[LHL] 頭が[LHHL] 恐ろしい[LHHHL]	soꜛno ɾʲɨꜜːno çaꜛkɯꜜno aꜛtamaꜜɡa oꜛsoɾoɕiꜜi.
+7/8	RECITATION324_182	のぼせないように入浴するにはお湯の量と温度が大事。	のぼせない[LHHHH] ように[HLL] 入浴[LHHH] するには[LHHH] お湯の[LHH] 量と[HLL] 温度が[HLLL] 大事[LHH]	noꜛbosenai joꜜːɲi ɲɨꜛːjokɯ sɨꜛɾɯɲiβa oꜛjɯno ɾʲoꜜːto oꜜndoɡa daꜛiʥi.
+7/8	RECITATION324_309	スチューデントが被災するファクターを、可能な限り取り払う。	スチューデントが[LHLLLLL] 被災[LHH] する[LH] ファクターを[HLLLL] 可能な[LHHH] 限り[HLL] 取り払う[LHHHL]	sɨꜛʨɨꜜːdentoɡa çiꜛsai sɨꜛɾɯ ɸaꜜkɯtaːo, kaꜛnoːna kaꜜɡʲiɾʲi toꜛɾʲihaɾaꜜɯ.
+7/8	RECITATION324_312	彼からしたら、左中間から見る景色は貴重だった。	彼から[HLLL] したら[LHL] 左中間から[LHLLLLL] 見る[HL] 景色は[HLLL] 貴重だった[LHHHHH]	kaꜜɾekaɾa ɕiꜛtaꜜɾa, saꜛʨɨꜜːkaŋkaɾa mʲiꜜɾɯ keꜜɕikʲiβa kʲiꜛʨoːdaʔtaꜜ.
+7/8	accent_0113	駅から歩いて五分のところに住んでいます。	駅から[HLLL] 歩いて[LHLL] 五分の[HLLL] ところに[LHHH] 住んで[HLL] います[LHL]	eꜜkʲikaɾa aꜛɾɯꜜite ɡoꜜɸɯnno toꜛkoɾoɲi sɨꜜnde iꜛmaꜜsɨ.
+15/17	Y014_2	こちらのエラーも「ティー、きゅう、はち、よん、ぜろ、ぜろ、に、ダブリュー」と同様に取扱時間外の可能性がございます、平日れいじから24時、	こちらの[LHHH] エラーも[HLLL] ティー[HL] きゅう[LH] は[L] ち[H] よん[LH] ぜろ[HL] ぜろ[HL] に[L] ダブ[LH] リュー[HL] と[L] 同様に[LHHHH] 取扱時間外の[LHHHHHHHHHHH] 可能性が[LHHHHH] ございます[LHHHL] 平日[LHHH] れいじから[HLLLL] 二十[HLL] 四時[HL]	koꜛʨiɾano eꜜɾaːmo “tʲiꜜː, kʲɨꜛː, βa ʨiꜜ, joꜛɴ, ʣeꜜɾo, ʣeꜜɾo, ɲi, daꜛbɯꜜ ɾʲɨꜜː” to doꜛːjoːɲi toꜛɾʲiaʦɨkaiʥikaŋɡaino kaꜛnoːseːɡa ɡoꜛʣaimaꜜsɨ, heꜛːʥiʦɨ ɾeꜜiʥikaɾa ɲiꜜʥɨː joꜜʥi,
+8/9	RECITATION324_016	笛の音がなるとウサギのキッドが早速ぴょんと跳ねた。	笛の[LHH] 音が[LHL] なると[HLL] ウサギの[LHHH] キッドが[HLLL] 早速[LHHH] ぴょんと[HLL] 跳ねた[LHL]	ɸɯꜛeno oꜛtoꜜɡa naꜜɾɯto ɯꜛsaɡʲino kʲiꜜʔdoɡa saꜛʔsokɯ pʲoꜜnto haꜛneꜜta.
+8/9	RECITATION324_081	鹿島明神が釘で刺し貫いて、魚が動かないようにしている。	鹿島明神が[LHHHLLLL] 釘で[LHH] 刺し貫いて[LHLLLLL] 魚が[LHHH] 動かない[LHHLL] ように[HLL] して[LH] いる[LH]	kaꜛɕimamʲoꜜːʥiŋɡa kɯꜛɡʲide saꜛɕiꜜʦɨɾanɯite, saꜛkanaɡa ɯꜛɡokaꜜnai joꜜːɲi ɕiꜛte iꜛɾɯ.
+8/9	accent_0017	新しい靴を買うかどうか迷っている。	新しい[LHHHL] 靴を[LHL] 買うか[LHL] どうか[HLL] 迷って[LHLL] いる[LH]	aꜛtaɾaɕiꜜi kɯꜛʦɨꜜo kaꜛɯꜜka doꜜːka maꜛjoꜜʔte iꜛɾɯ.
+8/9	Y006_1	任意のユーザーID・パスワードおよびメールアドレスを入力し、	任意の[HLLL] ユーザーＩＤ[LHHHHLLL] パスワード[LHHLL] および[HLL] メールアドレスを[LHHHLLLL] 入力[LHHH] し[L]	ɲiꜜɴino jɯꜛːʣaːaꜜidʲiː paꜛsɨβaꜜːdo oꜜjobʲi meꜛːɾɯaꜜdoɾesɨo ɲɨꜛːɾʲokɯ ɕi,
+8/9	Y014_1	左様でございますか、おそれ入りますがセキュリティ上毎回入力が必要な仕様で、	左様でございますか[LHHHHHHHLL] おそれ[LHH] 入りますが[LHHHLL] セキュリティ上[LHHHHH] 毎回[LHHH] 入力が[LHHHH] 必要な[LHHHH] 仕様で[LHHH]	saꜛjoːdeɡoʣaimaꜜsɨka, oꜛsoɾe haꜛiɾʲimaꜜsɨɡa seꜛkʲɨɾʲitʲiʥoː maꜛikai ɲɨꜛːɾʲokɯɡa çiꜛʦɨjoːna ɕiꜛjoːde,
+17/19	EMOTION100_068	撃ち合いが少し静まったとき、パパが走ってフラットに行って、私たちにサンドイッチを持ってきてくれたわ。	撃ち合いが[LHHHH] 少し[LHL] 静まった[LHHLL] とき[HL] パパが[HLL] 走って[LHLL] フラットに[LHLLL] 行って[LHH] 私たちに[LHHLLL] サンドイッチを[LHHHLLL] 持って[HLL] きて[HL] くれたわ[LHHL]	ɯꜛʨiaiɡa sɨꜛkoꜜɕi ɕiꜛzɨmaꜜʔta toꜜkʲi, paꜜpaɡa haꜛɕiꜜʔte ɸɯꜛɾaꜜʔtoɲi iꜛʔte, βaꜛtaɕiꜜtaʨiɲi saꜛndoiꜜʔʨio moꜜʔte kʲiꜜte kɯꜛɾetaꜜβa.
+9/10	EMOTION100_019	男子生徒のめいめいが、帽子に学校のバッジをつけています。	男子生徒の[LHHHLLL] めいめいが[LHHLL] 帽子に[LHHH] 学校の[LHHHH] バッジを[HLLL] つけて[LHL] います[LHL]	daꜛɴɕiseꜜːtono meꜛimeꜜiɡa, boꜛːɕiɲi ɡaꜛʔkoːno baꜜʔʥio ʦɨꜛkeꜜte iꜛmaꜜsɨ.
+9/10	EMOTION100_027	彼女はハンドバッグを開けて家の鍵を探してみたが、見つからなかった。	彼女は[HLLL] ハンドバッグを[LHHHLLL] 開けて[LHH] 家の[LHL] 鍵を[LHL] 探して[LHHH] みたが[HLL] 見つからなかった[LHHHHHHH]	kaꜜnoʥoβa haꜛndobaꜜʔɡɯo aꜛkete iꜛeꜜno kaꜛɡʲiꜜo saꜛɡaɕite mʲiꜜtaɡa, mʲiꜛʦɨkaɾanakaʔtaꜜ.
+9/10	EMOTION100_040	トラベラーズチェックを現金に替えてくれるのはこの窓口ですか？	トラベラーズチェックを[LHHHHHHLLL] 現金に[LHHLL] 替えて[LHH] くれる[LHH] のは[LH] この[LH] 窓口ですか[LHLLLLL]	toꜛɾabeɾaːzɨʨeꜜʔkɯo ɡeꜛŋkʲiꜜɲɲi kaꜛete kɯꜛɾeɾɯ noꜛβa koꜛno maꜛdoꜜɡɯʨidesɨka?
+9/10	EMOTION100_061	人々はトーナメントが始まる何ヶ月も前に、これらの入場券を買う。	人々は[LHLLL] トーナメントが[HLLLLLL] 始まる[LHHH] 何ヶ月も[LHHLLL] 前に[HLL] これらの[LHLL] 入場券を[LHHHLLL] 買う[LH]	çiꜛtoꜜbʲitoβa toꜜːnamentoɡa haꜛʥimaɾɯ naꜛŋkaꜜɡeʦɨmo maꜜeɲi, koꜛɾeꜜɾano ɲɨꜛːʥoːꜜkeɴo kaꜛɯ.
+9/10	RECITATION324_119	彼女は出来るだけぴったりと耳をあてて聴きました。	彼女は[HLLL] 出来るだけ[LHLLL] ぴったりと[LHHLL] 耳を[LHL] あてて[LHH] 聴きました[LHHLL]	kaꜜnoʥoβa deꜛkʲiꜜɾɯdake pʲiꜛʔtaꜜɾʲito mʲiꜛmʲiꜜo aꜛtete kʲiꜛkʲimaꜜɕita.
+9/10	accent_0003	今年の秋は例年より少し暖かいそうです。	今年の[LHHH] 秋は[HLL] 例年より[LHHHHL] 少し[LHL] 暖かい[LHHHL] そうです[LHHL]	koꜛtoɕino aꜜkʲiβa ɾeꜛːneɴjoꜜɾʲi sɨꜛkoꜜɕi aꜛtatakaꜜi soꜛːdeꜜsɨ.
+9/10	accent_0169	図書館で借りた本を返しに行ったら、ちょうど休館日だった。	図書館で[LHLLL] 借りた[LHH] 本を[HLL] 返しに[LHHH] 行ったら[LHHL] ちょうど[LHH] 休館日だった[LHHHLLLL]	toꜛɕoꜜkande kaꜛɾʲitaꜜ hoꜜɴo kaꜛeɕiɲi iꜛʔtaꜜɾa, ʨoꜛːdoꜜ kʲɨꜛːkamꜜbʲidaʔta.
+9/10	accent_0176	来月から始まる講座では、日本の伝統的な料理について学びます。	来月から[HLLLLL] 始まる[LHHH] 講座では[LHHHH] 日本の[LHHLL] 伝統的な[LHHHLLL] 料理に[HLLL] ついて[HLL] 学びます[LHHHL]	ɾaꜜiɡeʦɨkaɾa haꜛʥimaɾɯ koꜛːʣadeβa, ɲiꜛʔpoꜜnno deꜛntoːꜜtekʲina ɾʲoꜜːɾʲiɲi ʦɨꜜite maꜛnabʲimaꜜsɨ.
+9/10	accent_0179	本日はお忙しい中、お集まりいただきまして誠にありがとうございます。	本日は[HLLLL] お忙しい中[LHHHHHHH] お集まり[LHHHH] いただきまして[LHHHHLL] 誠に[LHHH] ありがとう[LHLLL] ございます[LHHHL]	hoꜜɲʥiʦɨβa oꜛisoɡaɕiiʨɨː, oꜛaʦɨmaɾʲi iꜛtadakʲimaꜜɕite maꜛkotoɲi aꜛɾʲiꜜɡatoː ɡoꜛʣaimaꜜsɨ.
+10/11	EMOTION100_074	太陽も花も楽しめないし、私たちの子供時代も楽しめないのよ。	太陽も[HLLLL] 花も[LHL] 楽しめないし[LHHHLLL] 私たちの[LHHLLL] 子供時代も[LHHHLLL] 楽しめないのよ[LHHHLLLL]	taꜜijoːmo haꜛnaꜜmo taꜛnoɕimeꜜnaiɕi, βaꜛtaɕiꜜtaʨino koꜛdomoʥiꜜdaimo taꜛnoɕimeꜜnainojo.
+10/11	accent_0167	電車が遅れているので、待ち合わせの時間を少し遅らせてもらえますか？	電車が[LHHH] 遅れて[LHHH] いるので[LHLL] 待ち合わせの[LHHHHH] 時間を[LHHH] 少し[LHL] 遅らせて[LHHHH] もらえますか[LHHHLL]	deꜛɴɕaɡa oꜛkɯɾete iꜛɾɯꜜnode, maꜛʨiaβaseno ʥiꜛkaɴo sɨꜛkoꜜɕi oꜛkɯɾasete moꜛɾaemaꜜsɨka?
+11/12	accent_0178	お客様にご案内いたします、まもなく三番線に電車がまいります。	お客様に[LHHHLL] ご案内[LHHHL] いたします[LHHHL] まもなく[LHLL] 三番線に[LHHLLLL] 電車が[LHHH] まいります[LHHHL]	oꜛkʲakɯsaꜜmaɲi ɡoꜛannaꜜi iꜛtaɕimaꜜsɨ, maꜛmoꜜnakɯ saꜛmbaꜜɴseɲɲi deꜛɴɕaɡa maꜛiɾʲimaꜜsɨ.
+13/14	RECITATION324_130	最初辛かったけど、花や園芸が好きだったから、失意が癒やされないこともない。	最初[LHH] 辛かったけど[LHLLLLL] 花や[LHL] 園芸が[LHHHH] 好きだったから[LHLLLLL] 失意が[HLLL] 癒やされない[LHHHLL] ことも[LHL] ない[HL]	saꜛiɕo kaꜛɾaꜜkaʔtakedo, haꜛnaꜜja eꜛŋɡeːɡa sɨꜛkʲiꜜdaʔtakaɾa, ɕiꜜʦɨiɡa iꜛjasaɾeꜜnai koꜛtoꜜmo naꜜi.
+13/14	RECITATION324_198	その一は、明治三十七年の九月八日か九日の夜とおぼえている。	その[LH] 一は[LHL] 明治[HLL] 三十[HLLL] 七年の[LHLLL] 九月[HLL] 八日か[LHHH] 九日の[LHHHH] 夜と[HLL] おぼえて[LHHL] いる[LH]	soꜛno iꜛʨiꜜβa, meꜜːʥi saꜜɲʥɨː naꜛnaꜜnenno kɯꜜɡaʦɨ joꜛːkaka koꜛkonokano joꜜɾɯto oꜛboeꜜte iꜛɾɯ.
+16/17	EMOTION100_064	デザインも、アーチ型のロゴデザインにより、現代的で登場感、躍動感あるものに仕上げました。	デザインも[LHLLL] アーチ型の[LHHHHH] ロゴデザインに[LHHHLLL] より[HL] 現代的で[LHHHLLL] 登場感[LHHHLL] 躍動感[LHHHLL] ある[HL] ものに[LHL] 仕上げました[LHHHLL]	deꜛʣaꜜimmo, aꜛːʨiɡatano ɾoꜛɡodeʣaꜜiɲɲi joꜜɾʲi, ɡeꜛndaiꜜtekʲide toꜛːʥoːꜜkaɴ, jaꜛkɯdoːꜜkaɴ aꜜɾɯ moꜛnoꜜɲi ɕiꜛaɡemaꜜɕita.
+0/0	EMOTION100_001	えっ嘘でしょ。	えっ嘘でしょ[LHLLLL]	eꜛʔꜜɯsodeɕo.
+5/5	EMOTION100_018	彼女は彼にぴょこんとおじぎをした。	彼女は[HLLL] 彼に[HLL] ぴょこんと[LHLL] おじぎを[LHHH] した[LH]	kaꜜnoʥoβa kaꜜɾeɲi pʲoꜛkoꜜnto oꜛʥiɡʲio ɕiꜛtaꜜ.
+5/5	EMOTION100_021	私はポピュラー音楽を聞きたい。	私は[LHHH] ポピュラー音楽を[LHHHHLLLL] 聞きたい[LHHL]	βaꜛtaɕiβa poꜛpʲɨɾaːoꜜŋɡakɯo kʲiꜛkʲitaꜜi.
+7/7	EMOTION100_026	私はいつもミネラルウォーターを持ち歩いています。	私は[LHHH] いつも[HLL] ミネラルウォーターを[LHHHHLLLL] 持ち歩いて[LHHHLL] います[LHL]	βaꜛtaɕiβa iꜜʦɨmo mʲiꜛneɾaɾɯβoꜜːtaːo moꜛʨiaɾɯꜜite iꜛmaꜜsɨ.
+6/6	EMOTION100_028	彼女はスタッフをまとめていけると思いますか？	彼女は[HLLL] スタッフを[LHLLL] まとめて[LHHH] いけると[LHHH] 思いますか[LHHHLL]	kaꜜnoʥoβa sɨꜛtaꜜʔɸɯo maꜛtomete iꜛkeɾɯto oꜛmoimaꜜsɨka?
+7/7	EMOTION100_034	我々はその山脈で土着のガイドを雇った。	我々は[LHHHH] その[LH] 山脈で[LHHHH] 土着の[LHHH] ガイドを[HLLL] 雇った[LHLL]	βaꜛɾeβaɾeβa soꜛno saꜛmmʲakɯde doꜛʨakɯno ɡaꜜidoo jaꜛtoꜜʔta.
+6/6	EMOTION100_037	私はこの本に八百円を払った。	私は[LHHH] この[LH] 本に[HLL] 八百円を[LHHHLLL] 払った[LHLL]	βaꜛtaɕiβa koꜛno hoꜜɲɲi haꜛʔpʲakɯꜜeɴo haꜛɾaꜜʔta.
+1/1	EMOTION100_085	ブレンドデョート。	ブレンドデョート[LHHHHHH]	bɯꜛɾendodjoːto.
+0/0	EMOTION100_087	あっあの。	あっあの[LHLL]	aꜛʔꜜano.
+0/0	EMOTION100_088	いっいえ。	いっいえ[LHLL]	iꜛʔꜜie.
+0/0	EMOTION100_089	えっえぇ。	えっえぇ[LHL]	eꜛʔꜜe.
+0/0	EMOTION100_090	おっおい。	おっおい[LHLL]	oꜛʔꜜoi.
+1/1	EMOTION100_091	んーとね。	んーとね[LHHH]	ɴꜛːtone.
+1/1	EMOTION100_093	エンツォ。	エンツォ[HLL]	eꜜɴʦo.
+2/2	EMOTION100_094	カートゥーン。	カートゥーン[LHHLL]	kaꜛːtɯꜜːɴ.
+1/1	EMOTION100_095	スィーディー。	スィーディー[HLLL]	siꜜːdʲiː.
+2/2	EMOTION100_098	エリュシオン。	エリュシオン[LHLLL]	eꜛɾʲɨꜜɕioɴ.
+2/2	RECITATION324_018	目標は一等賞です。	目標は[LHHHH] 一等賞です[LHHHLLLL]	moꜛkɯçoːβa iꜛʔtoːꜜɕoːdesɨ.
+7/7	RECITATION324_023	フィレンツェ、パドヴァ、ヴェネツィアはどれもイタリアの都市です。	フィレンツェ[LHLL] パドヴァ[HLL] ヴェネツィアは[LHHHH] どれも[HLL] イタリアの[LHHHH] 都市です[HLLL]	ɸʲiꜛɾeꜜɴʦe, paꜜdoba, veꜛneʦʲiaβa doꜜɾemo iꜛtaɾʲiano toꜜɕidesɨ.
+4/4	RECITATION324_029	ろくすっぽ休憩をとらず働いた。	ろくすっぽ[LHHHH] 休憩を[LHHHH] とらず[LHL] 働いた[LHHHH]	ɾoꜛkɯsɨʔpo kʲɨꜛːkeːo toꜛɾaꜜzɨ haꜛtaɾaitaꜜ.
+4/4	RECITATION324_036	私はギョッと目を見開いた。	私は[LHHH] ギョッと[LHH] 目を[HL] 見開いた[LHHHH]	βaꜛtaɕiβa ɡʲoꜛʔto meꜜo mʲiꜛçiɾaitaꜜ.
+4/4	RECITATION324_037	友達へニューイヤーカードを送ろう。	友達へ[LHHHH] ニューイヤーカードを[LHHHHHLLL] 送ろう[LHHH]	toꜛmodaʨie ɲɨꜛːijaːkaꜜːdoo oꜛkɯɾoː.
+7/7	RECITATION324_048	貴方には最初百ポンド渡します。	貴方には[LHLLL] 最初[LHH] 百ポンド[LHHLL] 渡します[LHHHL]	aꜛnaꜜtaɲiβa saꜛiɕo çaꜛkɯpoꜜndo βaꜛtaɕimaꜜsɨ.
+2/2	RECITATION324_049	社長からの指示です。	社長からの[LHHHHH] 指示です[HLLL]	ɕaꜛʨoːkaɾano ɕiꜜʥidesɨ.
+5/5	RECITATION324_052	魔境に足を踏み入れる。	魔境に[LHHH] 足を[LHL] 踏み入れる[LHHHL]	maꜛkʲoːɲi aꜛɕiꜜo ɸɯꜛmʲiiɾeꜜɾɯ.
+7/7	RECITATION324_053	ヴァンダーヴォットタイム中は、いわゆるパーティーのようで晴れやかです。	ヴァンダーヴォットタイム中は[LHHHHHHHHHHHH] いわゆる[LHHL] パーティーの[HLLLL] ようで[HLL] 晴れやかです[LHLLLL]	baꜛndaːvoʔtotaimɯʨɨːβa, iꜛβajɯꜜɾɯ paꜜːtʲiːno joꜜːde haꜛɾeꜜjakadesɨ.
+5/5	RECITATION324_063	夏休みに、トラアヴェミュンへ旅行した。	夏休みに[LHHLLL] トラアヴェミュンへ[LHHHHHH] 旅行[LHH] した[LH]	naꜛʦɨjaꜜsɨmʲiɲi, toꜛɾaabemʲɨɴe ɾʲoꜛkoː ɕiꜛtaꜜ.
+4/4	RECITATION324_067	およそ六百メートル先を右折です。	およそ[LHH] 六百メートル先を[LHHHHHHHHHH] 右折です[LHHHL]	oꜛjoso ɾoꜛʔpʲakɯmeːtoɾɯsakʲio ɯꜛseʦɨdeꜜsɨ.
+9/9	RECITATION324_074	切れ味鋭いペティナイフは使い勝手が良い。	切れ味[LHLL] 鋭い[LHHL] ペティナイフは[LHHLLL] 使い勝手が[LHHHLLL] 良い[HL]	kʲiꜛɾeꜜaʥi sɨꜛɾɯdoꜜi peꜛtʲinaꜜiɸɯβa ʦɨꜛkaiɡaꜜʔteɡa joꜜi.
+4/4	RECITATION324_085	ニセ教会に騙されるな。	ニセ教会に[LHHLLLL] 騙されるな[LHLLLL]	ɲiꜛsekʲoꜜːkaiɲi daꜛmaꜜsaɾeɾɯna.
+5/5	RECITATION324_091	本番前はメチャメチャ不安になる。	本番[LHHH] 前は[HLL] メチャメチャ[LHHH] 不安に[LHHH] なる[HL]	hoꜛmbam maꜜeβa meꜛʨameʨa ɸɯꜛaɲɲi naꜜɾɯ.
+6/6	RECITATION324_096	展示会であの作品のみ不評だった。	展示会で[LHHLLL] あの[LH] 作品のみ[LHHHHL] 不評だった[LHHHHH]	teꜛɲʥiꜜkaide aꜛno saꜛkɯçinnoꜜmʲi ɸɯꜛçoːdaʔtaꜜ.
+5/5	RECITATION324_099	こんな冗談のようなニュースはない。	こんな[LHH] 冗談の[LHHLL] ような[HLL] ニュースはない[HLLLLL]	koꜛnna ʥoꜛːdaꜜnno joꜜːna ɲɨꜜːsɨβanai.
+10/10	RECITATION324_114	彼は今度は牧場へ行って、沼地で小悪魔の尻尾一つ見つけました。	彼は[HLL] 今度は[HLLL] 牧場へ[LHHHH] 行って[LHH] 沼地で[LHHH] 小悪魔の[LHLLL] 尻尾一つ[LHHHHL] 見つけました[LHHHLL]	kaꜜɾeβa koꜜndoβa boꜛkɯʥoːe iꜛʔte, nɯꜛmaʨide koꜛaꜜkɯmano ɕiꜛʔpoçitoꜜʦɨ mʲiꜛʦɨkemaꜜɕita.
+5/5	RECITATION324_118	アンソニー・ホプキンスは有名な俳優です。	アンソニー[HLLLL] ホプキンスは[HLLLLL] 有名な[LHHHH] 俳優です[LHHHHL]	aꜜɴsoɲiː hoꜜpɯkʲiɴsɨβa jɯꜛːmeːna haꜛijɯːdeꜜsɨ.
+5/5	RECITATION324_125	私はイメージカラーをピンクに決めた。	私は[LHHH] イメージカラーを[LHHHHLLL] ピンクに[HLLL] 決めた[LHH]	βaꜛtaɕiβa iꜛmeːʥikaꜜɾaːo pʲiꜜŋkɯɲi kʲiꜛmetaꜜ.
+3/3	RECITATION324_126	ムニャムニャ、もう食べれません。	ムニャムニャ[HLLL] もう[HL] 食べれません[LHHHHL]	mɯꜜɲamɯɲa, moꜜː taꜛbeɾemaseꜜɴ.
+4/4	RECITATION324_129	願いをかなえる。	願いを[LHLL] かなえる[LHHL]	neꜛɡaꜜio kaꜛnaeꜜɾɯ.
+5/5	RECITATION324_131	ペピス爺さんはもう寝るらしい。	ペピス爺さんは[LHHHLLLL] もう[HL] 寝るらしい[LHHHL]	peꜛpʲisɨʥiꜜːsaɴβa moꜜː neꜛɾɯɾaɕiꜜi.
+8/8	RECITATION324_140	ハサミでプツッと切った切れ端をペットにあげた。	ハサミで[LHHL] プ[H] ツッと[HLL] 切った[HLL] 切れ端を[LHHHH] ペットに[HLLL] あげた[LHL]	haꜛsamʲiꜜde pɯꜜ ʦɨꜜʔto kʲiꜜʔta kʲiꜛɾehaɕio peꜜʔtoɲi aꜛɡeꜜta.
+3/3	RECITATION324_141	ホームランを打つ。	ホームランを[LHHLLL] 打つ[HL]	hoꜛːmɯꜜɾaɴo ɯꜜʦɨ.
+5/5	RECITATION324_149	可愛い華奢な女の子。	可愛い[LHHL] 華奢な[LHH] 女の子[LHHLL]	kaꜛβaiꜜi kʲaꜛɕana oꜛnnaꜜnoko.
+4/4	RECITATION324_155	下京区に引っ越す。	下京区に[LHHHLL] 引っ越す[LHHL]	ɕiꜛmoɡʲoːꜜkɯɲi çiꜛʔkoꜜsɨ.
+3/3	RECITATION324_169	勉強中は話しかけないで。	勉強中は[LHHHHHH] 話しかけないで[LHHHHLLL]	beꜛŋkʲoːʨɨːβa haꜛnaɕikakeꜜnaide.
+4/4	RECITATION324_170	レパードの花壇が枯れ果てた。	レパードの[LHHLL] 花壇が[HLLL] 枯れ果てた[LHHHH]	ɾeꜛpaːꜜdono kaꜜdaŋɡa kaꜛɾehatetaꜜ.
+4/4	RECITATION324_171	蒸留酒にミョウバンを加える。	蒸留酒に[LHHLLL] ミョウバンを[LHHHH] 加える[LHHL]	ʥoꜛːɾʲɨꜜːɕɨɲi mʲoꜛːbaɴo kɯꜛβaeꜜɾɯ.
+4/4	RECITATION324_177	葉巻パイプはありましたか。	葉巻パイプは[LHHHLLL] ありましたか[LHHLLL]	haꜛmakʲipaꜜipɯβa aꜛɾʲimaꜜɕitaka.
+5/5	RECITATION324_184	バーニ医師がピシッと答えた。	バー二医師が[LHHLLL] ピシッと[LHLL] 答えた[LHLL]	baꜛːɲiꜜiɕiɡa pʲiꜛɕiꜜʔto koꜛtaꜜeta.
+4/4	RECITATION324_188	過酷な業務に耐える。	過酷な[LHHH] 業務に[HLLL] 耐える[LHL]	kaꜛkokɯna ɡʲoꜜːmɯɲi taꜛeꜜɾɯ.
+6/6	RECITATION324_193	セファドールはめまいを抑える薬です。	セファドールは[LHHLLL] めまいを[LHLL] 抑える[LHHL] 薬です[LHHHL]	seꜛɸadoꜜːɾɯβa meꜛmaꜜio oꜛsaeꜜɾɯ kɯꜛsɨɾʲideꜜsɨ.
+10/10	RECITATION324_195	深海魚は見た目は悪いがおいしいことが多い。	深海魚は[LHHLLL] 見た目は[LHHH] 悪いが[LHLL] おいしい[LHHL] ことが[LHL] 多い[HLL]	ɕiꜛŋkaꜜiɡʲoβa mʲiꜛtameβa βaꜛɾɯꜜiɡa oꜛiɕiꜜi koꜛtoꜜɡa oꜜːi.
+4/4	RECITATION324_201	最新鋭機に乗り込む。	最新鋭機に[LHHHHHLL] 乗り込む[LHHL]	saꜛiɕiɴeːꜜkʲiɲi noꜛɾʲikoꜜmɯ.
+6/6	RECITATION324_205	薄月の光が庭を照らす。	薄月の[LHLLL] 光が[LHHL] 庭を[LHH] 照らす[LHH]	ɯꜛsɨꜜʦɨkʲino çiꜛkaɾʲiꜜɡa ɲiꜛβao teꜛɾasɨ.
+4/4	RECITATION324_213	批評ばかりでなく対案も出すべき。	批評ばかりでなく[LHHHHHHLL] 対案も[LHHHH] 出すべき[HLLL]	çiꜛçoːbakaɾʲideꜜnakɯ taꜛiammo daꜜsɨbekʲi.
+3/3	RECITATION324_218	地毛は金色なんです。	地毛は[LHH] 金色な[LHHHH] んです[HLL]	ʥiꜛɡeβa kʲiꜛɴiɾona nꜜdesɨ.
+1/1	RECITATION324_244	がちょうを飼う。	がちょうを[LHHH] 飼う[HL]	ɡaꜛʨoːo kaꜜɯ.
+3/3	RECITATION324_261	臆病者が逃げ出した。	臆病者が[LHHHHHH] 逃げ出した[LHHLL]	oꜛkɯbʲoːmonoɡa ɲiꜛɡedaꜜɕita.
+4/4	RECITATION324_265	この人よりぞ始まりける。	この[LH] 人よりぞ[LHHLL] 始まりける[LHHHHL]	koꜛno çiꜛtojoꜜɾʲiʣo haꜛʥimaɾʲikeꜜɾɯ.
+7/7	RECITATION324_266	中学生の時、避暑旅行中に体調を崩した。	中学生の[LHHLLLL] 時[LH] 避暑旅行中に[LHHHHHHH] 体調を[LHHHH] 崩した[LHLL]	ʨɨꜛːɡaꜜkɯseːno toꜛkʲiꜜ, çiꜛɕoɾʲokoːʨɨːɲi taꜛiʨoːo kɯꜛzɨꜜɕita.
+5/5	RECITATION324_273	排球はバレーボールの事です。	排球は[LHHHH] バレーボールの[LHHHLLL] 事です[LHLL]	haꜛikʲɨːβa baꜛɾeːboꜜːɾɯno koꜛtoꜜdesɨ.
+2/2	RECITATION324_288	ブレンドデョート。ラーテャン。	ブレンドデョート[LHHHHHH] ラーテャン[HLLL]	bɯꜛɾendodjoːto. ɾaꜜːtjaɴ.
+0/0	RECITATION324_289	あっあの。いっいえ。えっえぇ。おっおい。んーとね。	あっあの[LHLL] いっいえ[LHLL] えっえぇ[LHL] おっおい[LHLL] んーとね[LHHH]	aꜛʔꜜano. iꜛʔꜜie. eꜛʔꜜe. oꜛʔꜜoi. ɴꜛːtone.
+7/7	RECITATION324_303	キュキュッと鳴らした靴でパスを出した。	キュキュッと[LHLL] 鳴らした[LHHH] 靴で[LHL] パスを[HLL] 出した[HLL]	kʲɨꜛkʲɨꜜʔto naꜛɾaɕitaꜜ kɯꜛʦɨꜜde paꜜsɨo daꜜɕita.
+6/6	RECITATION324_307	ほとんどの被調査者は、写真を車載した。	ほとんどの[LHLLL] 被調査者は[LHHHHH] 写真を[LHHH] 車載[LHH] した[LH]	hoꜛtoꜜndono çiꜛʨoːsaɕaβa, ɕaꜛɕiɴo ɕaꜛsai ɕiꜛtaꜜ.
+3/3	accent_0010	包丁で野菜を細かく切る。	包丁で[LHHHH] 野菜を[LHHH] 細かく切る[LHHLLL]	hoꜛːʨoːde jaꜛsaio koꜛmakaꜜkɯkʲiɾɯ.
+5/5	accent_0027	城の天守閣から町が見渡せる。	城の[LHH] 天守閣から[LHHLLLL] 町が[LHL] 見渡せる[LHHHH]	ɕiꜛɾono teꜛɴɕɨꜜkakɯkaɾa maꜛʨiꜜɡa mʲiꜛβataseɾɯ.
+7/7	accent_0029	彼は強い意志を持って挑戦を続けた。	彼は[HLL] 強い[LHL] 意志を[HLL] 持って[HLL] 挑戦を[LHHHH] 続けた[LHHH]	kaꜜɾeβa ʦɨꜛjoꜜi iꜜɕio moꜜʔte ʨoꜛːseɴo ʦɨꜛzɨketaꜜ.
+4/4	accent_0034	高校の友達と久しぶりに会った。	高校の[LHHHH] 友達と[LHHHH] 久しぶりに[LHHHHH] 会った[HLL]	koꜛːkoːno toꜛmodaʨito çiꜛsaɕibɯɾʲiɲi aꜜʔta.
+5/5	accent_0057	お母さんに手紙を書きました。	お母さんに[LHLLLL] 手紙を[LHHH] 書きました[LHHLL]	oꜛkaꜜːsaɲɲi teꜛɡamʲio kaꜛkʲimaꜜɕita.
+6/6	accent_0064	頭が痛いので今日は早く寝ます。	頭が[LHHL] 痛いので[LHLLL] 今日は[HLL] 早く寝ます[LHHHHL]	aꜛtamaꜜɡa iꜛtaꜜinode kʲoꜜːβa haꜛjakɯnemaꜜsɨ.
+4/4	accent_0071	一緒にお昼を食べませんか？	一緒に[LHHH] お昼を[LHLL] 食べませんか[LHHHLL]	iꜛʔɕoɲi oꜛçiꜜɾɯo taꜛbemaseꜜŋka?
+5/5	accent_0072	もう晩ご飯は食べましたか？	もう[HL] 晩[LH] ご飯は[HLLL] 食べましたか[LHHLLL]	moꜜː baꜛŋ ɡoꜜhaɴβa taꜛbemaꜜɕitaka?
+4/4	accent_0075	手紙を書いて送りました。	手紙を[LHHH] 書いて[HLL] 送りました[LHHHLL]	teꜛɡamʲio kaꜜite oꜛkɯɾʲimaꜜɕita.
+5/5	accent_0076	毎晩寝る前に本を読む。	毎晩[HLLL] 寝る[LH] 前に[HLL] 本を[HLL] 読む[HL]	maꜜiban neꜛɾɯ maꜜeɲi hoꜜɴo joꜜmɯ.
+5/5	accent_0085	声が小さくて聞こえませんでした。	声が[HLL] 小さくて[LHHLL] 聞こえませんでした[LHHHHLLLL]	koꜜeɡa ʨiꜛːsaꜜkɯte kʲiꜛkoemaseꜜndeɕita.
+7/7	accent_0097	白くて柔らかいパンが好きです。	白くて[LHLL] 柔らかい[LHHHL] パンが[HLL] 好きです[LHLL]	ɕiꜛɾoꜜkɯte jaꜛβaɾakaꜜi paꜜŋɡa sɨꜛkʲiꜜdesɨ.
+6/6	accent_0100	大阪城公園をのんびり散歩した。	大阪城公園を[LHHHHHHLLLL] のんびり[LHHL] 散歩[LHH] した[LH]	oꜛːsakaʥoːkoꜜːeɴo noꜛmbʲiꜜɾʲi saꜛmpo ɕiꜛtaꜜ.
+6/6	accent_0116	一日に二リットルの水を飲む。	一日に[LHHHL] 二リットルの[LHLLLL] 水を[LHH] 飲む[HL]	iꜛʨiɲiʨiꜜɲi ɲiꜛɾʲiꜜʔtoɾɯno mʲiꜛzɨo noꜜmɯ.
+6/6	accent_0119	自動販売機で温かいお茶を買った。	自動販売機で[LHHHHHHLL] 温かい[LHHHL] お茶を[LHH] 買った[LHH]	ʥiꜛdoːhambaiꜜkʲide aꜛtatakaꜜi oꜛʨao kaꜛʔtaꜜ.
+7/7	accent_0121	月曜日から金曜日まで働いています。	月曜日から[LHHLLLL] 金曜日まで[LHHLLLL] 働いて[LHHHH] います[LHL]	ɡeꜛʦɨjoꜜːbʲikaɾa kʲiꜛɴjoꜜːbʲimade haꜛtaɾaite iꜛmaꜜsɨ.
+3/3	accent_0124	本当にそれでいいの？	本当に[LHHHH] それで[LHH] いいの[HLL]	hoꜛntoːɲiꜜ soꜛɾede iꜜino?
+4/4	accent_0127	明日は晴れるかな？	明日は[LHHL] 晴れるかな[LHLLL]	aꜛɕitaꜜβa haꜛɾeꜜɾɯkana?
+3/3	accent_0128	え、もう終わったの？	え[H] もう[HL] 終わったの[LHHHL]	eꜜ, moꜜː oꜛβaʔtaꜜno?
+5/5	accent_0129	大丈夫？顔色が悪いよ。	大丈夫[LHHLL] 顔色が[LHHHH] 悪いよ[LHLL]	daꜛiʥoꜜːbɯ? kaꜛoiɾoɡa βaꜛɾɯꜜijo.
+3/3	accent_0132	いいね、それにしよう。	いいね[HLL] それに[LHH] しよう[LHH]	iꜜine, soꜛɾeɲi ɕiꜛjoː.
+3/3	accent_0133	そうなんだ、知らなかった。	そうな[LHH] んだ[HL] 知らなかった[LHHHHH]	soꜛːna nꜜda, ɕiꜛɾanakaʔtaꜜ.
+3/3	accent_0135	まさか、信じられない。	まさか[HLL] 信じられない[LHHHHLL]	maꜜsaka, ɕiꜛɲʥiɾaɾeꜜnai.
+3/3	accent_0137	ごめんね、遅くなって。	ごめんね[LHHH] 遅くなって[LHLLLL]	ɡoꜛmenne, oꜛsoꜜkɯnaʔte.
+3/3	accent_0138	おはようございます、今日もよろしくお願いします。	おはようございます[LHHHHHHHL] 今日も[HLL] よろしくお願いします[LHHHHHHHHHL]	oꜛhajoːɡoʣaimaꜜsɨ, kʲoꜜːmo joꜛɾoɕikɯoneɡaiɕimaꜜsɨ.
+4/4	accent_0141	いらっしゃいませ、何名様ですか？	いらっしゃいませ[LHHHHHL] 何名様ですか[LHLLLLLLL]	iꜛɾaʔɕaimaꜜse, naꜛmꜜmeːsamadesɨka?
+4/4	accent_0143	かしこまりました、すぐにお持ちします。	かしこまりました[LHHHHHLL] すぐに[HLL] お持ちします[LHHHHL]	kaꜛɕikomaɾʲimaꜜɕita, sɨꜜɡɯɲi oꜛmoʨiɕimaꜜsɨ.
+2/2	accent_0149	まあ、仕方ないよね。	まあ[HL] 仕方ないよね[LHHHHHH]	maꜜː, ɕiꜛkatanaijone.
+2/2	accent_0156	もしもし、聞こえますか？	もしもし[HLLL] 聞こえますか[LHHHLL]	moꜜɕimoɕi, kʲiꜛkoemaꜜsɨka?
+2/2	accent_0158	いいえ、違います。	いいえ[LHH] 違います[LHHHL]	iꜛːeꜜ, ʨiꜛɡaimaꜜsɨ.

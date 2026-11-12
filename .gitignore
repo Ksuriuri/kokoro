@@ -169,3 +169,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.env
+
+# ja_accent finetuning outputs
+runs/
+export/
+smoke_out/
+
+# raw recordings stay local; only the prepared dataset (data/prep) is committed
+data/new_data/
+data/raw_data/
+data/raw_wav/
+data/raw_split/
+data/metadata.tsv
+.DS_Store

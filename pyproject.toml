@@ -36,3 +36,13 @@ only-packages = true
 [project.urls]
 Homepage = "https://github.com/hexgrad/kokoro"
 Repository = "https://github.com/hexgrad/kokoro"
+
+[project.optional-dependencies]
+ja = [
+    "misaki[ja]>=0.9.4",
+]
+ja-train = [
+    "pyworld>=0.3.4",
+    "soundfile>=0.14.0",
+    "torchaudio>=2.6,<2.9",
+]
